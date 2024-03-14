@@ -1,13 +1,13 @@
 ---
-date_created: "[[2022-11-21|21 November 2022, Monday]]"
-date_modified: "[[2023-04-24|24 April 2023, Monday]]"
+created: "[[2022-11-21|21 November 2022, Mon]]"
 cssclasses: wtsa
 date: 2023-04-24
+date_created: "[[2022-11-21|21 November 2022, Monday]]"
+date_modified: "[[2023-04-24|24 April 2023, Monday]]"
 link_href: https://www.scriptslug.com/script/raya-and-the-last-dragon-2021
 link_label: "Raya and the Last Dragon – Script Slug"
 wtsa_categories: 🎬 Film Reviews
 ---
-
 # Disney's Raya – Cultural Review
 
 In line with Hari Raya weekend here in Malaysia, here's my thoughts on Disney's Raya and the Last Dragon. I originally intended to do a TV Series Pitch, as many agree it would've been better as an episodic format, like Avatar: The Last Airbender.
@@ -245,7 +245,7 @@ It would be WAY cooler if every tribe's gem piece should be incorporated uniquel
 - Naamari's dragon pendant for Fang, embedded on top of Virana's (Naamari's mom) scepter (perhaps like a [trishula](https://en.wikipedia.org/wiki/Trishula)?) Whose tip can be unattached and become a [tekpi/chabang](https://en.wikipedia.org/wiki/Tekpi)?
 - I was today years old when I learnt the [karambit](https://en.wikipedia.org/wiki/Karambit) is a SEA thing. It's literally a Talon. Perfect for close-quarters swindling thieves.
 - A gem-tipped bamboo spear for Spine, magically unbreakable—bamboo is literally used in [tongkat/toya/lembing silat](https://www.youtube.com/watch?v=mVDpbVJ8rBU)
-- Tail's the most underdeveloped story-wise, so they could have anything, rehttps://en.wikipedia.org/wiki/Celuritally. But look at this beautiful [kujang](https://en.wikipedia.org/wiki/Kujang_(weapon)). Though if Tail's main industry were to be agriculture, the [celurit/sabit](https://en.wikipedia.org/wiki/Celurit) is another culturally-beautiful weapon/tool.
+- Tail's the most underdeveloped story-wise, so they could have anything, <rehttps://en.wikipedia.org/wiki/Celuritally>. But look at this beautiful [kujang](https://en.wikipedia.org/wiki/Kujang_(weapon)). Though if Tail's main industry were to be agriculture, the [celurit/sabit](https://en.wikipedia.org/wiki/Celurit) is another culturally-beautiful weapon/tool.
 
 Then, as each member of the gang use a Gem Piece to fight off the Druun, they can actually incorporate expert combat skills and unique fighting styles.
 

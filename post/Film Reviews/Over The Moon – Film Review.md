@@ -14,7 +14,6 @@ light_theme_color: "#65ab99"
 wtsa_categories:
   - 🎬 Film Reviews
 ---
-
 # Over The Moon – Film Review
 
 A friend (#2, for you long-timers) had told me about a Chinese-culture based animated musical on Netflix, based on the mooncake folktale. As a Chinese, this show would be either hit or miss.

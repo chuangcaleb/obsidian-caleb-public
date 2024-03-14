@@ -13,7 +13,7 @@ What’s harder than walking on a tightrope? Two people dancing on a tightrope. 
 
 At first viewing, this song didn’t stand out for me. (In fact, it was THAT song from a musical that you just don’t remember.) After all, the glitter and glam were with the circus storyline. But now that I’ve started this analysis, I realise that this song is perhaps the most important puzzle piece in the bigger picture.
 
-### Tightrope
+## Lyric Analysis
 
 **Some people long for a life that is simple and planned**
 

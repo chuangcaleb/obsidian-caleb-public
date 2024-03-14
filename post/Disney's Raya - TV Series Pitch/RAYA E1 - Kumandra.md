@@ -4,7 +4,7 @@ created: "[[2023-09-21|21 September 2023, Thu]]"
 cssclasses:
   - img-grid
 quickshare-date: 2023-11-30 07:40:08
-quickshare-url: "https://noteshare.space/note/clpketa1r3312401mw4o16547u#f7VIGqBlNhcFn5m0aFfpxAVhNIAQeD1taHGynhQp4SE"
+quickshare-url: https://noteshare.space/note/clpketa1r3312401mw4o16547u#f7VIGqBlNhcFn5m0aFfpxAVhNIAQeD1taHGynhQp4SE
 ---
 # RAYA E1 - Kumandra
 

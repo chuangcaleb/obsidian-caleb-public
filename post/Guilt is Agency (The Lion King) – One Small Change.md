@@ -1,19 +1,19 @@
 ---
-quickshare-date: 2023-09-15 14:07:28
-quickshare-url: https://noteshare.space/note/clmk76nox1910701mw4a2os1h7#7ETj+q4lZ8q+/5rXbpSEkBvSWBFX/AxEUckImbBcS2c
-date_created: "[[2022-11-18|18 November 2022, Friday]]"
-date_modified: "[[2023-06-26|26 June 2023, Monday]]"
+created: "[[2022-11-18|18 November 2022, Fri]]"
 cssclasses:
   - wtsa
 dark_theme_color: "#fd7c52"
 date: 2022-11-28
+date_created: "[[2022-11-18|18 November 2022, Friday]]"
+date_modified: "[[2023-06-26|26 June 2023, Monday]]"
 light_theme_color: "#a34325"
 link_href: https://www.scriptslug.com/assets/scripts/the-lion-king-1994.pdf
 link_label: The Lion King Script – Script Slug
+quickshare-date: 2023-09-15 14:07:28
+quickshare-url: https://noteshare.space/note/clmk76nox1910701mw4a2os1h7#7ETj+q4lZ8q+/5rXbpSEkBvSWBFX/AxEUckImbBcS2c
 wtsa_categories: 🔧 One Small Change
 ---
-
-# Simba Is Guilty (The Lion King) – One Small Change
+# Guilt is Agency (The Lion King) – One Small Change
 
 If there's one small change that I could make to The Lion King, perhaps it could've been in the live-action remake or stage musical, it would be this: Simba's pride directly caused…
 
@@ -512,21 +512,26 @@ Let's review the highlights of this small change to the climax: with `Simba's se
 
 Simba could have chosen his next action from the following philosophies/strategies that he has learnt thus far:
 
-1. Challenge Scar on the basis that physical strength (or rather, *effort*) makes up for and negates his past mistake
- - Simba's philosophy of **brute force**
-  - which previously caused his father's death
- - "I made a mistake because I wasn't physically strong enough before—so ASAP, I need to *cover up* that mistake by attaining a *greater* victory by brute force! Sparta!!!"
- - → Simba would overpower Scar, but the lionesses wouldn't back a king who usurped the throne — Simba would be just like Scar.
-1. Run away to the wilderness again, now that everyone knows his mistake
- - Simba's later philosophy of **defeatist avoidance**
-  - which previously caused Simba to self-exile
- - "(If they knew the truth about my past? It'd be impossible to be taken back, they'd turn away from me. So just don't bother trying. Okay, Scar, I give up, you win again."
- - → Simba would abdicate the throne, and Scar would continue his reign of tyranny
-1. Dismiss his past failure, that Mufasa's death doesn't really matter, that they have to look forward and not back.
- - Timon and Pumbaa's philosophy of **blind nihilism**
-  - which previously caused Simba to stay in exile and never return
- - "My mistakes may have killed my father, the king. But Mom, Nala, don't worry about it! It's in the past, you can't change it, it doesn't matter! What are *consequences of responsibility*?"
- - → Simba would overpower Scar, but the animials adored Mufasa and they wouldn't back Simba if he were to treat every royal mistake like it was nothing. Scar would also argue, besides, if it all really meant nothing, then the throne also shouldn't matter to Simba.
+**1. Challenge Scar on the basis that physical strength (or rather, *effort*) makes up for and negates his past mistake**
+
+- Simba's philosophy of **brute force**
+	- which previously caused his father's death
+- "I made a mistake because I wasn't physically strong enough before—so ASAP, I need to *cover up* that mistake by attaining a *greater* victory by brute force! Sparta!!!"
+- → Simba would overpower Scar, but the lionesses wouldn't back a king who usurped the throne — Simba would be just like Scar.
+
+**2. Run away to the wilderness again, now that everyone knows his mistake**
+
+- Simba's later philosophy of **defeatist avoidance**
+	- which previously caused Simba to self-exile
+- "(If they knew the truth about my past? It'd be impossible to be taken back, they'd turn away from me. So just don't bother trying. Okay, Scar, I give up, you win again."
+- → Simba would abdicate the throne, and Scar would continue his reign of tyranny
+
+**3. Dismiss his past failure, that Mufasa's death doesn't really matter, that they have to look forward and not back**
+
+- Timon and Pumbaa's philosophy of **blind nihilism**
+	- which previously caused Simba to stay in exile and never return
+- "My mistakes may have killed my father, the king. But Mom, Nala, don't worry about it! It's in the past, you can't change it, it doesn't matter! What are *consequences of responsibility*?"
+- → Simba would overpower Scar, but the animials adored Mufasa and they wouldn't back Simba if he were to treat every royal mistake like it was nothing. Scar would also argue, besides, if it all really meant nothing, then the throne also shouldn't matter to Simba.
 
 `Instead, Simba learns from his mistakes, and owns up. ("Yes, mistakes were made. Yes, I am guilty. No, I've no excuse.")` Then, `Simba also claims responsiblity for not returning back all these years—while also giving a tone of sympathy ("My pride killed me, too"). Furthermore, he felt that his family/pride wouldn't take him back in after his error.`
 
@@ -607,8 +612,8 @@ Nope. Wrong again. He's alive!
 Just like Raifiki did before, `Simba would bring up to Scar that Mufasa is alive.` This means:
 
 1. Scar's claim to the throne is forfeit and null.
-3. Scar's philosophy of cunning/deception over Mufasa's innocence/genuineness does not prevail, and never has.
-2. Scar's attempt to erase Mufasa's legacy is foiled—Mufasa's legacy can't be killed.
+2. Scar's philosophy of cunning/deception over Mufasa's innocence/genuineness does not prevail, and never has.
+3. Scar's attempt to erase Mufasa's legacy is foiled—Mufasa's legacy can't be killed.
 4. Scar's own legacy will not last—his own legacy *can* and *was* killed.
 
 Furthermore, `Simba announces that Mufasa lives *in* him.` It could be said before this climax that Mufasa may have been *superficially* in Simba, implicitly by Simba being his birth child and having Mufasa's mere DNA. But Mufasa's character was never really *alive* in Simba amidst all of Simba's arrogance and pride. Until now. Now, you look at Simba, and you unmistakably see Mufasa. Now, Mufasa is alive in Simba.
