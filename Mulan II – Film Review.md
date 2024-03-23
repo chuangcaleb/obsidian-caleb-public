@@ -1,4 +1,5 @@
 ---
+up: "[[Film Reviews]]"
 wtsa_categories: [🌸 Mulan II, 🎬 Film Reviews]
 date: 2021-09-05
 aliases: Mulan II

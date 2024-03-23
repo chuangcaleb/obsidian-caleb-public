@@ -1,4 +1,5 @@
 ---
+up: "[[Film Reviews]]"
 aliases: Mulan II Rewrite
 created: "[[2022-08-07|07 August 2022, Sun]]"
 cssclasses: wtsa
