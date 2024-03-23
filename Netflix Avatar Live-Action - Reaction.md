@@ -1,15 +1,17 @@
 ---
-quickshare-date: 2024-02-25 23:54:14
-quickshare-url: https://noteshare.space/note/clt1ox31p063101mwhbimtx3u#ctWFspJS1/JJSGBrHiUeQ1uBeyJ7LS9ZH2CFxNQC4jc
 up:
   - "[[! 🎭 Story]]"
+created: "[[2024-02-25|25 February 2024, Sun]]"
+modified: "[[2024-03-23|23 March 2024, Sat]]"
 public: true
+quickshare-date: 2024-02-25 23:54:14
+quickshare-url: https://noteshare.space/note/clt1ox31p063101mwhbimtx3u#ctWFspJS1/JJSGBrHiUeQ1uBeyJ7LS9ZH2CFxNQC4jc
 ---
-# Avatar Live-Action Reflection
+# Netflix Avatar Live-Action - Reaction
 
 so far at least lol
 
-### Avatar E1
+## E1 - Aang
 
 - earthbending is really slow LOL the dust rises slowly
 - EW spelling out the avatar cycle and why Sozin went after the Air Nomads in narration exposition in the second scene
@@ -38,7 +40,7 @@ so far at least lol
 - oh Gran-Gran actually eventually says the intro thing
 	- but it misses the weight of Katara being the one to say it, “but I believe he can save us.”
 - ermmm acktually, the last time the Great Comet was seen in the sky was not 100 years ago — it was 98 years ago LOL but yea I get it', it’s estimation
-- Aang and Katara’s expressions of their homes’ genocides are so expressionless lol, they needed more anguish 
+- Aang and Katara’s expressions of their homes’ genocides are so expressionless lol, they needed more anguish
 	- Aang took it all in so fast, instead of the whole episode dedicated to his escapism
 - the fire nation ship is so closeby the village!
 - ah the fire nation ship just arrives, instead of Aang and Katara setting off flares
@@ -46,7 +48,7 @@ so far at least lol
 - Sokka is taller than the Fire Nation soldiers lol
 	- he’s not a tiny boy admiring his soldier manly dad — it does take away the punch
 - Zuko vs Sokka, he used his firebending — Zuko should’ve just taken him down without fire, he’s a good combatant
-- We’re missing Zuko vs Aang’s 1v1!! 
+- We’re missing Zuko vs Aang’s 1v1!!
 	- but it’s cool that once Aang steps up, the Water Tribe kids throw stones
 - ah Iroh’s holding cell convo with Aang, it’s already so clear which side he’s on
 	- probably not a necessary convo for screentime
@@ -57,7 +59,7 @@ so far at least lol
 	- yeah maybe this strength is actually a weakness? because we spend too much time in the past but not with the present characters
 - they write it like a drama instead of a kids animation — maybe since it’s so fast-paced, there’s no time for light downtime and character moments
 
-I think the Netflix series did not benefit from showing the Air Nomad genocide right away in E1. 
+I think the Netflix series did not benefit from showing the Air Nomad genocide right away in E1.
 
 1. Katara and Sokka introduced far too late for main characters
 2. Too much worldbuilding/cultures to take in right away
@@ -65,7 +67,7 @@ I think the Netflix series did not benefit from showing the Air Nomad genocide r
 
 looks cool tho. ig it’s a nice garnish. doesn’t work as an appetiser / the story hook. Could’ve been slipped in towards the end of the episode instead in flashbacks.
 
-### Avatar E2
+## E2 - Warriors
 
 - ah she gets the waterbending scroll from Gran-Gran instead of stealing from pirates LOL
 - market scene, Uncle Iroh being goofball

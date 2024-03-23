@@ -45,7 +45,7 @@ What’s interesting is that each truth is a statement that doesn’t make sense
 
 You could append an “Actually… when typically…” to each statement to get what I mean (e.g. Actually, you, the audience, want to be part of the show too, _when typically, the audience are just spectators_).
 
-> [[The Greatest Show Prologue – Analysis|The Greatest Show – Prologue]]
+> [[The Greatest Show (Prologue) – Analysis|The Greatest Show – Prologue]]
 >
 > You, the **audience**, want to be part of the show too.
 
@@ -85,7 +85,7 @@ You could append an “Actually… when typically…” to each statement to get
 >
 > Knowing you’re **lost** is the first step to getting found.
 
-> [[The Greatest Show Finale – Analysis|The Greatest Show – Finale]]
+> [[The Greatest Show (Finale) – Analysis|The Greatest Show – Finale]]
 >
 > The greatest show is sometimes the **less dazzling** one.
 

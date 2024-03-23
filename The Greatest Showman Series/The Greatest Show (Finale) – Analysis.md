@@ -4,7 +4,7 @@ jekyllcss: showman
 date: 2020-03-28
 ---
 
-# The Greatest Show Finale – Analysis
+# The Greatest Show (Finale) – Analysis
 
 Like real-life circus shows, the most stunning act is saved for last, to leave audiences with a last and lasting impression.
 
@@ -146,7 +146,7 @@ Like real-life circus shows, the most stunning act is saved for last, to leave a
 
 > In a “[We Will Rock You](https://www.youtube.com/watch?v=-tJYN-eG1zk)” fashion, only the rhythm remains and even the audience can join in the song.
 >
-> It’s also a callback to the [[The Greatest Show Prologue – Analysis|the start of the prologue]], where there’s no “music”, but only human instruments.
+> It’s also a callback to the [[The Greatest Show (Prologue) – Analysis|the start of the prologue]], where there’s no “music”, but only human instruments.
 
 > V: Barnum ironically runs _away_ from the coloured lights into the dim backstage…
 
@@ -316,13 +316,13 @@ Dreams vs Reality
 
 - Where the [The Greatest Show (Prologue)](The Greatest Show Prologue – Analysis) has Barnum singing virtually all the lead parts, this reprise has the background singers singing the lead lyrics and even harmony –you can’t even make out Barnum’s voice in some places of the song.
 
-- In the same vein, while the camera mostly focuses on Barnum in the [[The Greatest Show Prologue – Analysis|intro]]; in the finale, we get solo shots of so many individual people, most who we now know personally through their stories — and even shots of some unnamed cast.
+- In the same vein, while the camera mostly focuses on Barnum in the [[The Greatest Show (Prologue) – Analysis|intro]]; in the finale, we get solo shots of so many individual people, most who we now know personally through their stories — and even shots of some unnamed cast.
 
 - Just listening and comparing to both songs, this finale song has more/extra instruments and is more musically intricate with electric guitar and synths
 
 - There in fact seems to be twice the number of performers in the circus ring(s) at any given time, and a much greater variety of different performances and animals.
 
-- In the [[The Greatest Show Prologue – Analysis|opener]], as the bridge ends and music fades, Barnum shakes awake to boring reality. In this finale, during the bridge, the music fades, but he’s never been more real in his entire life.
+- In the [[The Greatest Show (Prologue) – Analysis|opener]], as the bridge ends and music fades, Barnum shakes awake to boring reality. In this finale, during the bridge, the music fades, but he’s never been more real in his entire life.
 
 - In both the opener and the finale, Barnum never sings the last line, “This is where you wanna be,” in the opener, the last line is never completed and we properly start the narrative as young hungry Barnum; BUT in the finale, he doesn’t need to complete the lyric, and that’s where we conclude the narrative: with Barnum filled & fulfilled.
 

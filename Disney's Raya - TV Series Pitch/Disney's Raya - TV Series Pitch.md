@@ -26,6 +26,10 @@ quickshare-url: "https://noteshare.space/note/clpgwxhcm2551701mwjz0siubf#RODUMhc
 	- Present!Raya says she was betrayed, in the episode for the audience, before past-Raya was betrayed
 	- It's mentioned in the present that Heart is in ruins, and that’s narratively arranged right before Namaari’s betrayal in the past
 
+#### Trust
+
+On [[2024-03-23]], I found this website [The Evolution of Trust](https://ncase.me/trust/): that shows different strategies and environments for trust/distrust. I thought it’s really cool. 
+
 ### Skip the Prologue
 
 - Let's rework the opening narration scene. Unless Raya had someone to explain Kumandra to?

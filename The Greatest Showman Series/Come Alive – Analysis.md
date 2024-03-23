@@ -241,7 +241,7 @@ I feel like there was a moment in production where “The Greatest Show” was s
 > 2. Oddities are overshadowed by people of social status
 > 3. The audience are invited to come out of the shadow of their seats (as I was) and to inhabit the circus ring
 
-> The circus Oddities, and not Barnum, are now the ones giving the call to the audience: [[The Greatest Show Prologue – Analysis|The Greatest Show's intro]] dream is becoming real
+> The circus Oddities, and not Barnum, are now the ones giving the call to the audience: [[The Greatest Show (Prologue) – Analysis|The Greatest Show's intro]] dream is becoming real
 
 **You and me, we know how that goes**
 
