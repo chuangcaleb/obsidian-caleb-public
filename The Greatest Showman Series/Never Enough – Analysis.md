@@ -1,8 +1,10 @@
 ---
-aliases: Never Enough
+aliases:
+  - Never Enough
 wtsa_categories: 🎪 The Greatest Showman Series
 jekyllcss: showman
 date: 2019-12-20
+up: "[[The Greatest Showman Series]]"
 ---
 
 # Never Enough – Analysis

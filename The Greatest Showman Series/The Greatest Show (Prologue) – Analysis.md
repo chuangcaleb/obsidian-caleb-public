@@ -1,10 +1,11 @@
 ---
-tags: [2]
+tags: 
 date_created: "[[2022-08-07|07 August 2022, Sunday]]"
 date_modified: "[[2023-07-01|01 July 2023, Saturday]]"
 date: 2019-11-01
 jekyllcss: showman
 wtsa_categories: 🎪 The Greatest Showman Series
+up: "[[The Greatest Showman Series]]"
 ---
 
 # The Greatest Show (Prologue) – Analysis

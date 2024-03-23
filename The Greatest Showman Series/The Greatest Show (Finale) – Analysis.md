@@ -2,6 +2,8 @@
 wtsa_categories: 🎪 The Greatest Showman Series
 jekyllcss: showman
 date: 2020-03-28
+up:
+  - "[[The Greatest Showman Series]]"
 ---
 
 # The Greatest Show (Finale) – Analysis

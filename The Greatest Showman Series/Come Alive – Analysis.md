@@ -1,8 +1,11 @@
 ---
-aliases: Come Alive
+aliases:
+  - Come Alive
 wtsa_categories: 🎪 The Greatest Showman Series
 jekyllcss: showman
 date: 2019-11-15
+up:
+  - "[[The Greatest Showman Series]]"
 ---
 
 # Come Alive – Analysis

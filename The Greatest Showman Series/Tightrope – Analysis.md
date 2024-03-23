@@ -1,4 +1,5 @@
 ---
+up: "[[The Greatest Showman Series]]"
 aliases: Tightrope
 wtsa_categories: 🎪 The Greatest Showman Series
 jekyllcss: showman

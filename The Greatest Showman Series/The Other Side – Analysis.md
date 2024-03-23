@@ -1,4 +1,5 @@
 ---
+up: "[[The Greatest Showman Series]]"
 aliases: The Other Side
 wtsa_categories: 🎪 The Greatest Showman Series
 jekyllcss: showman

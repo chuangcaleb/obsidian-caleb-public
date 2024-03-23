@@ -1,8 +1,10 @@
 ---
-aliases: From Now On
+aliases:
+  - From Now On
 wtsa_categories: 🎪 The Greatest Showman Series
 jekyllcss: showman
 date: 2020-03-20
+up: "[[The Greatest Showman Series]]"
 ---
 
 # From Now On – Analysis

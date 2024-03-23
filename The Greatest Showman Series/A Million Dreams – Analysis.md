@@ -1,8 +1,11 @@
 ---
-aliases: A Million Dreams
+aliases:
+  - A Million Dreams
 wtsa_categories: 🎪 The Greatest Showman Series
 jekyllcss: showman
 date: 2019-11-8
+up:
+  - "[[The Greatest Showman Series]]"
 ---
 
 # A Million Dreams – Analysis
