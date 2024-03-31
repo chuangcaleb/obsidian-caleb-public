@@ -1,12 +1,15 @@
 ---
-up: "[[Film Reviews]]"
+up:
+  - "[[Film Reviews]]"
 wtsa_categories: 🎬 Film Reviews
 date: 2021-11-14
-aliases: Descendants 1
+aliases:
+  - Descendants 1
 light_theme_color: "#362ac3"
 dark_theme_color: "#837bd5"
-cssclasses: wtsa
-related: ["Descendants 2 – Film Review"]
+cssclasses:
+  - wtsa
+next: "[[Descendants 2 – Film Review]]"
 ---
 
 # Descendants 1 – Film Review
