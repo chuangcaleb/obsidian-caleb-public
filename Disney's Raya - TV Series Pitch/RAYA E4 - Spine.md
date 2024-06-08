@@ -8,7 +8,6 @@ prev: "[[RAYA E3 - Talon]]"
 
 - "The gem isn't a weapon!" Well now it really is made into weapons, and actually helps against Druun.
 - Spine does need their super-staff to survive, and are willing to give it up on Sisu's authenticity
-- some
 - [Jianzi](https://en.wikipedia.org/wiki/Jianzi) / đá cầu / sipa / capteh
 	- except it's like combat juggling
 	- each team has to keep "alive" their dacau, whilst trying to take down the other teams'

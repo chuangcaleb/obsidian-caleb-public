@@ -8,7 +8,7 @@ quickshare-url: https://noteshare.space/note/clpketa1r3312401mw4o16547u#f7VIGqBl
 ---
 # RAYA E1 - Kumandra
 
-## Episode 1 - Kumandra
+## Episode 1 - Kumandra Divided
 
 > Theme: The untrusting world of Kumandra - Past, Present, Future
 
@@ -23,20 +23,27 @@ quickshare-url: https://noteshare.space/note/clpketa1r3312401mw4o16547u#f7VIGqBl
 	- Present!Raya says she was betrayed, narratively sequenced in the episode for the audience, before past-Raya got betrayed
 	- It's mentioned in the present that Heart is in ruins, and that’s narratively arranged right before Namaari’s betrayal in the past
 
+### Names
+
+I was quite particular on the consistency of naming. I’m going to stick to the original names where applicable in this rewrite for clarity. Ideally there’s more subtextual language distinctives between tribes.
+
 ### Skip the Prologue
 
-- Let's rework the opening narration scene. Unless Raya had someone to explain Kumandra to?
+- So, let's rework the opening voiceover narration scene. Besides, Raya had no one to explain Kumandra to.
 - There are two "backstories" to exposition-dump.
  1. 500 years ago: Dragons defeating the Druun,
- 2. "6" years ago: Kumandra divided over the Gem
+ 2. "6" years ago: Druun returning with the separated shattered Gem
+	- (Let’s dub this, “The Shattering”)
 	- btw, retconning this to be 15 years instead of 6 years for the effects of the division to be more ingrained into the new culture
 - There's just so much exposition to cover. But I think that the 500 years ago story is not as personal nor action-packed as opening straight away *in media res*.
+- “The Shattering” is just much more personal to the main characters, this is our *media res*.
+- Kumandra’s 500 years ago, can feed in MUCH later.
 
 ### Hook: Can we trust other tribes?
 
 #### Present: Establishing current-day/setting and the main character's overarching goals
 
-![|250](https://thumbs.dreamstime.com/z/barren-terraced-rice-field-northern-thailand-arid-climate-dry-season-69358738.jpg) ![|250](https://i0.wp.com/project2049.net/wp-content/uploads/2010/03/Asiaeye_southeast-asia-drought_033110.jpg)![|250](https://thumbs.dreamstime.com/b/barren-rice-field-cracked-land-thailand-dry-fields-parched-harvest-season-274385599.jpg)![|250](https://javaadventuretrail.com/wp-content/uploads/2017/09/sunrise-in-mount-bromo.jpg) ![|250](https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/night-over-mount-bromo-java-joana-kruse.jpg)
+![|250](https://thumbs.dreamstime.com/z/barren-terraced-rice-field-northern-thailand-arid-climate-dry-season-69358738.jpg) ![|250](https://i0.wp.com/project2049.net/wp-content/uploads/2010/03/Asiaeye_southeast-asia-drought_033110.jpg) ![|250](https://thumbs.dreamstime.com/b/barren-rice-field-cracked-land-thailand-dry-fields-parched-harvest-season-274385599.jpg)![|250](https://javaadventuretrail.com/wp-content/uploads/2017/09/sunrise-in-mount-bromo.jpg) ![|250](https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/night-over-mount-bromo-java-joana-kruse.jpg)
 
 > **TAIL LANDSCAPE - DAY (PRESENT)**
 
@@ -235,7 +242,7 @@ Yes. And we must prepare to meet them.
 - Raya limps. "What are you doing?"
 	- "I'm doing what's right for Fang."
 - They take out their weapons and fight viciously.
-- Raya does get the upper hand, even with her cripple, and knocks Naamari backwards.
+- Raya does get the upper hand, even with her growing cripple, and knocks Naamari backwards.
 - Naamari just smirks and shoots a whistling firework through the ceiling opening.
 
 > **PALACE COURTYARD, HEART**
@@ -243,7 +250,8 @@ Yes. And we must prepare to meet them.
 - At the palace, Benja is diplomat-ing with Virana.
 	- "Chieftess Virana! I hope our daughters' newfound friendship will foster a special bond between Heart and Fang."
 - Through a window, the firework explodes and illuminates the night sky.
-- Benja turns back, and Fang is gone. The other tribes start to catch on.
+	- A line of torches head into the mountain of the Chamber.
+- Benja turns back, and Virana slips out. The other tribes start to catch on.
 
 #### Present: Confrontation
 
@@ -278,7 +286,8 @@ Yes. And we must prepare to meet them.
 - Benja announces, "We have a choice. We can tear each other apart, or we can come together and build a better world. It’s not too late. I still believe we can be One-Kumandra again."
 - Benja unsheathes his sword. “Shall we return to dinner?”
 	- Tension fills the air. Eyes dart around, who's making the first move?
-- An arrow strikes Benja in the leg. He crumples.
+- An crossbow points at Benja’s heart.
+	- He deflects it — it lands in his leg. He crumples.
 	- "Bà!" Raya cries.
 	- Everyone rushes past them into the Circle.
 - Hands grope at the Gem, until…
@@ -292,12 +301,13 @@ Yes. And we must prepare to meet them.
 	- turning him into stone
 	- and mitosis-duplicating
 - It takes 3-4 more tough warriors to fell the original Druun,
-	- but by then, they all turned to stone
+	- but by then, they all turned to stone, and add 3-4 more Druun
 - A Druun rushes towards Benja and Raya
 	- Benja rushes towards a Gem piece and holds it up
 	- it repels the Druun
-- A mad scramble ensues as each tribe is snatches up a Gem piece for themselves
-- A Druun pursues, but is recoiled by dripping water
+	- “There’s still magic in them!”
+	- A mad scramble ensues as each tribe is snatches up a Gem piece for themselves
+- A Druun pursues, but is recoiled by a water stream
 	- Benja shouts: "Everyone to the river!"
 - In the cave, the waterfalls start to dry up…
 
@@ -306,14 +316,14 @@ Yes. And we must prepare to meet them.
 > **CAVERN, NOMAD CAMP, TAIL - NIGHT (PRESENT)**
 
 - Raya collects her items back from each disabled nomad, packing them and readying to leave. "You'll be back to normal by sunrise. Sorry for the inconvenience."
-	- The nomads try to chase after her, but they are lethargic, like zombies.
+	- The nomads try to chase after her, but they are lethargic, zombie-like.
 
 > **NOMAD CAMP, TAIL**
 
 - She exits the cavern and climbs up onto Tuk-tuk, surveying the map…
 - Suddenly, a purple tendril breaks out from the ground and wraps around her foot. A Druun.
 - Raya swings her whip-sword, the blade now glowing and infused with Heart's Gem shard. It effortlessly tears through the Druun, compared to the ineffective simple weapons before.
-- She fights a few, easily with the Gem-fused weapon.
+- She fights a few more, easily with the Gem-fused weapon.
 	- Tuk-Tuk kicks some butt too — he’s a steady tank.
 - There are some purple glows that come out from the cavern: glows that meant someone was being petrified.
 
@@ -325,10 +335,10 @@ Yes. And we must prepare to meet them.
 - People flee out of the city via the main bridge
 - Benja is very injured
 	- The road ahead is too far
-	- The bridge shakes and crumbles
+	- The bridge shakes and partially crumbles
 	- A Druun approaches
 - Benja hands his Gem shard to Raya. "Raya, don’t give up on them. Make things right for Heart. I love you, my dewdrop."
-- Benja pushes Raya off the bridge into the water with his Gem Piece and whip-sword
+- Benja throws Raya off the bridge into the water with his Gem Piece and whip-sword
 	- A Druun passes through Benja, turning him to stone
 	- A current carries young screaming Raya away to safety…
 
@@ -338,9 +348,10 @@ Yes. And we must prepare to meet them.
 
 - The Druun retreat from Raya, back into the ground.
 - Raya rushes back into the cavern: everyone's turned to stone.
-	- But Raya's numb expressionless to all of it. She takes a moment, than comes out
+	- But Raya's numb and indifferent to all of it, compared to her flurry in the scene before. 
+	- She takes a moment, then comes out
 - She raids the ghost-town camp, gets up, and gets on her way.
-- Business as usual. She heads to the next spot on the map.
+- Business as usual. She crosses out a spot on the map, then looks up towards the next.
 
 ### Present: Epilogue
 

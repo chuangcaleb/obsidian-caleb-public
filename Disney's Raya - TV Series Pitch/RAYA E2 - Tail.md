@@ -8,7 +8,7 @@ quickshare-url: https://noteshare.space/note/clpn9gf5n3947301mw5mn6dum0#fnDNVeOf
 ---
 # RAYA E2 - Tail
 
-## Episode 2 - Tail
+## Episode 2 - Kumandra’s Hope
 
 > Theme: Kumandra's next generation
 
@@ -22,11 +22,11 @@ quickshare-url: https://noteshare.space/note/clpn9gf5n3947301mw5mn6dum0#fnDNVeOf
 
 > **SHIPWRECK CAVERN, TAIL - DAY (PRESENT)**
 
-- Chyron: TAIL - TWO WEEKS LATER
+- Chyron: TAIL - ONE WEEK LATER
 - Raya and Tuk-Tuk follow a river, which has now gone down to a small trickle. It flows into an old wrecked ship, surrounded by old whale bones, trash, etc.
 - She enters inside the shipwreck
 - She repeats the ritual.
- 	- "Sisudatu… I don’t know if you’re listening. I’ve searched every river to find you. And now I’m here at the very last one. I trusted too much, and I broke the world… Sisudatu, I just really… really want my *bà* back. Please."
+	- "Sisudatu… I don’t know if you’re listening. I’ve searched every river to find you. And now I’m here at the very last one. I trusted too much, and I broke the world… Sisudatu, I just really… really want my *bà* back. Please."
 - Magic happens, Sisu appears!
 - Raya: “I need to catch you up on a few things…” CUT transition;
 - "What?! This is bad. I’ve been asleep for 500 years, you brought back the Druun, and none of my brothers and sisters came back? Why didn’t they come back?" #todo
@@ -87,7 +87,7 @@ quickshare-url: https://noteshare.space/note/clpn9gf5n3947301mw5mn6dum0#fnDNVeOf
 #### Fang Ambush
 
 - “Raya!”, a voice calls out. “I'm sorry I made you feel that way.”
-	- Raya turns around; it's Namaari, alone, just pulling herself up onto a landing that’s a stone's throw away. (She didn’t see dragon!Sisu)
+	- Raya turns around; it's Namaari, adult, alone, just pulling herself up onto a landing that’s a stone's throw away. (She didn’t see dragon!Sisu)
 	- Raya grits, "Naamari."
 	- "Oh!" Sisu exclaims, "The Namaari who backstabbed you fifteen years ago!"
 - "I'm sorry, Raya. I was a kid, just wanting to please my mother."
@@ -96,7 +96,7 @@ quickshare-url: https://noteshare.space/note/clpn9gf5n3947301mw5mn6dum0#fnDNVeOf
 	- Raya waves the stolen Scroll, "Don’t worry, I'm never stepping foot in Fang again. Fang is the last tribe I'd work with, and you're the last person from Fang I'd trust."
 - Raya continues, "Besides, I've already found Sisu."
 	- Sisu waves her human arm, “That's me, Sisudatu the *Dragon*!”
-	- Namaari arches a sarcastic eyebrow.
+	- Namaari arches a confused eyebrow.
 	- Sisu: “Raya, she says she's sorry. We should work with her! Then we can get the Gem artefact from Fang, then that's just two more to go!”
 - Namaari: "Raya… I don't know who is this crazy person you've convinced to be Sisu… but she's right. It looks like you're collecting all the five Gem artefacts, how do you expect to reassemble the Dragon Gem if you only have four? Unless…"
 	- "Don't worry about the Gem pieces, Namaari. Worry about the landslide…"
@@ -195,10 +195,8 @@ quickshare-url: https://noteshare.space/note/clpn9gf5n3947301mw5mn6dum0#fnDNVeOf
 > **DOCKS, LAKE, TAIL**
 
 - One of the Fang soldiers notes that
-
- 1. Raya can now escape anywhere, they won't keep up with the boat
- 2. they'll likely go to Talon next for the next Gem piece
-
+	1. Raya can now escape anywhere, they won't keep up with the boat
+	2. they'll likely go to Talon next for the next Gem piece
 - Namaari commands not to pursue;
 	- Talon is strong and dangerous territory, we'll intercept after
 	- She chooses one of her elite soldiers to follow and spy on Raya #payme
@@ -328,11 +326,11 @@ quickshare-url: https://noteshare.space/note/clpn9gf5n3947301mw5mn6dum0#fnDNVeOf
 > **SWAMP, TAIL OUTSKIRTS - NIGHT**
 
 - Raya and Boun race through the swamp, vines swaying in the dry storm
-- "Help!!!" cries Sisu. Tuk-tuk wails. Lightning. Thunder.
+- "Help!!!" cries Sisu. Tuk-tuk wails. Tempest. Lightning. Thunder.
 
 > **SHRIMPORIUM SHIP, SWAMP, TAIL OUTSKIRTS - NIGHT**
 
-- The ship had drifted to the far coast of the 15m-wide river, dashing against rocks
+- The ship had drifted to the far coast of the 15m-wide river, splintering against rocks
 - A bunch of Druun manage to climb on and tear apart the ship
 - Sisu and Tuk-tuk can't do anything
 - Raya grapples across the river with her whip-sword and expertly fights off some Druun
@@ -347,7 +345,7 @@ quickshare-url: https://noteshare.space/note/clpn9gf5n3947301mw5mn6dum0#fnDNVeOf
 	- from the tattered roof, a Druun looks down at her
 - The Druun on the roof jumps down onto Raya…
 	- There's a rapid flash of blue.
-- Pulling back: Boun takes Tail's Gem artefact (we'll be referring to it as “the Kujang") and slices up the Druun as it fell mid-air
+- Pulling the camera back: Boun takes Tail's Gem artefact (we'll be referring to it as “the Kujang") and slices up the Druun as it fell mid-air
 	- Boun has chef slicing skills.
 - The Druun vaporises.
 - Boun expertly cuts some slack ropes, causing the Shrimporium to recenter itself in the River

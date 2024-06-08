@@ -2,11 +2,14 @@
 prev: "[[RAYA E2 - Tail]]"
 next: "[[RAYA E4 - Spine]]"
 created: "[[2023-09-21|21 September 2023, Thu]]"
-cssclasses: []
+modified: "[[2024-06-08|08 June 2024, Sat]]"
 ---
 # RAYA E3 - Talon
 
+## Episode 3 - Kumandra’s Faces
+
 %%
+
 ## Ideas
 
 - switcheroo fake artefacts, how to trust the real one?
@@ -21,7 +24,9 @@ cssclasses: []
 	- oh it’s a Mask Festival
 		- the idea is that the real dragons/help are the friends we make along the way(?)
 	- a chase scene where everyone looks the same
-	- Sisu doesn’t need to wear a mask
+	- Sisu doesn’t want/need to wear a mask
+	- would be cool if she turns into a dragon, people think she’s a costume
+		- people are just so numb with lies that they don’t know the truth
 - Every trust can be broken for a price
 	- Raya bargains to buy off Talon’s Gem piece by betrayal
 - “Everyone’s a fake, anyways. A dishonest man, you can trust to be dishonest.”
@@ -51,32 +56,106 @@ cssclasses: []
 
 %%
 
-## Enter Talon
+### Namaari Interlude
+
+> **EXT. MOUNTAINTOP - DUSK**
+
+- Namaari and her crew are surveying from a lookout point, making camp
+- A glow appears, off in the distance, along a river
+	- Junior Soldier: “That must be Khaang. He needs to pick up his pace to Talon.”
+	- Namaari, “Raya will know he’s spying on her if he barges in on a large noisy Serlot.”
+- Namaari turns back to an older soldier
+	- “Admiral Thaanh, can’t we find another route back home to Fang?”
+	- “Princess, if you want to make it back in three days without meeting any Druun, then we need to go through Heart.”
+	- Namaari’s reluctant.
+	- “I know how much that night hurt you, fifteen years go. I was there. But if Raya is out to steal the Gem pieces of every tribe, then your mother needs to make plans.”
+	- (What? Namaari, hurt? Wasn’t she the one who backstabbed Raya?) #payme
+- “Okay, Admiral Thaanh. Let’s hope Khaang succeeds in…”
+
+### Talon and Boun
+
+> **EXT. TALON - NIGHT**
+
+- Chyron: TALON
+- some establishing shots: the floating platforms, the merchant boats, lanterns, noisy crowds
 
 > **EXT. DOCKS, TALON - NIGHT**
 
-The Shrimporium pulls into Talon docks. It’s a floating marketplace.
+- The Shrimporium pulls into Talon docks. The gang steps out.
+	- Sisu ogles: I didn’t know Talon became so beautiful…
+	- Raya: After the Druun returned fifteen years ago, Talon moved onto their lake to be safe from them.
+	- Boun: If only the families in Tail could’ve banded together like this.
+- Raya: Boun, this is for your the past week of delicacies on the Shrimp-museum.
+	- Boun protests the name, but eyes widen as a bunch of coins drop into his hand
+	- Raya: Like I promised. I’m sorry I assumed the worst of you. Purchase your ship repairs and go crazy with cooking ingredients. See you, kid.
+- “Thank you, Raya. I wish you smooth sailing!”
+	- They part ways.
+- Boun reaches out his hand at the first stall for a fruit.
+	- Raya catches his hand and leads him away. She whispers, “That’s fake.”
+	- Sisu: “Fake?” They regroup away and look around at the stalls.
+	- Raya: “They’re almost all fake. They’re banded together alright, a band of scammers and frauds.”
+	- “Why do people still work with them?”
+	- “Because like it or not. Without Talon, the tribes wouldn’t trade with each other.
+	- Kumandra would’ve fallen. But you still have to keep your guard up.”
+- Boun: Is that why you have those glowing weapons?
+	- Raya defensively hides her satchel.
+	- Sisu stares through Raya.
+	- Raya analytically confesses. “I am not from Tail. Yes, I am collecting glowing weapons from each tribe. I have an important mission to make things right, for everyone. I’m sorry I’m not telling the whole story, but this is the truth.”
+	- “Okay.” “Okay?”
+	- “Yeah. I didn’t tell you about my parents, either. Like it or not, I guess I have to trust you just enough to win together. Like the people of Talon.”
+- “Gus-gus. Stay safe, Boun.”
+	- “Take care, Raya, Sisu!”
 
-RAYA
+### The Plan + Mask Festival
 
-Boun, here’s fifty jade pieces, you’ll know how to tell fake ship repair parts from real ones. I will find Dang Hai, the Talon chief, and get Talon’s gem artefact. Sisu, you will guard the ship.
+- Raya: I told him the truth.
+	- Sisu: Half-truth.
+	- Raya: It’s all-truth. Just not all the truth there is.
+	- Sisu: It’s a start.
+- Sisu: Okay, so I was thinking you let me go first.
+	- Huh?
+	- With the Talon Chief. Hang Dai?
+	- “Dang Hai. And no, you can’t come”
+	- I’ve been asleep for 500 years, the Druun monsters are back, and I’m the only dragon who isn’t stone.
+	- if he finds out you’re really Sisu, then he’ll imprison you and use you. Easier: I’ll just dip in, get the gem, and get out.”
+	- We don’t need to steal, we can work together.
+	- Things are different now, Sisu. The chiefs may have worked together 500 years ago, but nowadays, every chief just works for their own tribe.
+- You’ve not been here because you’re scared of water.
+- masks
 
-SISU
+### Meet Noi, Nan and Ner
 
-I’ve been asleep for 500 years, the Druun are back, and I’m the only dragon who isn’t stone. I want to talk to the chief.
+- Noi pretends to be the chieftan’s daughter
+	- only during Mask Festival can Noi go around anonymously
+	- “Dang Hai only has sons…”
 
-RAYA
+### Getting to Dang Hai
 
-You’re stuck in human form, they won’t believe you’re a dragon. Besides, you need to
+### Disaster
 
-- She disallows Sisu nor Boun from coming along.
-- She encounters a lone child (who we’ll refer to as “Noi”), and offers help
-	- the toddler turns out to be a con-artist-baby, who steals her satchel with the help of three ongi-monkeys
-	- I’m thinking of making
-	- Raya loses her satchel containing the Gem artefacts
-- Raya eventually tracks them down, and retrieves her satchel
-	- but seeing the toddler and the monkeys downcast, Raya enlists their skills to infiltrate the Talon palace
-- Meanwhile, Sisu goes to the market. She has no coins, nothing to lose.
-	- Sisu accidentally stirs up trouble with some locals
-	- An old local lady comes to her defence
-	- She also offers to take her to the Talon chief
+- Midpoint: realising there’s a Fang spy
+	- only one of the gang knew about the plan
+
+#### Namaari in Heart
+
+### False Victory with The Gem
+
+- reveal Nan is Noi’s parent figure
+
+### The Trap
+
+### Sacrifice
+
+- Raya looks back; there isn’t much time.
+	- “My real name is Raya, daughter of Chief Benja of the tribe of Heart. The land of Kumandra fell apart because I made a mistake. Sisudatu is the Last Dragon. If you re-assemble the Gem, she will make things right. Don’t trust anyone. Or do. I don’t know, I just know that I trust you. I have to.”
+	- She throws over the satchel containing the Gem weapons.
+	- She looks away. “I’m sorry bá, I couldn’t do it.”
+
+### Resolution
+
+- The Shrimporium sails off
+- Raya files through the satchel
+	- She double-takes. Ruffles it again. Turns its contents out.
+	- The Kujang. The Karambit.
+	- Heart’s Whip-Keris is missing.
+- Raya freaks out. Wails. Angry.
