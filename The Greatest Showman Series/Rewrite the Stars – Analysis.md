@@ -1,4 +1,5 @@
 ---
+collection: "[[The Greatest Showman Series]]"
 aliases:
   - Rewrite the Stars
 wtsa_categories: 🎪 The Greatest Showman Series
@@ -7,7 +8,6 @@ date: 2020-02-21
 up:
   - "[[The Greatest Showman Series]]"
 ---
-
 # Rewrite the Stars – Analysis
 
 In this song we see how strongly Barnum’s influence has been on Philip since The Other Side. Similar themes of the idea that they key to the cage they’re trapped in is just there for the taking/making. I believe this song is so evocative only because it’s in the context of the songs beforehand. It’s overplayed, yes, but it speaks volumes and depth about character.

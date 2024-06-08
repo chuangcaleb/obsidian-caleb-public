@@ -1,4 +1,5 @@
 ---
+collection: "[[The Greatest Showman Series]]"
 aliases:
   - Never Enough
 wtsa_categories: 🎪 The Greatest Showman Series
@@ -6,7 +7,6 @@ jekyllcss: showman
 date: 2019-12-20
 up: "[[The Greatest Showman Series]]"
 ---
-
 # Never Enough – Analysis
 
 That’s enough for today’s post. The composers did a great job at this pop-opera fusion. Orchestral strings always gets me. In an interview, one of the writers talks about how the “never enoughhhh” line is “sensory overload of her just harping on this \[one thing\].”

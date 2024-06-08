@@ -1,4 +1,5 @@
 ---
+collection: "[[The Greatest Showman Series]]"
 tags: 
 date_created: "[[2022-08-07|07 August 2022, Sunday]]"
 date_modified: "[[2023-07-01|01 July 2023, Saturday]]"
@@ -7,7 +8,6 @@ jekyllcss: showman
 wtsa_categories: 🎪 The Greatest Showman Series
 up: "[[The Greatest Showman Series]]"
 ---
-
 # The Greatest Show (Prologue) – Analysis
 
 This is the greatest show! This is also part one of many lyric analyses for the movie, The Greatest Showman. I remember being floored 5 seconds into this song. The editing and pacing. It’s such a good Hook pulling triply duty.

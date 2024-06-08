@@ -1,4 +1,6 @@
 ---
+collection:
+  - "[[Film Reviews]]"
 up:
   - "[[Film Reviews]]"
 wtsa_categories: 🎬 Film Reviews

@@ -1,10 +1,13 @@
 ---
-up: "[[Film Reviews]]"
-title: Over The Moon – Film Review
 aliases:
   - Over the Moon
+up:
+  - "[[Film Reviews]]"
+created: "[[2024-03-23|23 March 2024, Sat]]"
 .banner: https://www.flixwatch.co/wp-content/uploads/80214236.jpg
 .banner_y: 0.444
+collection:
+  - "[[Film Reviews]]"
 cssclasses:
   - wtsa
 dark_theme_color: "#3c6e61"

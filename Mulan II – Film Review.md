@@ -1,12 +1,19 @@
 ---
-up: "[[Film Reviews]]"
-wtsa_categories: [🌸 Mulan II, 🎬 Film Reviews]
+collection:
+  - "[[Film Reviews]]"
+up:
+  - "[[Film Reviews]]"
+wtsa_categories:
+  - 🌸 Mulan II
+  - 🎬 Film Reviews
 date: 2021-09-05
-aliases: Mulan II
+aliases:
+  - Mulan II
 light_theme_color: "#a32020"
 dark_theme_color: "#d84c4c"
-cssclasses: wtsa
-related: "Mulan II Rewrite – Beat Sheet"
+cssclasses:
+  - wtsa
+related: Mulan II Rewrite – Beat Sheet
 ---
 
 # Mulan II – Film Review

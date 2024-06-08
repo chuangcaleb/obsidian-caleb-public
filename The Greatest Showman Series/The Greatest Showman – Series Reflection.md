@@ -1,9 +1,10 @@
 ---
-up: "[[The Greatest Showman Series]]"
+up:
+  - "[[The Greatest Showman Series]]"
 wtsa_categories: 🎪 The Greatest Showman Series
 date: 2020-04-07
+collection: "[[The Greatest Showman Series]]"
 ---
-
 # The Greatest Showman – Series Reflection
 
 So this is the final-finale post of this five-month series. Just a reflection of all the hours I’ve poured in.

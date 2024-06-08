@@ -12,5 +12,7 @@ longform:
     - RAYA E4 - Spine
   ignoredFiles:
     - Disney's Raya - TV Series Pitch
+tags:
+  - 📂/collection/series
 ---
-# Index
+# RAYA - Index

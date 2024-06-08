@@ -1,11 +1,11 @@
 ---
+collection: "[[The Greatest Showman Series]]"
 up: "[[The Greatest Showman Series]]"
 aliases: The Other Side
 wtsa_categories: 🎪 The Greatest Showman Series
 jekyllcss: showman
 date: 2019-11-29
 ---
-
 # The Other Side – Analysis
 
 Right here, right now, I put the textpost out. This song became an early favourite of mine, no surprise, because of how it pitted the two men against each other, in beliefs, in action and in lyrics.

@@ -1,12 +1,16 @@
 ---
-up: "[[Film Reviews]]"
+collection:
+  - "[[Film Reviews]]"
+up:
+  - "[[Film Reviews]]"
 created: "[[2022-11-21|21 November 2022, Mon]]"
-cssclasses: wtsa
+cssclasses:
+  - wtsa
 date: 2023-04-24
 date_created: "[[2022-11-21|21 November 2022, Monday]]"
 date_modified: "[[2023-04-24|24 April 2023, Monday]]"
 link_href: https://www.scriptslug.com/script/raya-and-the-last-dragon-2021
-link_label: "Raya and the Last Dragon – Script Slug"
+link_label: Raya and the Last Dragon – Script Slug
 wtsa_categories: 🎬 Film Reviews
 ---
 # Disney's Raya – Cultural Review

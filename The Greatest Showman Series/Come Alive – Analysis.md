@@ -1,4 +1,5 @@
 ---
+collection: "[[The Greatest Showman Series]]"
 aliases:
   - Come Alive
 wtsa_categories: 🎪 The Greatest Showman Series
@@ -7,7 +8,6 @@ date: 2019-11-15
 up:
   - "[[The Greatest Showman Series]]"
 ---
-
 # Come Alive – Analysis
 
 Come one, come all, come in, come on, come alive (_come back home?_). Every moment is just URGHH so alive. The use of slo-mo and camera angles are very tasty. And the choreo! So enticing.

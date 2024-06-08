@@ -1,11 +1,11 @@
 ---
+collection: "[[The Greatest Showman Series]]"
 wtsa_categories: 🎪 The Greatest Showman Series
 jekyllcss: showman
 date: 2020-03-28
 up:
   - "[[The Greatest Showman Series]]"
 ---
-
 # The Greatest Show (Finale) – Analysis
 
 Like real-life circus shows, the most stunning act is saved for last, to leave audiences with a last and lasting impression.

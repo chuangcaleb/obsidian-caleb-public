@@ -12,17 +12,15 @@ quickshare-url: https://noteshare.space/note/clpketa1r3312401mw4o16547u#f7VIGqBl
 
 > Theme: The untrusting world of Kumandra - Past, Present, Future
 
-### Notes
-
-#### Narrative sequence vs chronological sequence
+### Narrative sequence vs chronological sequence
 
 - The X-Men Days of Future Past movie alternates between the characters/plot in the past (1980's) and the dystopian future (2100's), so that one time continuity is actively changing the outcome of the other time continuity — the two continuities are happening in parallel
-	- That's one aspect of the storytelling effect I want to have with this back-and-forth style of Episode 1
+	- That's one aspect of the storytelling effect I want to have with this cutting-back-and-forth style of Episode 1
 - The present-day Kumandra is so bleak — and in a sense, the past events already happened and caused the fallout
 	- We slowly reveal the extent of the fallout according to past events
-- And yet, during the scenes set in the past, it's *almost* as if the fallout could've been prevented, especially as present-Raya exhibits the distrust that saves her in the present, and would've in the past
-	- It’s revealed later in the episode that present!Raya's sword was originally her father's, *while* her father was still championing his cooperation ideals (as shown in the past). This causes the audience to wonder — what happened in between?
-	- Present!Raya says she was betrayed, in the episode for the audience, before past-Raya was betrayed
+- And yet, during the scenes set in the past, it's *almost* as if the fallout could've been prevented, especially as present-continuity-Raya exhibits the distrust that saves her in the present, and it would've saved her in the past
+	- It’s revealed at one point in the episode that present!Raya's sword was originally her father's, *narratively while* her father was still championing his cooperation ideals (as shown in the past). This causes the audience to wonder — what happened in between?
+	- Present!Raya says she was betrayed, narratively sequenced in the episode for the audience, before past-Raya got betrayed
 	- It's mentioned in the present that Heart is in ruins, and that’s narratively arranged right before Namaari’s betrayal in the past
 
 ### Skip the Prologue
@@ -38,12 +36,12 @@ quickshare-url: https://noteshare.space/note/clpketa1r3312401mw4o16547u#f7VIGqBl
 
 #### Present: Establishing current-day/setting and the main character's overarching goals
 
-![|250](https://thumbs.dreamstime.com/z/barren-terraced-rice-field-northern-thailand-arid-climate-dry-season-69358738.jpg) ![|250](https://i0.wp.com/project2049.net/wp-content/uploads/2010/03/Asiaeye_southeast-asia-drought_033110.jpg)![|300](https://thumbs.dreamstime.com/b/barren-rice-field-cracked-land-thailand-dry-fields-parched-harvest-season-274385599.jpg)
+![|250](https://thumbs.dreamstime.com/z/barren-terraced-rice-field-northern-thailand-arid-climate-dry-season-69358738.jpg) ![|250](https://i0.wp.com/project2049.net/wp-content/uploads/2010/03/Asiaeye_southeast-asia-drought_033110.jpg)![|250](https://thumbs.dreamstime.com/b/barren-rice-field-cracked-land-thailand-dry-fields-parched-harvest-season-274385599.jpg)![|250](https://javaadventuretrail.com/wp-content/uploads/2017/09/sunrise-in-mount-bromo.jpg) ![|250](https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/night-over-mount-bromo-java-joana-kruse.jpg)
 
 > **TAIL LANDSCAPE - DAY (PRESENT)**
 
 - Establishing shots of Tail: it's a *southeastern* wasteland. Not a typical American/African desert, but instead we have limestone cliffs, canyons and caves. The terrain is hilly, and the soil is caked, hard from the heat. The sparse and small vegetation all yellow up from dehydration. Small rats and lizards scuttle for cover from the heat of noonday.
-	- Chyron: TAIL - CURRENT DAY
+	- Chyron: **TAIL - CURRENT DAY**
 - We have a masked lone adult rider, on an animal mount. Very quickly, let's change Tuk-Tuk to be some panda-pangolin hybrid. A *Pandolin*.
 - She holds up a Map. X-marks litter the landscape. The camera focuses on a drawing of the complete Dragon Gem, circled and in the center of drawn pointed arrows.
 	- This woman really wants this Gem.
@@ -52,9 +50,9 @@ quickshare-url: https://noteshare.space/note/clpketa1r3312401mw4o16547u#f7VIGqBl
 
 > **DRIPPING CARVED-OUT TUNNEL PASSAGEWAY, HEART - NIGHT (PAST)**
 
-- Chyron: HEART - FIFTEEN YEARS EARLIER
+- Chyron: **HEART - FIFTEEN YEARS EARLIER**
 - It's bright and colourful, in contrast to the pale and lifeless Tail.
-- We introduce young Raya, in full stealth/combat gear. She also has a drawing of the mythical Dragon Gem.
+- We introduce young Raya, in full stealth/combat gear. She also has a drawing of the mythical Dragon Gem, annotated with arrows in the same handwriting.
 - In a tunnel of sorts, she bypasses traps by identifying and working around rigged false-hopes and paths — with the help of her then-smaller mount, Tuk-Tuk.
 
 > **CHAMBER OF THE DRAGON GEM, HEART**
@@ -67,9 +65,9 @@ quickshare-url: https://noteshare.space/note/clpketa1r3312401mw4o16547u#f7VIGqBl
 	- Raya addresses the guardian as "Chief Benja" of the Heart tribe
 - Chief Benja would taunt Raya by saying aloud his moves ahead of time. Raya says she doesn't trust him, moving in contrary. But Chief Benja always tells the truth, which causes Raya to fail her blocks and attacks.
 - Ultimately, Benja disarms her. However, Raya had actually won: she had one toe on the inner circle platform.
-	- Chief Benja congratulates her daughter, revealing to the audience that he is her father who is training her.
+	- Chief Benja congratulates his daughter, revealing to the audience that he is her father who is training her.
 - Benja awards Raya's success by promoting her to Guardian of the Dragon Gem, as her ancestors before her.
-- This sequence was quite fun, especially the reveal that the masked guardian is her father, and then that Raya beats him and gets promoted.
+- This original sequence was quite fun, especially the reveal that the masked guardian is her father, and then that Raya beats him and gets promoted. No critique here.
 
 ```screenplay
 YOUNG RAYA
@@ -118,12 +116,12 @@ Yes. And we must prepare to meet them.
 	- "That's right, dewdrop." Benja turns to a table as he constructs a stew: "Shrimp paste from Tail, palm sugar from Talon, bamboo shoots from Spine, chilis from Fang, and lemongrass from Heart… my secret weapon is a Kumandra feast."
 - Raya is perplexed?? "Are we poisoning them?"
 	- "No tribe can survive alone anymore. This is the first step to unite the five lands in the line of ten chiefs, since The Great Division."
-- "But dad, what about all my training to become Guardian of the Dragon Gem? Who are we guarding against? Not the Druun, since it's always raining here."
+- "But dad, what about all my training to become Guardian of the Dragon Gem? Who are we guarding against? Not the Druun, since they’ve been gone for centuries."
 	- Benja: "While we want to do the right thing, we can't be sure that the other tribes might try something selfish. They think the Gem magically grants us prosperity."
 - "That's ridiculous. It doesn't do that… does it?"
 	- "They assume it does, just like we assume things about them. (offers a bowl of soup) Raya, there’s a reason why each land is named after a part of the dragon. We were once unified harmoniously as one. Kumandra."
 - "That's ancient history, bà."
-	- "But it doesn’t have to be. Listen, if we don’t stop and learn to trust one another again, it’s only a matter of time before we tear each other apart before the actual Druun monsters do. This isn’t the world I want you to live in."
+	- "But it doesn’t have to be. Listen, if we don’t stop and learn to trust one another again, it’s only a matter of time before we tear each other apart *before the actual Druun monsters do*. This isn’t the world I want you to live in."
 - Raya nods.
 	- Benja: "I believe that we can be One Kumandra again. Even if I have my second baddest blade in the land to offer a bit of wise precaution… someone has to take the first step. Trust me."
 
@@ -171,7 +169,7 @@ Yes. And we must prepare to meet them.
 	- Namaari takes a huge bite of the stew: she groans in delight
 	- we see a bit of Naamari's Fang-natural intelligence and sharpness
 	- Naamari admits this is her first time having such a stew with so many different ingredients. Raya says she has this every day.
-		- Namaari explains that while Heart trades with other tribes, but the other tribes don't really mix around
+		- Namaari explains that while Heart still trades with other tribes, but the other tribes don't really mix around
 		- It's not just stew, it's the technology, the architecture, the knowledge. Just look at Tail, they're still so backwards.
 		- Raya exclaims! "That's why Heart seems so prosperous compared to the other tribes: it's not that the Gem gives some magic favour to Heart, but it's that Heart trusts the other tribes."
 - Namaari then brings up they're both Sisu fans
@@ -181,7 +179,7 @@ Yes. And we must prepare to meet them.
 
 > **NARRATED OVER STYLISTIC PUPPETRY**
 
-- Namaari is the one to retell the legend, as it comes to life stylistically in Southeast Asian-inspired puppetry:
+- Namaari is the one to retell the legend, much later in the story (but not earlier than it needs to), as it comes to life stylistically in Southeast Asian-inspired puppetry:
 	- Kumandra used to be lush when humans lived harmoniously alongside dragons - magical creatures who brought us water and rain and peace.
 	- Then, the Druun monsters attacked: multiplying as they consumed life and turned everyone they touched into stone.
 	- The dragons fought for us but lost.
@@ -316,6 +314,7 @@ Yes. And we must prepare to meet them.
 - Suddenly, a purple tendril breaks out from the ground and wraps around her foot. A Druun.
 - Raya swings her whip-sword, the blade now glowing and infused with Heart's Gem shard. It effortlessly tears through the Druun, compared to the ineffective simple weapons before.
 - She fights a few, easily with the Gem-fused weapon.
+	- Tuk-Tuk kicks some butt too — he’s a steady tank.
 - There are some purple glows that come out from the cavern: glows that meant someone was being petrified.
 
 #### Past: Sacrifice

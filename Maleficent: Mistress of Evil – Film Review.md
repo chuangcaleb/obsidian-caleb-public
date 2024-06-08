@@ -1,5 +1,8 @@
 ---
-up: "[[Film Reviews]]"
+collection:
+  - "[[Film Reviews]]"
+up:
+  - "[[Film Reviews]]"
 wtsa_categories: 🎬 Film Reviews
 date: 2019-11-12
 ---

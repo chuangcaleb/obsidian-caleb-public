@@ -1,4 +1,5 @@
 ---
+collection: "[[The Greatest Showman Series]]"
 aliases:
   - From Now On
 wtsa_categories: 🎪 The Greatest Showman Series
@@ -6,7 +7,6 @@ jekyllcss: showman
 date: 2020-03-20
 up: "[[The Greatest Showman Series]]"
 ---
-
 # From Now On – Analysis
 
 AND WE WILL COME BACK HOME! My FAVOURITE song FINALLY hahaha. THIS song. It just — takes strands from every previous song and weaves it into a tapestry that summarises the story, setting up the climax. It probably struck a chord in me, because it cued the waterworks.
