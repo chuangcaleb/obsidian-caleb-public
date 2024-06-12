@@ -1,10 +1,11 @@
 ---
 collection:
-  - "[[Film Reviews]]"
+  - film-reviews
 up:
-  - "[[Film Reviews]]"
+  - film-reviews
 wtsa_categories: 🎬 Film Reviews
-date: 2019-11-12
+date: '2019-11-12'
+slug: film-reviews/maleficent-mistress-of-evil-film-review
 ---
 
 # Maleficent: Mistress of Evil – Film Review

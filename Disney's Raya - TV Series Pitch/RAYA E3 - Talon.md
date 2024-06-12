@@ -1,8 +1,9 @@
 ---
-prev: "[[RAYA E2 - Tail]]"
-next: "[[RAYA E4 - Spine]]"
-created: "[[2023-09-21|21 September 2023, Thu]]"
-modified: "[[2024-06-08|08 June 2024, Sat]]"
+prev: disney's-raya-tv-series-pitch/raya-e2-tail
+next: disney's-raya-tv-series-pitch/raya-e4-spine
+created: '2023-09-21T00:00:00.000Z'
+modified: '2024-06-08T00:00:00.000Z'
+slug: disney's-raya-tv-series-pitch/raya-e3-talon
 ---
 # RAYA E3 - Talon
 
@@ -68,11 +69,11 @@ modified: "[[2024-06-08|08 June 2024, Sat]]"
 	- “Admiral Thaanh, can’t we find another route back home to Fang?”
 	- “Princess, if you want to make it back in three days without meeting any Druun, then we need to go through Heart.”
 	- Namaari’s reluctant.
-	- “I know how much that night hurt you, fifteen years go. I was there. But if Raya is out to steal the Gem pieces of every tribe, then your mother needs to make plans.”
+	- “I know how much that night hurt you, fifteen years go. I was there, too. But if Raya is out to steal the Gem pieces of every tribe, then your mother needs to make plans.”
 	- (What? Namaari, hurt? Wasn’t she the one who backstabbed Raya?) #payme
 - “Okay, Admiral Thaanh. Let’s hope Khaang succeeds in…”
 
-### Talon and Boun
+### Goodbye Boun, Hello Talon
 
 > **EXT. TALON - NIGHT**
 
@@ -112,6 +113,8 @@ modified: "[[2024-06-08|08 June 2024, Sat]]"
 	- Sisu: Half-truth.
 	- Raya: It’s all-truth. Just not all the truth there is.
 	- Sisu: It’s a start.
+- You’ve not been here because you’re scared of water.
+- masks
 - Sisu: Okay, so I was thinking you let me go first.
 	- Huh?
 	- With the Talon Chief. Hang Dai?
@@ -120,13 +123,16 @@ modified: "[[2024-06-08|08 June 2024, Sat]]"
 	- if he finds out you’re really Sisu, then he’ll imprison you and use you. Easier: I’ll just dip in, get the gem, and get out.”
 	- We don’t need to steal, we can work together.
 	- Things are different now, Sisu. The chiefs may have worked together 500 years ago, but nowadays, every chief just works for their own tribe.
-- You’ve not been here because you’re scared of water.
-- masks
 
 ### Meet Noi, Nan and Ner
 
+- three Talon locals
+	- we find out later that one of them is definitely a Fang spy
+	- all three are frauds in some way, though
+	- who’s the spy?
 - Noi pretends to be the chieftan’s daughter
 	- only during Mask Festival can Noi go around anonymously
+	- Noi helps to get Raya to the palace
 	- “Dang Hai only has sons…”
 
 ### Getting to Dang Hai
@@ -146,10 +152,16 @@ modified: "[[2024-06-08|08 June 2024, Sat]]"
 
 ### Sacrifice
 
+- one of them sells Raya out to the local Talon authorities
 - Raya looks back; there isn’t much time.
-	- “My real name is Raya, daughter of Chief Benja of the tribe of Heart. The land of Kumandra fell apart because I made a mistake. Sisudatu is the Last Dragon. If you re-assemble the Gem, she will make things right. Don’t trust anyone. Or do. I don’t know, I just know that I trust you. I have to.”
+	- “My real name is Raya, daughter of Chief Benja of the tribe of Heart. The land of Kumandra fell apart because I made a mistake. Sisudatu is the Last Dragon. If you re-assemble the Gem, she will revive everyone who was turned to stone. Don’t trust anyone. Or do. I don’t know, I just know that I trust you. I have to.”
 	- She throws over the satchel containing the Gem weapons.
 	- She looks away. “I’m sorry bá, I couldn’t do it.”
+- Noi takes Raya’s place
+	- “Noi, she’s just another liar!”
+	- “No! For the first time in my life, I’m hearing the truth.”
+	- Noi exchanges places with Raya: she gets petrified.
+- 
 
 ### Resolution
 

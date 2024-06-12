@@ -1,10 +1,12 @@
 ---
-collection: "[[The Greatest Showman Series]]"
-up: "[[The Greatest Showman Series]]"
+collection:
+  - the-greatest-showman-series
+up: the-greatest-showman-series
 aliases: Tightrope
 wtsa_categories: 🎪 The Greatest Showman Series
 jekyllcss: showman
-date: 2020-03-14
+date: '2020-03-14'
+slug: the-greatest-showman-series/tightrope-analysis
 ---
 # Tightrope – Analysis
 

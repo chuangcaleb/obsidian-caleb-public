@@ -1,10 +1,12 @@
 ---
-collection: "[[The Greatest Showman Series]]"
+collection:
+  - the-greatest-showman-series
 wtsa_categories: 🎪 The Greatest Showman Series
 jekyllcss: showman
-date: 2020-03-28
+date: '2020-03-28'
 up:
-  - "[[The Greatest Showman Series]]"
+  - the-greatest-showman-series
+slug: the-greatest-showman-series/the-greatest-show-(finale)-analysis
 ---
 # The Greatest Show (Finale) – Analysis
 

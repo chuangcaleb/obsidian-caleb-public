@@ -1,10 +1,12 @@
 ---
-next: "[[RAYA E2 - Tail]]"
-created: "[[2023-09-21|21 September 2023, Thu]]"
+next: disney's-raya-tv-series-pitch/raya-e2-tail
+created: '2023-09-21T00:00:00.000Z'
 cssclasses:
   - img-grid
-quickshare-date: 2023-11-30 07:40:08
-quickshare-url: https://noteshare.space/note/clpketa1r3312401mw4o16547u#f7VIGqBlNhcFn5m0aFfpxAVhNIAQeD1taHGynhQp4SE
+quickshare-date: '2023-11-30 07:40:08'
+quickshare-url: >-
+  https://noteshare.space/note/clpketa1r3312401mw4o16547u#f7VIGqBlNhcFn5m0aFfpxAVhNIAQeD1taHGynhQp4SE
+slug: disney's-raya-tv-series-pitch/raya-e1-kumandra
 ---
 # RAYA E1 - Kumandra
 

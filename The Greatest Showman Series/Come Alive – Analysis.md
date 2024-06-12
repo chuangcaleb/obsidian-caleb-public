@@ -1,12 +1,14 @@
 ---
-collection: "[[The Greatest Showman Series]]"
+collection:
+  - the-greatest-showman-series
 aliases:
   - Come Alive
 wtsa_categories: 🎪 The Greatest Showman Series
 jekyllcss: showman
-date: 2019-11-15
+date: '2019-11-15'
 up:
-  - "[[The Greatest Showman Series]]"
+  - the-greatest-showman-series
+slug: the-greatest-showman-series/come-alive-analysis
 ---
 # Come Alive – Analysis
 
@@ -566,7 +568,5 @@ The next two months would see me spending late nights planning the camp, a nugge
 I extended the invitation to become faci to many of them, and as the months went by, I saw person after person come alive. Then I realised, the magic doesn’t fade: like electricity, it cannot be destroyed: only transformed and transferred.
 
 > Q: Are you dead or alive? Or somewhere in between?
-
--
 
 (MBAS an acronym for Might Be A Stretch)

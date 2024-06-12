@@ -1,11 +1,13 @@
 ---
-collection: "[[The Greatest Showman Series]]"
+collection:
+  - the-greatest-showman-series
 aliases:
   - From Now On
 wtsa_categories: 🎪 The Greatest Showman Series
 jekyllcss: showman
-date: 2020-03-20
-up: "[[The Greatest Showman Series]]"
+date: '2020-03-20'
+up: the-greatest-showman-series
+slug: the-greatest-showman-series/from-now-on-analysis
 ---
 # From Now On – Analysis
 
@@ -347,7 +349,7 @@ The power and energy and fire feel like [[Come Alive – Analysis|Come Alive]]�
 
 Tightrope and Never Enough: Repetition
 
-- Between _“[[Never Enough – Analysis|Never Enough]], never, never, for me_ and [[Tightrope – Analysis|Tightrope]]’s “_With you, you, you”_, both lose out to how many repetitions of _"And we will come back home!"_ that this song has
+- Between _“[[Never Enough – Analysis|Never Enough]], never, never, for me_” and [[Tightrope – Analysis|Tightrope]]’s “_With you, you, you”_, both lose out to how many repetitions of _"And we will come back home!"_ that this song has
 
 - This repetition shows Barnum’s arc as he slowly gets the right idea, and making sure he won’t forget it
 

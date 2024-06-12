@@ -1,10 +1,12 @@
 ---
-collection: "[[The Greatest Showman Series]]"
-up: "[[The Greatest Showman Series]]"
+collection:
+  - the-greatest-showman-series
+up: the-greatest-showman-series
 aliases: The Other Side
 wtsa_categories: 🎪 The Greatest Showman Series
 jekyllcss: showman
-date: 2019-11-29
+date: '2019-11-29'
+slug: the-greatest-showman-series/the-other-side-analysis
 ---
 # The Other Side – Analysis
 

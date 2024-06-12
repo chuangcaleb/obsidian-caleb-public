@@ -1,9 +1,11 @@
 ---
 up:
-  - "[[The Greatest Showman Series]]"
+  - the-greatest-showman-series
 wtsa_categories: 🎪 The Greatest Showman Series
-date: 2020-04-07
-collection: "[[The Greatest Showman Series]]"
+date: '2020-04-07'
+collection:
+  - the-greatest-showman-series
+slug: the-greatest-showman-series/the-greatest-showman-series-reflection
 ---
 # The Greatest Showman – Series Reflection
 

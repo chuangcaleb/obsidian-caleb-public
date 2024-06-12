@@ -1,11 +1,13 @@
 ---
-collection: "[[The Greatest Showman Series]]"
+collection:
+  - the-greatest-showman-series
 aliases:
   - Never Enough
 wtsa_categories: 🎪 The Greatest Showman Series
 jekyllcss: showman
-date: 2019-12-20
-up: "[[The Greatest Showman Series]]"
+date: '2019-12-20'
+up: the-greatest-showman-series
+slug: the-greatest-showman-series/never-enough-analysis
 ---
 # Never Enough – Analysis
 

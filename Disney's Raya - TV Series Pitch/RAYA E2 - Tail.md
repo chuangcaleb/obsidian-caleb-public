@@ -1,10 +1,12 @@
 ---
-prev: "[[RAYA E1 - Kumandra]]"
-next: "[[RAYA E3 - Talon]]"
-created: "[[2023-09-21|21 September 2023, Thu]]"
-modified: "[[2024-06-08|08 June 2024, Sat]]"
-quickshare-date: 2023-12-02 07:33:29
-quickshare-url: https://noteshare.space/note/clpn9gf5n3947301mw5mn6dum0#fnDNVeOfUjaXAGiEDx0W9WoPsWuFM2tquwWOWmMIo80
+prev: disney's-raya-tv-series-pitch/raya-e1-kumandra
+next: disney's-raya-tv-series-pitch/raya-e3-talon
+created: '2023-09-21T00:00:00.000Z'
+modified: '2024-06-08T00:00:00.000Z'
+quickshare-date: '2023-12-02 07:33:29'
+quickshare-url: >-
+  https://noteshare.space/note/clpn9gf5n3947301mw5mn6dum0#fnDNVeOfUjaXAGiEDx0W9WoPsWuFM2tquwWOWmMIo80
+slug: disney's-raya-tv-series-pitch/raya-e2-tail
 ---
 # RAYA E2 - Tail
 
@@ -104,11 +106,15 @@ quickshare-url: https://noteshare.space/note/clpn9gf5n3947301mw5mn6dum0#fnDNVeOf
 - Raya triggers a bobby trap, causing some loose rocks to fall onto Namaari. The temple collapses.
 	- Namaari's caught in the landslide and needs to retreat.
 	- Raya grabs Sisu by the hand. "Run!"
+	- Raya blows on a seemingly silent whistle
 
 > **TEMPLE, TAIL**
 
+- Raya and Sisu burst out of the main Temple doors
+	- Fang soldiers jump out of hiding!
+	- so does Tuk-Tuk! He knocks the Fang soldiers away
 - Raya and Sisu mount on Tuk-tuk, and pull away
-	- three Fang soldiers outside launch in hot pursuit of Raya on their Serlots, one stays back to help Namaari
+	-  outside launch in hot pursuit of Raya on their Serlots, one stays back to help Namaari
 	- "See, Sisu!" Raya shouts, "Namaari had backup! We can't trust Fang!"
 
 #### Fang Chase Sequence

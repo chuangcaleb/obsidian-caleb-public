@@ -1,11 +1,14 @@
 ---
-up: "[[Frozen II Rewrite]]"
-created: "[[2022-10-19|19 October 2022, Wed]]"
-date: 2019-12-21
-link_href: https://docs.google.com/document/d/1MZKWkegyyvGFvyRAcahXhfmD-dE4LG-GbGaRsCyl7-s/edit?usp=sharing
+up: Frozen II Rewrite
+created: '2022-10-19T00:00:00.000Z'
+date: '2019-12-21'
+link_href: >-
+  https://docs.google.com/document/d/1MZKWkegyyvGFvyRAcahXhfmD-dE4LG-GbGaRsCyl7-s/edit?usp=sharing
 link_label: F2 Rewrite (Beat Sheet) – Google Docs
-related: ["Frozen II Rewrite – Screenplay"]
+related:
+  - Frozen II Rewrite – Screenplay
 wtsa_categories: ❄️ Frozen II Rewrite
+slug: frozen-ii-rewrite-beat-sheet
 ---
 # Frozen II Rewrite – Beat Sheet
 

@@ -1,14 +1,16 @@
 ---
 aliases: Mulan II Rewrite
-created: "[[2022-08-07|07 August 2022, Sun]]"
+created: '2022-08-07T00:00:00.000Z'
 cssclasses: wtsa
-dark_theme_color: "#d84c4c"
-date: 2021-11-27
-date_created: "[[2022-08-07|07 August 2022, Sunday]]"
-date_modified: "[[2023-02-01|01 February 2023, Wednesday]]"
-light_theme_color: "#a32020"
-related: "Mulan II – Film Review"
-wtsa_categories: [🌸 Mulan II]
+dark_theme_color: '#d84c4c'
+date: '2021-11-27'
+date_created: '2022-08-07T00:00:00.000Z'
+date_modified: '2023-02-01T00:00:00.000Z'
+light_theme_color: '#a32020'
+related: Mulan II – Film Review
+wtsa_categories:
+  - 🌸 Mulan II
+slug: mulan-ii-rewrite-beat-sheet
 ---
 # Mulan II Rewrite – Beat Sheet
 

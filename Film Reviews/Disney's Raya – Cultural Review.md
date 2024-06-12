@@ -1,17 +1,17 @@
 ---
-collection:
-  - "[[Film Reviews]]"
 up:
-  - "[[Film Reviews]]"
-created: "[[2022-11-21|21 November 2022, Mon]]"
+  - film-reviews
+created: '2022-11-21T00:00:00.000Z'
+collection:
+  - film-reviews
 cssclasses:
   - wtsa
-date: 2023-04-24
-date_created: "[[2022-11-21|21 November 2022, Monday]]"
-date_modified: "[[2023-04-24|24 April 2023, Monday]]"
+published: '2023-04-24'
 link_href: https://www.scriptslug.com/script/raya-and-the-last-dragon-2021
 link_label: Raya and the Last Dragon – Script Slug
+modified: '2024-06-09T00:00:00.000Z'
 wtsa_categories: 🎬 Film Reviews
+slug: film-reviews/disney's-raya-cultural-review
 ---
 # Disney's Raya – Cultural Review
 
@@ -212,25 +212,25 @@ Which leads to another tweak. **What if. Instead of the stereotypical ruthless F
 So, new rewrite:
 
 - For centuries since the dragons disappeared, Heart had been diverting waters from the different lands into its own. That's why it's been such a protected and healthy rainforest.
-	- Maybe they had been diverting waters for centuries before that. But they continued the practice even after the Druun were banished, maybe because
-		1. There were still some Druun left, it could've petrified the Heart chief's family or something
-		2. The Druun are gone, but as a precaution if they came back
-		3. Regardless of the Druun, the waters brought life and prosperity to Heart.
-	- Furthermore, Heart keeping the Gem helped to brand their prosperity as a result of the tribe possessing the Gem, while covering up their nefarious water-stealing practices.
+ 	- Maybe they had been diverting waters for centuries before that. But they continued the practice even after the Druun were banished, maybe because
+ 1. There were still some Druun left, it could've petrified the Heart chief's family or something
+ 2. The Druun are gone, but as a precaution if they came back
+ 3. Regardless of the Druun, the waters brought life and prosperity to Heart.
+ 	- Furthermore, Heart keeping the Gem helped to brand their prosperity as a result of the tribe possessing the Gem, while covering up their nefarious water-stealing practices.
 - Chief Benja was just another chief-in-line to continue the practice. We keep the painting of Heart to be so noble and pacifist and championing unity of One-Kumandra—especially in contrast with the evil, untrustworthy, openly-treasonous Fang.
 - In Episode 1, Chief Benja calls all the Tribes together for a meal. On the bridge, they accuse Heart of hogging the Gem, but also a one-off statement is made about the drying rivers. We the audience don't feel any weight to any of these accusations, as they're just jealous.
 - The story goes on as usual. Along with the audience, Raya still believes that Fang is 100% in the wrong for the world falling apart. She feels 100% justified in stealing the gem pieces to save her father and the world.
 - Later, as they're leaving Talon with all the pieces save for Fang's, Raya states that Fang's gem piece is impossible to obtain, as their military and security is just too tight.
 - In a shocking twist: Raya slips away from the gang in the night as they're traveling by Heart, with the four gem pieces. All five gem pieces are required to restore all Kumandra, but using up four gem pieces is just enough to revitalize Heart, the poor victim. Going to Fang is a doomed suicide mission anyways, and Raya really doesn't care about the other tribes. She can argue with her animal friend Tuk-Tuk to externalize her beliefs to the audience.
-	- The gang belatedly realises what she's going to do, and are indignant. They sail down to Heart.
+ 	- The gang belatedly realises what she's going to do, and are indignant. They sail down to Heart.
 - Raya excitedly first revives her father so he can witness the restoration of the entire tribe. Chief Benja comes back to life. They reunite, happy happy, but Benja notes that Raya only has four pieces and realizes Raya's plan.
 - Benja confesses ~~his war crimes and~~ reveals Heart's dark history of water stealing. Raya is disgusted, and feels personally betrayed by her father after victimizing Heart before the other tribes. But it's noted that Raya is guilty of the sin that runs in the family: she, too, had betrayed her gang by taking the gem pieces for her own tribe.
 - Benja regrets his decisions thus far, and wants to set things right by making a treaty with Fang as the original chief of Heart—then all the Gems can be obtained.
 - Meanwhile, Raya is sunk too deep into cynicism. She scoffs, "Ha! Dad, if you can get a Fang to unite together with the other tribes, then we talk. But if my own tribe, my own father, has always been this deceptive and selfish, then the world might as well be—I might as well be. At least I'll save my tribe in the process."
 - So they fight it out on the bridge. It's a callback, the Gem (pieces) in the center, and Benja preventing Raya from passing him to get it. Benja notes that in his time as chief, Raya was the only one he had to fight in protecting the Gem. It's a tragic fight.
 - The gang arrives (without Sisu, we'll get to that later, but she's too powerful to be here now). They note that Benja is alive, and Benja recognizes Tong as Spine's chief. The gang knows what Raya is trying to do, and it becomes a everyone-for-themselves swordfight.
-	- All of them are expert combatants, except for Little Noi (and the monkeys), who sneakily steals a gem piece, only for someone else to snatch it back and forth. Benja definitely dominates here in a group setting, and is more careful. And of course, Boun doesn't fight, so maybe Tail's gem piece is mainly being held by Benja.
-	- But the point is: after all the bonding so far, the gang had all devolved back to the first time every tribe was snatching up the gem pieces when it was first broken.
+ 	- All of them are expert combatants, except for Little Noi (and the monkeys), who sneakily steals a gem piece, only for someone else to snatch it back and forth. Benja definitely dominates here in a group setting, and is more careful. And of course, Boun doesn't fight, so maybe Tail's gem piece is mainly being held by Benja.
+ 	- But the point is: after all the bonding so far, the gang had all devolved back to the first time every tribe was snatching up the gem pieces when it was first broken.
 - Raya knows she can't fight them all, so she takes Heart's gem piece and dives off the bridge. Benja looks on, like he did many years ago when he sacrificed himself for her.
 - The gang to go on their way with their own gem piece… but Boun and Little Noi have no one to go back to. Benja and Tong's heartstrings get tugged. Benja rallies the gang to go to Fang. Like Raya scoffed, if they can somehow get Fang's cooperation (through Benja's revival), then Raya has no reason not to restore all Kumandra.
 
@@ -249,8 +249,8 @@ It would be WAY cooler if every tribe's gem piece should be incorporated uniquel
 - Chief Benja's gem-embedded chain-whip-sword [kris/keris](https://en.wikipedia.org/wiki/Kris)/[kalis](https://en.wikipedia.org/wiki/Kalis) for Heart
 - Naamari's dragon pendant for Fang, embedded on top of Virana's (Naamari's mom) scepter (perhaps like a [trishula](https://en.wikipedia.org/wiki/Trishula)?) Whose tip can be unattached and become a [tekpi/chabang](https://en.wikipedia.org/wiki/Tekpi)?
 - I was today years old when I learnt the [karambit](https://en.wikipedia.org/wiki/Karambit) is a SEA thing. It's literally a Talon. Perfect for close-quarters swindling thieves.
-- A gem-tipped bamboo spear for Spine, magically unbreakable—bamboo is literally used in [tongkat/toya/lembing silat](https://www.youtube.com/watch?v=mVDpbVJ8rBU)
-- Tail's the most underdeveloped story-wise, so they could have anything, <rehttps://en.wikipedia.org/wiki/Celuritally>. But look at this beautiful [kujang](https://en.wikipedia.org/wiki/Kujang_(weapon)). Though if Tail's main industry were to be agriculture, the [celurit/sabit](https://en.wikipedia.org/wiki/Celurit) is another culturally-beautiful weapon/tool.
+- A gem-tipped bamboo spear for Spine, magically unbreakable—bamboo is literally used in [sillat tongkat/toya/lembing silat](https://www.youtube.com/watch?v=mVDpbVJ8rBU)
+- Tail's the most underdeveloped story-wise, so they could have anything. But look at this beautiful [kujang](https://en.wikipedia.org/wiki/Kujang_(weapon)). Though if Tail's main industry were to be agriculture, the [celurit/sabit](https://en.wikipedia.org/wiki/Celurit) is another culturally-beautiful weapon/tool.
 
 Then, as each member of the gang use a Gem Piece to fight off the Druun, they can actually incorporate expert combat skills and unique fighting styles.
 

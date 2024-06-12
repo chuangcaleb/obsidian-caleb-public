@@ -2,21 +2,22 @@
 aliases:
   - Over the Moon
 up:
-  - "[[Film Reviews]]"
-created: "[[2024-03-23|23 March 2024, Sat]]"
+  - film-reviews
+created: '2024-03-23T00:00:00.000Z'
 .banner: https://www.flixwatch.co/wp-content/uploads/80214236.jpg
 .banner_y: 0.444
 collection:
-  - "[[Film Reviews]]"
+  - film-reviews
 cssclasses:
   - wtsa
-dark_theme_color: "#3c6e61"
-date: 2022-05-25
-date_created: "[[2022-08-07|07 August 2022, Sunday]]"
-date_modified: "[[2023-01-19|19 January 2023, Thursday]]"
-light_theme_color: "#65ab99"
+dark_theme_color: '#3c6e61'
+date: '2022-05-25'
+date_created: '2022-08-07T00:00:00.000Z'
+date_modified: '2023-01-19T00:00:00.000Z'
+light_theme_color: '#65ab99'
 wtsa_categories:
   - 🎬 Film Reviews
+slug: film-reviews/over-the-moon-film-review
 ---
 # Over The Moon – Film Review
 

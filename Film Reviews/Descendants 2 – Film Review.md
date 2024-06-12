@@ -1,17 +1,18 @@
 ---
 collection:
-  - "[[Film Reviews]]"
+  - film-reviews
 up:
-  - "[[Film Reviews]]"
+  - film-reviews
 wtsa_categories: 🎬 Film Reviews
-date: 2021-12-17
+date: '2021-12-17'
 aliases:
   - Descendants 2
-light_theme_color: "#5192a1"
-dark_theme_color: "#5192a1"
+light_theme_color: '#5192a1'
+dark_theme_color: '#5192a1'
 cssclasses:
   - wtsa
-prev: "[[Descendants 1 – Film Review]]"
+prev: film-reviews/descendants-1-film-review
+slug: film-reviews/descendants-2-film-review
 ---
 
 # Descendants 2 – Film Review

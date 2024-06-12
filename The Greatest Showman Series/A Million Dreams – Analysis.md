@@ -1,12 +1,14 @@
 ---
-collection: "[[The Greatest Showman Series]]"
+collection:
+  - the-greatest-showman-series
 aliases:
   - A Million Dreams
 wtsa_categories: 🎪 The Greatest Showman Series
 jekyllcss: showman
 date: 2019-11-8
 up:
-  - "[[The Greatest Showman Series]]"
+  - the-greatest-showman-series
+slug: the-greatest-showman-series/a-million-dreams-analysis
 ---
 # A Million Dreams – Analysis
 

@@ -1,7 +1,8 @@
 ---
 up: []
-created: "[[2024-06-05|05 June 2024, Wed]]"
-modified: "[[2024-06-05|05 June 2024, Wed]]"
+created: '2024-06-05T00:00:00.000Z'
+modified: '2024-06-05T00:00:00.000Z'
+slug: meta/public-garden-navigation
 ---
 # Public Garden Navigation
 

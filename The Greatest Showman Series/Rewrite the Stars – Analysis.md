@@ -1,12 +1,14 @@
 ---
-collection: "[[The Greatest Showman Series]]"
+collection:
+  - the-greatest-showman-series
 aliases:
   - Rewrite the Stars
 wtsa_categories: 🎪 The Greatest Showman Series
 jekyllcss: showman
-date: 2020-02-21
+date: '2020-02-21'
 up:
-  - "[[The Greatest Showman Series]]"
+  - the-greatest-showman-series
+slug: the-greatest-showman-series/rewrite-the-stars-analysis
 ---
 # Rewrite the Stars – Analysis
 
