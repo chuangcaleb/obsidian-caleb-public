@@ -8,7 +8,7 @@ longform:
   ignoredFiles:
     - Disney's Raya - TV Series Pitch
 tags:
-  - 📂/collection/series
+  - 📂/collection
 slug: disney's-raya-tv-series-pitch/raya-index
 ---
 # RAYA - Index
