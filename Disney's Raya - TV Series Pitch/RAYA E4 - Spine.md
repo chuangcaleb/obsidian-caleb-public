@@ -24,8 +24,14 @@ slug: disney's-raya-tv-series-pitch/raya-e4-spine
 - they don't believe in dragons lol
 - Raya's the avatar of the worst traits of the five nations lol
 	- Tail: generally untrusting
+		- copycat
 	- Talon: false deception
+		- simpleton?
 	- Spine: indifferent independence
+		- grudger
 	- Heart: champion conspiring
+		- always cooperate?
 	- Fang: ruthless, internal trust
+		- always cheat?
 - they find a water redirection
+	- Raya takes twice as long to find all river ends, because of all the redirection
