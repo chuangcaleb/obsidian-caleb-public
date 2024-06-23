@@ -5,9 +5,6 @@ created: '2023-09-21T00:00:00.000Z'
 modified: '2024-06-08T00:00:00.000Z'
 collection:
   - disney's-raya-tv-series-pitch
-quickshare-date: '2023-12-02 07:33:29'
-quickshare-url: >-
-  https://noteshare.space/note/clpn9gf5n3947301mw5mn6dum0#fnDNVeOfUjaXAGiEDx0W9WoPsWuFM2tquwWOWmMIo80
 slug: disney's-raya-tv-series-pitch/raya-e2-tail
 ---
 # RAYA E2 - Tail

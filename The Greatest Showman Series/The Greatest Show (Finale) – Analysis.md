@@ -3,10 +3,9 @@ collection:
   - the-greatest-showman-series
 wtsa_categories: 🎪 The Greatest Showman Series
 jekyllcss: showman
-published: 2020-03-28T00:00:00.000Z
+published: '2020-03-28'
 up:
   - the-greatest-showman-series
-date: '2020-03-28'
 slug: the-greatest-showman-series/the-greatest-show-(finale)-analysis
 ---
 # The Greatest Show (Finale) – Analysis

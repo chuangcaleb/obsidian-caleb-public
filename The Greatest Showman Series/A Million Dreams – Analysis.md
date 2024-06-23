@@ -8,7 +8,6 @@ jekyllcss: showman
 published: 2019-11-8
 up:
   - the-greatest-showman-series
-date: 2019-11-8
 slug: the-greatest-showman-series/a-million-dreams-analysis
 ---
 # A Million Dreams – Analysis

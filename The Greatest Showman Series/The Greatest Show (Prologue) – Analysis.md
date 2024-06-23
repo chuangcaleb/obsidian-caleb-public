@@ -3,12 +3,11 @@ collection:
   - the-greatest-showman-series
 date_created: '2022-08-07T00:00:00.000Z'
 date_modified: '2023-07-01T00:00:00.000Z'
-published: 2019-11-01T00:00:00.000Z
+published: '2019-11-01'
 jekyllcss: showman
 wtsa_categories: 🎪 The Greatest Showman Series
 up:
   - the-greatest-showman-series
-date: '2019-11-01'
 slug: the-greatest-showman-series/the-greatest-show-(prologue)-analysis
 ---
 # The Greatest Show (Prologue) – Analysis

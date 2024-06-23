@@ -3,17 +3,13 @@ created: '2022-11-18T00:00:00.000Z'
 cssclasses:
   - wtsa
 dark_theme_color: '#fd7c52'
-published: 2022-11-28T00:00:00.000Z
+published: '2022-11-28'
 date_created: '2022-11-18T00:00:00.000Z'
 date_modified: '2023-06-26T00:00:00.000Z'
 light_theme_color: '#a34325'
 link_href: https://www.scriptslug.com/assets/scripts/the-lion-king-1994.pdf
 link_label: The Lion King Script – Script Slug
 wtsa_categories: 🔧 One Small Change
-date: '2022-11-28'
-quickshare-date: '2023-09-15 14:07:28'
-quickshare-url: >-
-  https://noteshare.space/note/clmk76nox1910701mw4a2os1h7#7ETj+q4lZ8q+/5rXbpSEkBvSWBFX/AxEUckImbBcS2c
 slug: guilt-is-agency-(the-lion-king)-one-small-change
 ---
 # Guilt is Agency (The Lion King) – One Small Change

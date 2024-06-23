@@ -5,9 +5,8 @@ aliases:
   - From Now On
 wtsa_categories: 🎪 The Greatest Showman Series
 jekyllcss: showman
-published: 2020-03-20T00:00:00.000Z
+published: '2020-03-20'
 up: the-greatest-showman-series
-date: '2020-03-20'
 slug: the-greatest-showman-series/from-now-on-analysis
 ---
 # From Now On – Analysis

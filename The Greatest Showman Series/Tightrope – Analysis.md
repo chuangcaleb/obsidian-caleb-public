@@ -5,8 +5,7 @@ up: the-greatest-showman-series
 aliases: Tightrope
 wtsa_categories: 🎪 The Greatest Showman Series
 jekyllcss: showman
-published: 2020-03-14T00:00:00.000Z
-date: '2020-03-14'
+published: '2020-03-14'
 slug: the-greatest-showman-series/tightrope-analysis
 ---
 # Tightrope – Analysis
