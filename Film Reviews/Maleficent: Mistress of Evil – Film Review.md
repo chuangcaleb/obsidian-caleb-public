@@ -4,6 +4,7 @@ collection:
 up:
   - film-reviews
 wtsa_categories: 🎬 Film Reviews
+published: 2019-11-12T00:00:00.000Z
 date: '2019-11-12'
 slug: film-reviews/maleficent-mistress-of-evil-film-review
 ---

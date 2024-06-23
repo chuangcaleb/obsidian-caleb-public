@@ -1,13 +1,14 @@
 ---
 up: Frozen II Rewrite
 created: '2022-10-19T00:00:00.000Z'
-date: '2019-12-21'
+published: 2019-12-21T00:00:00.000Z
 link_href: >-
   https://docs.google.com/document/d/1MZKWkegyyvGFvyRAcahXhfmD-dE4LG-GbGaRsCyl7-s/edit?usp=sharing
 link_label: F2 Rewrite (Beat Sheet) – Google Docs
 related:
   - Frozen II Rewrite – Screenplay
 wtsa_categories: ❄️ Frozen II Rewrite
+date: '2019-12-21'
 slug: frozen-ii-rewrite-beat-sheet
 ---
 # Frozen II Rewrite – Beat Sheet
@@ -21,13 +22,13 @@ The initial project started in 21 Dec 2019, after watching the movie twice in ea
 ### Key Points
 
 - Aligned and synergised the climaxes of Elsa’s and Anna’s arcs
-	- Elsa sees Anna in Ahtohallan
+ 	- Elsa sees Anna in Ahtohallan
 - Refocused the themes and motifs of the story
 - Ensured constant ticking-time bomb and antagonistic force:
-	- Antagonism personified by a human, Runeard
+ 	- Antagonism personified by a human, Runeard
 - Concrete plot/scene objectives
 - Kristoff isn’t a himbo anymore, he contributes way more with his subplot arcs with Anna and Mattias
-	- Mattias isn’t a plot device, he contributes more
+ 	- Mattias isn’t a plot device, he contributes more
 - Made magic out of plot holes
 - Reworked the lore
 - Fleshed out objectives and conflict of our two factions in the Forest

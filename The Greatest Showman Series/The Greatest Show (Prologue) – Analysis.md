@@ -3,11 +3,12 @@ collection:
   - the-greatest-showman-series
 date_created: '2022-08-07T00:00:00.000Z'
 date_modified: '2023-07-01T00:00:00.000Z'
-date: '2019-11-01'
+published: 2019-11-01T00:00:00.000Z
 jekyllcss: showman
 wtsa_categories: 🎪 The Greatest Showman Series
 up:
   - the-greatest-showman-series
+date: '2019-11-01'
 slug: the-greatest-showman-series/the-greatest-show-(prologue)-analysis
 ---
 # The Greatest Show (Prologue) – Analysis
@@ -211,8 +212,8 @@ The “show”
 - The ensemble really reinforces the “circus family” theme: no one is excluded from joining the chorus
 - The busy colourful action-packed visuals combined with the loud and fast-paced drums really feels like some enticing, surreal dream that you’d wake up sweating from.
 - Might be a stretch: but a major third replaces a minor sixth chord in the second half of the chorus, on “Impossible/Watching it come true”.
-	- Minor sixths are commonly used in “typical, safe and formulaic” 4-chord pop songs, which this song seems to be so far, until we hit that major third instead.
-	- It could be implied, then, that when you break out of the mould of “secure and conventional” into “crazy and risky”, then impossible dreams can come true.
+ 	- Minor sixths are commonly used in “typical, safe and formulaic” 4-chord pop songs, which this song seems to be so far, until we hit that major third instead.
+ 	- It could be implied, then, that when you break out of the mould of “secure and conventional” into “crazy and risky”, then impossible dreams can come true.
 
 ### What’s the name about?
 

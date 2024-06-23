@@ -4,7 +4,7 @@ collection:
 up:
   - film-reviews
 wtsa_categories: 🎬 Film Reviews
-date: '2021-11-14'
+published: 2021-11-14T00:00:00.000Z
 aliases:
   - Descendants 1
 light_theme_color: '#362ac3'
@@ -12,6 +12,7 @@ dark_theme_color: '#837bd5'
 cssclasses:
   - wtsa
 next: film-reviews/descendants-2-film-review
+date: '2021-11-14'
 slug: film-reviews/descendants-1-film-review
 ---
 

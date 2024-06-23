@@ -2,9 +2,10 @@
 up:
   - the-greatest-showman-series
 wtsa_categories: 🎪 The Greatest Showman Series
-date: '2020-04-07'
+published: 2020-04-07T00:00:00.000Z
 collection:
   - the-greatest-showman-series
+date: '2020-04-07'
 slug: the-greatest-showman-series/the-greatest-showman-series-reflection
 ---
 # The Greatest Showman – Series Reflection

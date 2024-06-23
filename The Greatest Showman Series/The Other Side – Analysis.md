@@ -5,6 +5,7 @@ up: the-greatest-showman-series
 aliases: The Other Side
 wtsa_categories: 🎪 The Greatest Showman Series
 jekyllcss: showman
+published: 2019-11-29T00:00:00.000Z
 date: '2019-11-29'
 slug: the-greatest-showman-series/the-other-side-analysis
 ---

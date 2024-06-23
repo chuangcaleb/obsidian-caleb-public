@@ -3,13 +3,14 @@ aliases: Mulan II Rewrite
 created: '2022-08-07T00:00:00.000Z'
 cssclasses: wtsa
 dark_theme_color: '#d84c4c'
-date: '2021-11-27'
+published: 2021-11-27T00:00:00.000Z
 date_created: '2022-08-07T00:00:00.000Z'
 date_modified: '2023-02-01T00:00:00.000Z'
 light_theme_color: '#a32020'
 related: Mulan II – Film Review
 wtsa_categories:
   - 🌸 Mulan II
+date: '2021-11-27'
 slug: mulan-ii-rewrite-beat-sheet
 ---
 # Mulan II Rewrite – Beat Sheet
@@ -44,13 +45,13 @@ Scene headers are labelled accordingly:
 - Shang
 - Mushu
 - Gang of Three:
-	- Yao,
-	- Chien-Po,
-	- Ling
+ 	- Yao,
+ 	- Chien-Po,
+ 	- Ling
 - Princesses *(Middle Kingdom)*
-	- Mei *(middle),*
-	- Su *(youngest),*
-	- Ting-Ting *(oldest)*
+ 	- Mei *(middle),*
+ 	- Su *(youngest),*
+ 	- Ting-Ting *(oldest)*
 - Emperor *(Middle Kingdom)*
 - Emperor Qin *(Northern Qui Gong Kingdom)*
 - Princes *(Qui Gong)*
@@ -103,7 +104,7 @@ Scene headers are labelled accordingly:
 - `The Queen reprimands them, shoves fans into their hands, and forces their posture.`
 - `The girls are: heartbroken; disgusted; conflictingly obedient — in ascending order of age.`
 - `The Queen sings Who Could Ever Ask For More (Like Other Girls’ intro):` *`Playing your role is the ultimate thing you can do.`*
-	- The first verse of the song seems so different from the rest of it: almost as if it were another song?
+ 	- The first verse of the song seems so different from the rest of it: almost as if it were another song?
 - `By the end, the girls are all emotional and just bury their faces in their mom’s chest.`
 - `The Queen is aghast — she orders all her handmaidens out. The daughters prepare for a harsh scolding.`
 - `When everyone leaves, the Queen looks down. She's unable to bring herself to scolding them. She warps her arms around them, almost crying too.`
@@ -113,7 +114,7 @@ Scene headers are labelled accordingly:
 ### 1.2 Mulan Intro
 
 - Time jump: Present
-	- perhaps with a timelapse of the Palace, across twenty years of seasons coming and going, the Palace expanding. A big explosion of fireworks as Mulan defeats Shan Yu from the first movie. Then two more seasonal cycles.
+ 	- perhaps with a timelapse of the Palace, across twenty years of seasons coming and going, the Palace expanding. A big explosion of fireworks as Mulan defeats Shan Yu from the first movie. Then two more seasonal cycles.
 
 **EXT. PADDY FIELD - DAY**
 
@@ -166,20 +167,20 @@ Scene headers are labelled accordingly:
 **INT. THRONE ROOM, ROYAL PALACE, MIDDLE KINGDOM**
 
 - They arrive at the palace.
-- `“Ah, General Li Shang, the most dutiful man in all of China, just as his father before him. There is no one else I’d rather appoint to lead this important mission. And I’m sure there’s no one else you’d rather have beside you than Fa Mulan, a warrior worth ten thousand men—also, your` ~~`fiance`~~` bride-to-be. Congratulations, by the way.”`
-	- Caleb’s post-edit: HA fiancé is overtly French. Let’s have him say: “bride-to-be”.
+- `“Ah, General Li Shang, the most dutiful man in all of China, just as his father before him. There is no one else I’d rather appoint to lead this important mission. And I’m sure there’s no one else you’d rather have beside you than Fa Mulan, a warrior worth ten thousand men—also, your` ~~`fiance`~~`bride-to-be. Congratulations, by the way.”`
+ 	- Caleb’s post-edit: HA fiancé is overtly French. Let’s have him say: “bride-to-be”.
 - The Emperor explains the quest:
-	- `Remnants of the Huns are one big nomadic group, raiding our cities`
-	- `Taking advantage of Shan Yu’s mostly successful military campaign from the previous movie`
-	- `We were overconfident on The Great Wall. Too many soldiers were already retired from active duty when Shan Yu striked.`
-	- `In Mulan I, we had to call on reserves and new recruits: we relaxed the conscription conditions, extendeding to Mulan’s old father, along with Shang’s entire troop made up of previously “unfit for war” males like the Gang of Three`
-	- `We still don't quite yet have enough troops to properly defend the Great Wall and repel the Hun raids.`
-	- Instead: we will send princesses to make an alliance with a neighbouring kingdom.
+ 	- `Remnants of the Huns are one big nomadic group, raiding our cities`
+ 	- `Taking advantage of Shan Yu’s mostly successful military campaign from the previous movie`
+ 	- `We were overconfident on The Great Wall. Too many soldiers were already retired from active duty when Shan Yu striked.`
+ 	- `In Mulan I, we had to call on reserves and new recruits: we relaxed the conscription conditions, extendeding to Mulan’s old father, along with Shang’s entire troop made up of previously “unfit for war” males like the Gang of Three`
+ 	- `We still don't quite yet have enough troops to properly defend the Great Wall and repel the Hun raids.`
+ 	- Instead: we will send princesses to make an alliance with a neighbouring kingdom.
 - Mulan `doesn’t` overreact about arranged marriages, `but does voice her concern for the princesses:` the Emperor replies that they understand their duty and accept the honour.
 - `Shang asks why the alliance demands marriage.`
-	- `Reply: Emperor Qin is demanding and unhonourable—but he’s our last hope.`
+ 	- `Reply: Emperor Qin is demanding and unhonourable—but he’s our last hope.`
 - The Emperor provides them an entourage `with a squad of palace guards`
-	- Shang requests to have `an additional` three *special* unit soldiers…
+ 	- Shang requests to have `an additional` three *special* unit soldiers…
 
 ### 1.6 The Gang of Three
 
@@ -195,9 +196,9 @@ Scene headers are labelled accordingly:
 
 - The three princesses (Su, Mei, and Ting-Ting) enter the carriage, hiding their faces with their fans.
 - Mei drops her shoe. `None of the entourage notices (Remember, they have an entourage now).`
-	- Yao deliberates, then decides to pick it for her.
-	- `Mei mutters, “You’re just the guard – it’s not your duty to do that.” “No, but it would be my honour.”`
-	- `Mei blushes, "No, the honor is mine, that I would have the privillage to be escorted by a soldier who is more than his strength." Yao runs back, heart racing.`
+ 	- Yao deliberates, then decides to pick it for her.
+ 	- `Mei mutters, “You’re just the guard – it’s not your duty to do that.” “No, but it would be my honour.”`
+ 	- `Mei blushes, "No, the honor is mine, that I would have the privillage to be escorted by a soldier who is more than his strength." Yao runs back, heart racing.`
 - Shang swears their safety, `on the basis of his generalship.`
 - Mulan prods them: `she herself was matchmade to local men, but the princesses would stay forever in a foreign land.`
 - `The princesses affirm that just as Mulan saved their kingdom with the sword, they can save the kingdom with their marriages. As Mulan honoured her father, they must honour the Emperor.`
@@ -212,7 +213,7 @@ Scene headers are labelled accordingly:
 **EXT. GRASSLANDS, WILDERNESS - DAY**
 
 - Mulan and Shang discuss the princesses’ arranged marriages in light of their own happy one.
-	- `Shang: “A soldiers’ duty is to die in war; a princess’ duty is to live in an arranged marriage.”`
+ 	- `Shang: “A soldiers’ duty is to die in war; a princess’ duty is to live in an arranged marriage.”`
 - Mushu tells Cri-Kee that he’d test the relationship, `just to be “really sure that Shang was worth Mushu himself losing Mulan”`. With `a slight hint of` selfishness.
 - Yao expresses his infatuation to the Gang of Three, but the other two remind him that these princesses are engaged, `and that to be entrusted as a royal escort was the highest honour for a soldier. Who could ever ask for more? Yao huffs.`
 - Mei simps over Yao to her sisters. Ting-Ting reminds her of the solemn oath, `the consequences and the great dishonour she would bring.` They hide their faces with their fans again.
@@ -232,12 +233,12 @@ Scene headers are labelled accordingly:
 **LATER**
 
 - `Mei squats down to assist Mulan in packing travel prep.`
-	- `"Mulan raises an eyebrow, "Princess, you don't have to help me!"``
-	- `“I protested the wedding for months. But when I heard that Fa Mulan was postponing her wedding for this — the same Fa Mulan who took her father's place in the army — I had dishonor on myself. So I finally agreed.”`
+ 	- `"Mulan raises an eyebrow, "Princess, you don't have to help me!"``
+ 	- `“I protested the wedding for months. But when I heard that Fa Mulan was postponing her wedding for this — the same Fa Mulan who took her father's place in the army — I had dishonor on myself. So I finally agreed.”`
 - `Mulan realises the Emperor chose her specifically to convince Mei. A twinge of guilt.` `"Just because of me? I feel responsible… this is not what your heart wants."`
-	- `Mei: “My heart wants to honour my duty to my country, and my father. Just like how you honoured your duty to your father.”`
+ 	- `Mei: “My heart wants to honour my duty to my country, and my father. Just like how you honoured your duty to your father.”`
 - `Mulan: “Mei… my father's duty for me was to impress the matchmaker. And I failed my duty, reaaally badly. But slipping away to take my father's place in the army? He would never make that my duty. That was me following my heart. I want this for you, too.”`
-	- `Mei tears up. She starts… sobbing. "I don't want to do this. But I do! Mulan!"`
+ 	- `Mei tears up. She starts… sobbing. "I don't want to do this. But I do! Mulan!"`
 - `Mulan puts a hand on the shoulder of the younger woman, just a girl. "The greatest gift and honor, for your father, is just having you as his daughter."`
 
 ### 2A.3 Runaway Carriage
@@ -249,8 +250,8 @@ Scene headers are labelled accordingly:
 - `This accidentally causes` the carriage with the princesses to runaway `and break away from the main fight.`
 - The gang `and some enemies break off to` catch the runaway carriage. `The main entourage soldiers are busy fighting the Huns`
 - `The gang has to jump off the runaway carriage, across a chasm, to the other side.`
-	- The carriage is destroyed in the chasm.
-	- `Perhaps a rope bridge that bridges the chasm was destroyed too.`
+ 	- The carriage is destroyed in the chasm.
+ 	- `Perhaps a rope bridge that bridges the chasm was destroyed too.`
 - `The Huns retreat for a more opportune moment.`
 - `The entourage arrive at the chasm, but even throwing a rope doesn't reach far enough.`
 - `They establish it would take a day to re-route the chasm. Shang shouts across, “To make the deadline, we must travel without the entourage!”`
@@ -264,9 +265,9 @@ Scene headers are labelled accordingly:
 - The couple apologise: they both acknowledge they both must be more gentle. `They are earlier on schedule and do have some hours to spare—Shang compromises to rest and make camp instead of pushing on. They note that before Chien-Po finishes his watch shift, they can do some sparring practice: their unique reconciliation activity.`
 - The Gang of Three try to impress the princesses.
 - Mei teases Ting-Ting about Ling, but
-	- `Ting-Ting: “We can't fall for them! How can you hide from your duty?”`
-	- `Mei: “How can you hide from who you really are?”`
-	- Mei storms into her tent.
+ 	- `Ting-Ting: “We can't fall for them! How can you hide from your duty?”`
+ 	- `Mei: “How can you hide from who you really are?”`
+ 	- Mei storms into her tent.
 
 ### 2A.5 Princesses Break
 
@@ -280,11 +281,11 @@ Scene headers are labelled accordingly:
 - Her sisters break out into Like Other Girls: They all fantasise a life without duties and all heart.
 - `Ting-Ting ugly laughs—she instinctively reaches for her fan to hide and suppress it—but decides to toss it away!`
 - `BUT, at the end of the song, Ting-Ting hardens again, picking up her fan:`
-	- `“It doesn’t matter who you are on the inside, because on the outside, you’re a princess. A princess worth a hundred thousand citizens."`
-	- `"You saw the Huns who just attacked us, who would destroy our kingdom."`
-	- `"Mother had given me the special duty to make sure we do what we must.”`
+ 	- `“It doesn’t matter who you are on the inside, because on the outside, you’re a princess. A princess worth a hundred thousand citizens."`
+ 	- `"You saw the Huns who just attacked us, who would destroy our kingdom."`
+ 	- `"Mother had given me the special duty to make sure we do what we must.”`
 - `Mei says, “I hate that you’re right,” and storms out of the tent.`
-	- `Ting-Ting looks away, stifling tears, because she hates that too.`
+ 	- `Ting-Ting looks away, stifling tears, because she hates that too.`
 
 ### 2A.6 Going Crazy
 
@@ -384,7 +385,7 @@ Shang tosses away his staff and heads into his tent. Mulan takes over the night 
 
 - Whispering out of earshot of Mulan nor Shang, the Gang of Three invite the princesses to sneak out to the nearby village to have fun.
 - Chien-Po: `“We risk our lives everyday to become a true, real man`; we just want to be *like other guys*…”
-	- #todo improve rationale for the guards, avoid nice-guy syndrome
+ 	- #todo improve rationale for the guards, avoid nice-guy syndrome
 - The other two sisters look to Ting-Ting and she can’t bear their defeated faces. `She huddles the sisters together and whispers, “We’re going to spend the rest of our lives following our duty. You both get one night to follow your heart.”`
 - `The sisters turn around and bittersweetly nod yes.` The Gang of Three celebrate! And lead them off.
 - Mushu sees this and informs Mulan, who leaves right away.
@@ -397,10 +398,10 @@ Shang tosses away his staff and heads into his tent. Mulan takes over the night 
 
 - Su and Chien Po bond over picking out food
 - Yao tries to impress Mei with his strength, `by apprehending an escaping thief. The thief rages. Yao decides against whacking him further, instead gently correcting him by teaching him his own anger issues techniques, impressing Mei further.`
-	- `"Nan-wu-ah-me-toe-fu-da…"`
+ 	- `"Nan-wu-ah-me-toe-fu-da…"`
 - Ling woos Ting-Ting with more jokes but she just turns away, making some gagging noise.
-	- Ling admits defeat, accidentally lighting firecrackers. Ting-Ting `accidentally drops her fan,` letting out a snort-y laugh.
-	- `She reveals she had been taught to suppress her un-princess-like laughter.` Ling says he finds it endearing; `she replies that he’d be the first.
+ 	- Ling admits defeat, accidentally lighting firecrackers. Ting-Ting `accidentally drops her fan,` letting out a snort-y laugh.
+ 	- `She reveals she had been taught to suppress her un-princess-like laughter.` Ling says he finds it endearing; `she replies that he’d be the first.
 
 **INT. SHANG’S TENT, CAMPSITE, FOREST - NIGHT**`
 
@@ -417,12 +418,12 @@ Shang tosses away his staff and heads into his tent. Mulan takes over the night 
 - `An Hun archer has his sights aimed on Mei. He releases the arrow — but it’s cut out of the air by Mulan’s sword. She's been following the whole time.`
 - `The pairs scatter — but the arrows keep following them. It's like facing a modern-day hidden sniper.`
 - `Shang gets Ling to go out as bait. Mulan vehemently disgrees. Shang overrules, Ling runs out at Ting-Ting's dismay.`
-	- `Ling narrowly dodges all the arrows coming at him.`
-	- `Shang sees the sniper: he runs out, takes his time to draw his own bow. The sniper spots him too, and aims back.`
-	- `They exchange shots: the Hun goes down, but Shang gets hit in the shoulder, wounded.`
+ 	- `Ling narrowly dodges all the arrows coming at him.`
+ 	- `Shang sees the sniper: he runs out, takes his time to draw his own bow. The sniper spots him too, and aims back.`
+ 	- `They exchange shots: the Hun goes down, but Shang gets hit in the shoulder, wounded.`
 - `A hidden second archer spots the wounded Shang. Fires.`
-	- `Yao pulls Shang out of the way, saving him.`
-	- `Chien-Po and Mulan take down the final archer.`
+ 	- `Yao pulls Shang out of the way, saving him.`
+ 	- `Chien-Po and Mulan take down the final archer.`
 - `The Huns flee again.
 
 #### 2B.2B Sharp Contention
@@ -430,27 +431,27 @@ Shang tosses away his staff and heads into his tent. Mulan takes over the night 
 - `With an arrow still lodged in the shoulder,` Shang confronts the guards for endangering the mission, `saying they should be executed right there for treason.`
 - Mulan steps in, `defending them that it would’ve been worse to have been ambushed in the forest. Besides, at one moment, Yao saved Shang's life — just like Mulan did (back in the first movie) so Shang should give him the same honour. Let's get that arrow wound treated first—`
 - Shang `harshly shushes Mulan,` puts his foot down and forbids the pairs to talk.
-	- `He orders the Gang of Three to escort the princesses to accomodations.`
-	- `Shang turns to Ting-Ting: “I expected more from you. Your mother would've expected more from you.” She is cut to the bone.`
+ 	- `He orders the Gang of Three to escort the princesses to accomodations.`
+ 	- `Shang turns to Ting-Ting: “I expected more from you. Your mother would've expected more from you.” She is cut to the bone.`
 - Now alone together, Shang blames Mulan for filling their minds with “heart over duty”.
-	- `Mulan: "Shang, you're too harsh—"`
-	- `Shang: "You too. Stop talking… with them. You gave them false hope that they could escape their duty. I would've stopped tonight's disaster if I had known."`
-	- `Mulan replies, “You would have known if you bothered talking with them. They were safe—I was shadowing them.`
-	- `“You knew, and you didn't tell me?!”`
-	- `“Would you have agreed?”`
-	- `“Of course not! The guards are a liability to the assets.”`
-	- `“What are they to you, real people with real feelings, or just resources in another mission?"`
-	- `They are real people, in a real war, with real bare minimum duties that they need to honour!`
+ 	- `Mulan: "Shang, you're too harsh—"`
+ 	- `Shang: "You too. Stop talking… with them. You gave them false hope that they could escape their duty. I would've stopped tonight's disaster if I had known."`
+ 	- `Mulan replies, “You would have known if you bothered talking with them. They were safe—I was shadowing them.`
+ 	- `“You knew, and you didn't tell me?!”`
+ 	- `“Would you have agreed?”`
+ 	- `“Of course not! The guards are a liability to the assets.”`
+ 	- `“What are they to you, real people with real feelings, or just resources in another mission?"`
+ 	- `They are real people, in a real war, with real bare minimum duties that they need to honour!`
 - `“Yao, Ling and Chien-Po gave the princesses honour by taking them out on one last night. In marriage, the women leave their family, not the men. These three young girls may never return home, forever. Not that you’d understand.”`
 - `Shang spins around and huffs, “Men, all across the nation, way too young AND far too old — they leave their family, over some parchment with their family name. So, I understand perfectly when nearly all of these men NEVER return home to their mothers, wives… and children.”`
 - `"And you don't find it ridiculous? That it doesn't matter if an elderly man has given up the best of his years with his family for the army, got injured with a serious lifelong limp — that he can get thrown into war again? He will surely die!"`
-	- `"Not if sacrificing that one soldier is the difference between victory and defeat! One grain of rice can tip the scale—"`
-	- `"—That man is my 爸爸, Shang! You would so easily send Ling out as bait to die? Just because they're men?"`
-	- `"Too many lives were already sacrificed! Their deaths would be in vain!"`
-	- `"Li Shang, you have no honor!"`
+ 	- `"Not if sacrificing that one soldier is the difference between victory and defeat! One grain of rice can tip the scale—"`
+ 	- `"—That man is my 爸爸, Shang! You would so easily send Ling out as bait to die? Just because they're men?"`
+ 	- `"Too many lives were already sacrificed! Their deaths would be in vain!"`
+ 	- `"Li Shang, you have no honor!"`
 - Shang `rips out the arrow from his shoulder, gesturing to it. “My 爸爸 (father) needs me to complete his mission. If you're not willing to be that one grain of rice... then we shouldn't be together."`
 - Shang assumes leadership. `They give each other the cold shoulder.`
- 
+
 ### 2B.3 Confession Valley
 
 **EXT. VALLEY - DAY**
@@ -474,7 +475,7 @@ Shang tosses away his staff and heads into his tent. Mulan takes over the night 
 - The duo take out many of the Huns along the bridge, but…
 - The Huns cut the rope on their end.
 - The flailing bridge is `swept downstream by the coursing river, and the duo are thrown off-kilter. The guards hold the bridge in place from their end.`
-- Mulan and Shang fall into the river. `Shang catches hold of a flaying rope and catches Mulan. He swings her up so she can grab a rope herself, causing his own rope to snap, so he reaches out for Mulan's arm.` 
+- Mulan and Shang fall into the river. `Shang catches hold of a flaying rope and catches Mulan. He swings her up so she can grab a rope herself, causing his own rope to snap, so he reaches out for Mulan's arm.`
 - Mulan grabs a rope hanging by its thread. Shang holds onto and weighs on her, `being pulled by the current.`
 - `“The rope can’t hold us both. A soldier’s duty is to die in war, huh? …You’re the craziest person I’ve ever met. It is my honour to owe you my life.”`
 - With that, Shang lets go `gets swept under by the currents. The guard trio retract the rope, finding Mulan alone and wailing.`
@@ -514,11 +515,11 @@ Shang tosses away his staff and heads into his tent. Mulan takes over the night 
 
 - `As the afternoon sun fades,` the princesses and Gang of Three `have been exploring for clues to Mulan's whereabouts.`
 - `They stumble upon the Hun camp. They overhear that:`
-	- `Mulan had offered herself as bride! The Huns failed to stop the betrothal.`
-	- `The Huns will make an attack during the wedding! (But to be conservative, saving troops for the later war)`
-	- `If they can ruin the wedding, Emperor Qin will give up on the alliance completely.`
+ 	- `Mulan had offered herself as bride! The Huns failed to stop the betrothal.`
+ 	- `The Huns will make an attack during the wedding! (But to be conservative, saving troops for the later war)`
+ 	- `If they can ruin the wedding, Emperor Qin will give up on the alliance completely.`
 - The gang hastens towards the palace. `“They wouldn’t believe us if we warned them. We need another way in… oh no,` ~~`I feel a deja vu coming up.`~~ `why do I feel like we've been here before?`
-	- Again, “deja vu” is overtly *not* Chinese LOL
+ 	- Again, “deja vu” is overtly *not* Chinese LOL
 - `Back with the Huns, they continue, “Did you see that Chinese soldier who fell into the river?” “Yeah, he looks just like that general we fought a year ago at that village!”`
 - `Back the broken bridge, Shang’s sword and helmet are gone.`
 
@@ -608,7 +609,7 @@ Shang tosses away his staff and heads into his tent. Mulan takes over the night 
 - `Qin is incredulous. He’s about to pronounce a death sentence.`
 - `“Dishonour!” Chien-Po cries from the crowd. “Dishonour on you!” some citizen echoes. “I will fight for the alliance! For honour!” The courtyard is in uproar.`
 - `Qin looks around panickingly. He’s baffled. “Okay! Okay!” He grovels at Mulan’s feet. “Please! Please grant us the honour to make the alliance with you!”`
-- `Shang stares off into the sky, “I understand now, 爸爸: one grain of rice `*`can`* `tip the scale.”`
+- `Shang stares off into the sky, “I understand now, 爸爸: one grain of rice`*`can`* `tip the scale.”`
 
 ### `3.7 The Three Reunited - NEW`
 
@@ -619,8 +620,8 @@ Shang tosses away his staff and heads into his tent. Mulan takes over the night 
 - `The princesses step forward: “爸爸, these men` *`have`* `protected us, besides saving our kingdom too?!! And most of all… they brought` *`Honour`* `to us. To Us All.”`
 - Following your duty is just like following your heart, except you’re following someone else’s heart, usually against your own heart. Because you want to honour that person.
 - 爸爸, we want to honour you.
-	- `“We would cut our royalty ties, and live as nobodies Like Other Girls, if it means to be with them!”`
-	- `“…But I know we are not Like Other Girls. While we will follow every word you command to honor our duty, we will also follow our heart, for that is honouring ourselves.”`
+ 	- `“We would cut our royalty ties, and live as nobodies Like Other Girls, if it means to be with them!”`
+ 	- `“…But I know we are not Like Other Girls. While we will follow every word you command to honor our duty, we will also follow our heart, for that is honouring ourselves.”`
 - `The Emperor raises an amused eyebrow. What happens is left vague.`
 
 ### `3.8 The Marriage - NEW`
@@ -632,7 +633,7 @@ Shang tosses away his staff and heads into his tent. Mulan takes over the night 
 - `Mushu turns to see the room before him: Mulan’s parents, Shang’s mother, the Gang of Three and the princesses. “Wait, so you’ve told everyone. I thought we had a little something special!”`
 - `“Of course I told everyone. You’re my most special friend who agreed to officiate my wedding!”`
 - `Mushu officiates the wedding, tearing up in pride. Mulan says yes.`
-	- Probably need to research on ancient Chinese marriage practices, this is so Western LOL. But eh.
+ 	- Probably need to research on ancient Chinese marriage practices, this is so Western LOL. But eh.
 - `Mulan goes in to kiss Shang. Yay!`
 - `Then, she pulls back, and Mushu’s gone.`
 - `Bittersweet moment: Mushu has fulfilled his duty. Mulan and Shang are married. Princesses/Gang of Three are fulfiled. China (Middle Kingdom) is saved. Woooo`

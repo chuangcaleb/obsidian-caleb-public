@@ -5,9 +5,10 @@ aliases:
   - Rewrite the Stars
 wtsa_categories: 🎪 The Greatest Showman Series
 jekyllcss: showman
-date: '2020-02-21'
+published: 2020-02-21T00:00:00.000Z
 up:
   - the-greatest-showman-series
+date: '2020-02-21'
 slug: the-greatest-showman-series/rewrite-the-stars-analysis
 ---
 # Rewrite the Stars – Analysis

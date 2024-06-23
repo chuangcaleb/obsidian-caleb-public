@@ -3,16 +3,17 @@ created: '2022-11-18T00:00:00.000Z'
 cssclasses:
   - wtsa
 dark_theme_color: '#fd7c52'
-date: '2022-11-28'
+published: 2022-11-28T00:00:00.000Z
 date_created: '2022-11-18T00:00:00.000Z'
 date_modified: '2023-06-26T00:00:00.000Z'
 light_theme_color: '#a34325'
 link_href: https://www.scriptslug.com/assets/scripts/the-lion-king-1994.pdf
 link_label: The Lion King Script – Script Slug
+wtsa_categories: 🔧 One Small Change
+date: '2022-11-28'
 quickshare-date: '2023-09-15 14:07:28'
 quickshare-url: >-
   https://noteshare.space/note/clmk76nox1910701mw4a2os1h7#7ETj+q4lZ8q+/5rXbpSEkBvSWBFX/AxEUckImbBcS2c
-wtsa_categories: 🔧 One Small Change
 slug: guilt-is-agency-(the-lion-king)-one-small-change
 ---
 # Guilt is Agency (The Lion King) – One Small Change
@@ -517,21 +518,21 @@ Simba could have chosen his next action from the following philosophies/strategi
 **1. Challenge Scar on the basis that physical strength (or rather, *effort*) makes up for and negates his past mistake**
 
 - Simba's philosophy of **brute force**
-	- which previously caused his father's death
+ 	- which previously caused his father's death
 - "I made a mistake because I wasn't physically strong enough before—so ASAP, I need to *cover up* that mistake by attaining a *greater* victory by brute force! Sparta!!!"
 - → Simba would overpower Scar, but the lionesses wouldn't back a king who usurped the throne — Simba would be just like Scar.
 
 **2. Run away to the wilderness again, now that everyone knows his mistake**
 
 - Simba's later philosophy of **defeatist avoidance**
-	- which previously caused Simba to self-exile
+ 	- which previously caused Simba to self-exile
 - "(If they knew the truth about my past? It'd be impossible to be taken back, they'd turn away from me. So just don't bother trying. Okay, Scar, I give up, you win again."
 - → Simba would abdicate the throne, and Scar would continue his reign of tyranny
 
 **3. Dismiss his past failure, that Mufasa's death doesn't really matter, that they have to look forward and not back**
 
 - Timon and Pumbaa's philosophy of **blind nihilism**
-	- which previously caused Simba to stay in exile and never return
+ 	- which previously caused Simba to stay in exile and never return
 - "My mistakes may have killed my father, the king. But Mom, Nala, don't worry about it! It's in the past, you can't change it, it doesn't matter! What are *consequences of responsibility*?"
 - → Simba would overpower Scar, but the animials adored Mufasa and they wouldn't back Simba if he were to treat every royal mistake like it was nothing. Scar would also argue, besides, if it all really meant nothing, then the throne also shouldn't matter to Simba.
 

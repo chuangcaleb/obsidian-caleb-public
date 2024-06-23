@@ -6,7 +6,7 @@ up:
 wtsa_categories:
   - 🌸 Mulan II
   - 🎬 Film Reviews
-date: '2021-09-05'
+published: 2021-09-05T00:00:00.000Z
 aliases:
   - Mulan II
 light_theme_color: '#a32020'
@@ -14,6 +14,7 @@ dark_theme_color: '#d84c4c'
 cssclasses:
   - wtsa
 related: Mulan II Rewrite – Beat Sheet
+date: '2021-09-05'
 slug: film-reviews/mulan-ii-film-review
 ---
 

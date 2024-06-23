@@ -11,12 +11,13 @@ collection:
 cssclasses:
   - wtsa
 dark_theme_color: '#3c6e61'
-date: '2022-05-25'
+published: 2022-05-25T00:00:00.000Z
 date_created: '2022-08-07T00:00:00.000Z'
 date_modified: '2023-01-19T00:00:00.000Z'
 light_theme_color: '#65ab99'
 wtsa_categories:
   - 🎬 Film Reviews
+date: '2022-05-25'
 slug: film-reviews/over-the-moon-film-review
 ---
 # Over The Moon – Film Review
