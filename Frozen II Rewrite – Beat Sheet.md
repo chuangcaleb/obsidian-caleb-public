@@ -1,6 +1,6 @@
 ---
 collection:
-  - '[[Frozen II]]'
+  - ''
 created: '2022-10-19T00:00:00.000Z'
 published: '2019-12-21'
 link_href: >-
@@ -9,7 +9,6 @@ link_label: F2 Rewrite (Beat Sheet) – Google Docs
 related:
   - Frozen II Rewrite – Screenplay
 wtsa_categories: ❄️ Frozen II Rewrite
-up: Frozen II Rewrite
 slug: frozen-ii-rewrite-beat-sheet
 ---
 # Frozen II Rewrite – Beat Sheet

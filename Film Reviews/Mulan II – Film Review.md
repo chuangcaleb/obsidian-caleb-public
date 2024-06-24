@@ -1,6 +1,6 @@
 ---
 collection:
-  - film-reviews
+  - ''
 up:
   - film-reviews
 wtsa_categories:

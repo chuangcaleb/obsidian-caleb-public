@@ -7,7 +7,7 @@ dark_theme_color: '#5fb2ed'
 cssclasses:
   - wtsa
 collection:
-  - film-reviews
+  - ''
 slug: film-reviews/frozen-ii-film-review
 ---
 # Frozen II – Film Review
