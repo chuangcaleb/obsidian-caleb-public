@@ -4,6 +4,7 @@ tags:
 created: '2024-03-23T00:00:00.000Z'
 modified: '2024-03-23T00:00:00.000Z'
 series: true
+emojip: 🎪
 collectionItems:
   - the-greatest-showman-series/the-greatest-show-(prologue)-analysis
   - the-greatest-showman-series/a-million-dreams-analysis

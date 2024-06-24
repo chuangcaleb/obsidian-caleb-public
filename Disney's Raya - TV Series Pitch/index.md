@@ -10,6 +10,7 @@ longform:
 tags:
   - 📂/collection
 series: true
+emojip: 💎
 collectionItems:
   - disney's-raya-tv-series-pitch/raya-disclaimer
   - disney's-raya-tv-series-pitch/raya-e1-kumandra
