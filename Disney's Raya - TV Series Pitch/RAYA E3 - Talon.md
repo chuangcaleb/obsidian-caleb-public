@@ -4,7 +4,7 @@ next: disney's-raya-tv-series-pitch/raya-e4-spine
 created: '2023-09-21T00:00:00.000Z'
 modified: '2024-06-08T00:00:00.000Z'
 collection:
-  - disney's-raya-tv-series-pitch/raya-index
+  - disney's-raya-tv-series-pitch
 slug: disney's-raya-tv-series-pitch/raya-e3-talon
 ---
 # RAYA E3 - Talon
