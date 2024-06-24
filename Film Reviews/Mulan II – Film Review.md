@@ -1,6 +1,6 @@
 ---
 collection:
-  - ''
+  - mulan-ii
 up:
   - film-reviews
 wtsa_categories:

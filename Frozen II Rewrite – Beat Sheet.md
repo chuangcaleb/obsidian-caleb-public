@@ -1,6 +1,6 @@
 ---
 collection:
-  - ''
+  - frozen-ii
 created: '2022-10-19T00:00:00.000Z'
 published: '2019-12-21'
 link_href: >-

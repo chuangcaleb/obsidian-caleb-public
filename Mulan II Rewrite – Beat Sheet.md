@@ -13,7 +13,7 @@ related: Mulan II – Film Review
 wtsa_categories:
   - 🌸 Mulan II
 collection:
-  - ''
+  - mulan-ii
 slug: mulan-ii-rewrite-beat-sheet
 ---
 # Mulan II Rewrite – Beat Sheet

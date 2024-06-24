@@ -11,6 +11,7 @@ tags:
   - 📂/collection
 series: true
 emojip: 💎
+index: true
 collectionItems:
   - disney's-raya-tv-series-pitch/raya-disclaimer
   - disney's-raya-tv-series-pitch/raya-e1-kumandra

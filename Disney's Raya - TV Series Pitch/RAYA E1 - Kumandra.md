@@ -4,7 +4,7 @@ created: '2023-09-21T00:00:00.000Z'
 cssclasses:
   - img-grid
 collection:
-  - disney's-raya-tv-series-pitch
+  - disney's-raya-tv-series-pitch/raya-index
 slug: disney's-raya-tv-series-pitch/raya-e1-kumandra
 ---
 # RAYA E1 - Kumandra
