@@ -7,8 +7,7 @@ wtsa_categories:
   - 🌸 Mulan II
   - 🎬 Film Reviews
 published: '2021-09-05'
-aliases:
-  - Mulan II
+aliases: null
 light_theme_color: '#a32020'
 dark_theme_color: '#d84c4c'
 cssclasses:

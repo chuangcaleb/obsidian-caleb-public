@@ -1,5 +1,6 @@
 ---
-aliases: Mulan II Rewrite
+aliases:
+  - Mulan II Rewrite
 created: '2022-08-07T00:00:00.000Z'
 cssclasses: wtsa
 dark_theme_color: '#d84c4c'
@@ -10,6 +11,8 @@ light_theme_color: '#a32020'
 related: Mulan II – Film Review
 wtsa_categories:
   - 🌸 Mulan II
+collection:
+  - '[[Mulan II]]'
 slug: mulan-ii-rewrite-beat-sheet
 ---
 # Mulan II Rewrite – Beat Sheet

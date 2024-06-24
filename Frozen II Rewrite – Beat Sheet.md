@@ -1,5 +1,6 @@
 ---
-up: Frozen II Rewrite
+collection:
+  - '[[Frozen II]]'
 created: '2022-10-19T00:00:00.000Z'
 published: '2019-12-21'
 link_href: >-
@@ -8,11 +9,12 @@ link_label: F2 Rewrite (Beat Sheet) – Google Docs
 related:
   - Frozen II Rewrite – Screenplay
 wtsa_categories: ❄️ Frozen II Rewrite
+up: Frozen II Rewrite
 slug: frozen-ii-rewrite-beat-sheet
 ---
 # Frozen II Rewrite – Beat Sheet
 
-<!--more-->
+[LINK](https://docs.google.com/document/d/1MZKWkegyyvGFvyRAcahXhfmD-dE4LG-GbGaRsCyl7-s/edit?usp=sharing)
 
 ## F2R
 
@@ -54,5 +56,3 @@ Adding comments to the Google Docs, giving my commentary on the different plot p
 This was for a reminder for myself, as well as for anyone interested to read.
 
 I stopped at the Campfire Truce scene because IT TAKES SO MUCH TIME
-
-<!-- <aiframe class="gdocs-embed" src="https://docs.google.com/document/d/1MZKWkegyyvGFvyRAcahXhfmD-dE4LG-GbGaRsCyl7-s/edit?embedded=true" width="100%" height="900" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> -->
