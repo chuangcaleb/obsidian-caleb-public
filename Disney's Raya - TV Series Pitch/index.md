@@ -10,7 +10,7 @@ longform:
 tags:
   - 📂/collection
 series: true
-emojip: 💎
+emojip: 🐉
 index: true
 collectionItems:
   - disney's-raya-tv-series-pitch/raya-disclaimer
