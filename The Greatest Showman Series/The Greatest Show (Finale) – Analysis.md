@@ -348,23 +348,27 @@ Reprise and Resolution
 
 - Where [[Rewrite the Stars – Analysis|Rewrite the Stars]] argues about whether we can do the impossible, The Greatest Show (Finale) simply climaxes with the _same duet_, now singing in harmony: "you see the impossible coming true". Anne also previously chooses not to rewrite her stars, but now she sings that “it’s taking over her”, so carrying on the theme of _free will_. Besides, the chord progression of both songs' bridges are the same.
 
-- [[Tightrope – Analysis|Tightrope]] expressed how _satisfied_ Charity was with Barnum despite giving up her family’s fortunes for a simple life with Barnum. Similarly, in the finale, Barnum is _satisfied_ in giving up his circus empire for a simple but colourful life with his family.
+- [[Tightrope – Analysis|Tightrope]] expressed how _satisfied_ Charity was, despite giving up her family’s fortunes for a simple life with Barnum. Similarly, in the finale, Barnum is _satisfied_ in giving up his circus empire for a simple (yet colourful) life with his family.
 
 - When Bearded Lady passes him his hat, Barnum stops as he says he would [[From Now On – Analysis|From Now On]], and remembers his family, proving that his catharsis from From Now On was not just a passing emotion, but an anthem in his heart that's _real_ and _true_. Both bridges have the same chord progression and theme: we will come back home again because _home is where we wanna be_.
 
-Inheritance, Legacy and Succession
+The Hat: Inheritance, Legacy and Succession
 
 - Recall the earlier songs: Barnum inherited his top hat from his father after he passed — and now he’s passing it on throughout his extended family, and ultimately resting on Philip.
 
 - One of his dialogue says, he doesn’t want his daughters to be treated like dirt, the same way his father was: like how the other ballerinas were mocking Caroline for having a circus dad.
 
-- The hat represents how his father could not pass on a better inheritance onto him, how he was still trapped in the cycle of poverty.
+- The hat represents how his father could not pass on a better inheritance onto him — how deeply Barnum was still trapped in the _cycle of mediocrity_.
 
-- But now the hat represents how Barnum is able to pass on the freedom he found onto his new family, and through him, Philip now has a better inheritance than the estates he would’ve had
+- But now the hat represents how Barnum is able to pass on the freedom he found onto his new family. And through him, Philip now has a better inheritance than the estates he would’ve had
 
-- When Barnum finally gives the hat to Philip and says, “This is for you,” he’s physically passing the hat, but metaphorically passing his double-portion anointing of preaching freedom, and the hat as the crown of this kingdom
+- This is the moment Barnum been waiting for since we first saw him: the perfect climax for Barnum’s entire arc is when he achieves the thing he wanted most, even if not in the way he expected it: **to pass on a good inheritance where his father could not**
 
-- This is the moment Barnum been waiting for since we first saw him: the perfect climax for Barnum’s entire arc is when he achieves the thing he wanted most, even if not in the way he expected it: to pass on a good inheritance where his father could not
+- When Barnum finally gives the hat to Philip and says, “This is for you,” he’s physically passing the hat, but metaphorically passing his double-portion anointing of preaching the message of freedom...
+
+- ...and the ordinary hat actually being the extraordinary crown of this kingdom. "Where the lost gets found in the crown of the circus king!"
+
+- Are you lost? Look to my top hat of shame that I inherited. I wear it proudly as a crown, as a prince of humbugs and father of the lost. Come to me, give me your flaws and your deadness, and I will give you life and wonder. I rule a kingdom of coloured lights, and you will inherit my kingdom and mission and do more exploits than I got to. If you need reassurance of your inheritance — look to your head, you wear my crown.
 
 ### What’s the name about?
 
