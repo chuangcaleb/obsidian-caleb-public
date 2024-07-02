@@ -368,7 +368,7 @@ The Hat: Inheritance, Legacy and Succession
 
 - ...and the ordinary hat actually being the extraordinary crown of this kingdom. "Where the lost gets found in the crown of the circus king!"
 
-- Are you lost? Look to my top hat of shame that I inherited. I wear it proudly as a crown, as a prince of humbugs and father of the lost. Come to me, give me your flaws and your deadness, and I will give you life and wonder. I rule a kingdom of coloured lights, and you will inherit my kingdom and mission and do more exploits than I got to. If you need reassurance of your inheritance — look to your head, you wear my crown.
+- Are you lost? Look to my top hat of shame that I inherited. I wear it proudly as a crown of glory, as a prince of humbugs and father of the lost. Come to me, give me your flaws and your deadness, and I will give you life and wonder. I rule a kingdom of coloured lights, and you will inherit my kingdom and my mission and do more exploits than I got to. If you need reassurance of your inheritance — look to your head, you wear my crown.
 
 ### What’s the name about?
 
