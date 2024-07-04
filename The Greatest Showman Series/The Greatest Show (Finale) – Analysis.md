@@ -41,10 +41,9 @@ Like real-life circus shows, the most stunning act is saved for last, to leave a
 > 1. Colossal, a great synonym for great: means a lot, especially for Tom Thumb
 > 2. Renegades are people who rebel against a system or set of principles, like the Oddities
 > 3. The "ring" means
-
-     1. the circus ring,
-     2. a boxer’s ring,
-     3. the marriage ring symbolising family
+> 	1. the circus ring,
+> 	2. a boxer’s ring,
+> 	3. the marriage ring symbolising family
 
 **(Whoa) Where the lost get found and we crown ‘em the circus kings**
 
