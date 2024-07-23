@@ -101,7 +101,7 @@ Yes. And we must prepare to meet them.
 - The rider sees a purple energy glow just behind a nearby hill. She quickly veers in the opposite direction.
 - The rider then spots a small camp of wasteland nomads.
 	- The camp is built on top of a small, pitiful water stream.
-- The rider pulls down her face mask, and it's obviously adult Raya!
+- The rider pulls down her face mask, and it's obviously adult-Raya!
 - Raya glances at her map. She points at her current location via a nearby landmark, and finds that the camp's location is over a circled river that is not checked off yet.
 - The rider dismounts, slouching bent-over and dragging her steps, her mount the same.
 - She approaches the camp, but a few figures notice her, and run out towards her.
@@ -111,10 +111,10 @@ Yes. And we must prepare to meet them.
 
 #### Past: Benja's party
 
-> **PALACE KITCHEN, HEART - DAY (PRESENT)**
+> **PALACE KITCHEN, HEART - DAY (PAST)**
 
 - With Benja's trailing sentence, "We must prepare to meet them. Are you ready to face the other lands”…
-- Raya introduces the lands, with flashcard-style overlays for each
+- Young-Raya introduces the lands, with flashcard-style overlays for each
 	- "We're from the tribe of Heart. Our rainforest rains all the time, which makes us the best for defending the Dragon Gem against the Druun."
 	- "The tribe of Tail. A vast expanse of limestone islands, made up of a wide network of villages of skilled navigators and infiltrators."
 	- "Then, Talon. A floating market famous for fast deals and fighters, with even faster hands."
