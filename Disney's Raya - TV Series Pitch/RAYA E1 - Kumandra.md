@@ -260,13 +260,14 @@ Yes. And we must prepare to meet them.
 
 - Raya: "You already planned to raid my camp while I was asleep."
 	- Nomad: "And you already planned to sneak into our precious river."
-- "Look, I just wanted to find Sisu from the myths, and you wouldn't have let me near your river stream. She's not here, I've done no harm, so I will leave your family alone and be on my way."
+- "You wouldn't have let me near your river stream. But I've done no harm, so I will leave your family alone and be on my way."
 	- The nomad leader blocks her with a spear.
 	- "Not so fast. You think we'll just let you go? You lied to us. We're taking your jade pieces, and your animal mount…"
-	- A nomad interrupts: "And her father's chain-whip-sword-weapon-thing! It's so epic!"
+	- Another nomad interrupts: "And her father's chain-whip-sword-weapon-thing! It's so epic!"
 	- The leader, "…and your Dragon Gem piece, please. And *then* you'll be on your way. You can take back your lemongrass too, it tastes nothing like they said."
 - Raya: "But you've never seen lemongrass before, you wouldn’t be able to tell if it were actually padipepper?"
-	- The nomads start to droop their limbs. Raya smirks. One by one, they all collapse. They mumble, “You *binturi*…”
+	- The nomads start to droop their limbs. Raya smirks.
+	- One by one, they all collapse. They mumble, “You *binturi*…”
 - A small crack forms in the ground…
 
 #### Past: Druun unleashed
@@ -278,14 +279,14 @@ Yes. And we must prepare to meet them.
 - SWOOSH! Benja repels into the room, dispatching a dozen different adversaries in a short fight sequence.
 	- His sword turns into a cool grappling whip which he uses to drive everyone back.
 	- This is the same whip-sword that adult Raya has.
-	- "You will not set foot on the Dragon Gem’s inner circle."
+	- "You will not set foot on the Dragon Gem’s inner circle." WHOAOAAAA
 - The soldiers of the other tribes file into the room, in awe of the Gem.
 	- "Fang's making a play for the Gem!"
 	- "We should take it for Spine, now!"
 	- Everyone readies their weapons.
 	- Benja readies too, but sees young Raya in the reflection of his sword…
 - Benja announces, "We have a choice. We can tear each other apart, or we can come together and build a better world. It’s not too late. I still believe we can be One-Kumandra again."
-- Benja unsheathes his sword. “Shall we return to dinner?”
+- Benja sheathes his sword. “Shall we return to dinner?”
 	- Tension fills the air. Eyes dart around, who's making the first move?
 - An crossbow points at Benja’s heart.
 	- He deflects it — it lands in his leg. He crumples.
@@ -326,7 +327,7 @@ Yes. And we must prepare to meet them.
 - Raya swings her whip-sword, the blade now glowing and infused with Heart's Gem shard. It effortlessly tears through the Druun, compared to the ineffective simple weapons before.
 - She fights a few more, easily with the Gem-fused weapon.
 	- Tuk-Tuk kicks some butt too — he’s a steady tank.
-- There are some purple glows that come out from the cavern: glows that meant someone was being petrified.
+- There are some purple glows that come out from the cavern: glows that meant people were being petrified.
 
 #### Past: Sacrifice
 
