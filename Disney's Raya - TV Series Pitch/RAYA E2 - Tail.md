@@ -232,7 +232,7 @@ slug: disney's-raya-tv-series-pitch/raya-e2-tail
  	- Raya: “I never learnt how to drive a boat.”
  	- Sisu: "You've tracked down every river's end in Kumandra, but you never learnt how to sail? Kumandra isn't that big. If you learnt how to sail, you would've taken much less than six years."
  	- Raya, "You got me, I just can’t swim."
- 	- Sisu: "Then why didn't you learn? And come to think of it, if you assembled people and spread out, finding all the river's ends would've taken less than a few months!"
+ 	- Sisu: "Then why didn't you learn? And come to think of it, if you assembled people to spread out, finding all the river's ends would've taken less than a few months!"
  	- Raya: "You can't trust anyone!"
  	- Sisu: "If you want the tribes to trust each other and unite under One Kumandra, you need to start by trusting me. What’s the truth, Raya?"
 - Raya sighs, downcast.

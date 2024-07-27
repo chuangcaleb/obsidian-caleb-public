@@ -12,6 +12,8 @@ tags:
 series: true
 emojip: 🐉
 index: true
+up:
+  - '[[whatsthestoryabout]]'
 collectionItems:
   - disney's-raya-tv-series-pitch/raya-disclaimer
   - disney's-raya-tv-series-pitch/raya-e1-kumandra
