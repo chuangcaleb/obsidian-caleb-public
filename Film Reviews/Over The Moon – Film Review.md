@@ -15,8 +15,6 @@ date_modified: '2023-01-19T00:00:00.000Z'
 light_theme_color: '#65ab99'
 wtsa_categories:
   - 🎬 Film Reviews
-.banner: https://www.flixwatch.co/wp-content/uploads/80214236.jpg
-.banner_y: 0.444
 slug: film-reviews/over-the-moon-film-review
 ---
 # Over The Moon – Film Review

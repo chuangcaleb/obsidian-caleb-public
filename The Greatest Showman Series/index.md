@@ -7,7 +7,7 @@ series: true
 emojip: 🎪
 index: true
 up:
-  - '[[whatsthestoryabout]]'
+  - whatsthestoryabout
 collectionItems:
   - the-greatest-showman-series/the-greatest-show-(prologue)-analysis
   - the-greatest-showman-series/a-million-dreams-analysis

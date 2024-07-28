@@ -1,6 +1,6 @@
 ---
 up:
-  - '[[whatsthestoryabout]]'
+  - whatsthestoryabout
 slug: meta/style-test
 ---
 # Style Test

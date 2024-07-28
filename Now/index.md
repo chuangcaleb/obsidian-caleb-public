@@ -3,8 +3,9 @@ tags:
   - 📂/collection
 index: true
 up:
-  - '[[whatsthestoryabout]]'
+  - whatsthestoryabout
 collectionItems:
+  - now/now-2024-07
   - now/now-2024-06
 slug: now
 ---

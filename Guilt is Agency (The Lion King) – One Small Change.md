@@ -11,7 +11,7 @@ link_href: https://www.scriptslug.com/assets/scripts/the-lion-king-1994.pdf
 link_label: The Lion King Script – Script Slug
 wtsa_categories: 🔧 One Small Change
 up:
-  - '[[whatsthestoryabout]]'
+  - whatsthestoryabout
 slug: guilt-is-agency-(the-lion-king)-one-small-change
 ---
 # Guilt is Agency (The Lion King) – One Small Change
