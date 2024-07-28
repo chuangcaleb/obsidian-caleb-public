@@ -4,7 +4,7 @@ slug: whats-next-after-atomic-utility-css
 ---
 # What’s Next After Atomic-Utility CSS
 
-#### My Atomic-Utility Experiences & Problems
+## My Atomic-Utility Experiences & Problems
 
 My first-ever Jekyll website used Bootstrap. Yucky bloated component classnames that I had to overwrite every time. V1 was gladly immersed in Tailwind. But I soon realised I didn't like the DX of working with atomic styles in `class`, either.
 
@@ -24,7 +24,7 @@ Component variants was the biggest hurdle. Make a Tailwind-styled button with a 
 
 Even with abstraction, compiled HTML output is cluttered. CSS clutter is not too bad, but when debugging the HTML, it's unruly to sift through the lines-spanning XML tags. Doesn't it also increase the initial HTML file size by a lot? (EDIT: with minification and style sorting, HTML size isn't as affected.)
 
-#### Semantic CSS
+## Semantic CSS
 
 I realized I needed something like [daisyUI](https://daisyui.com/) — which [I used](https://github.com/chuangcaleb/v1.chuangcaleb.com/commit/46b3276792ea40a8159f6a549c9c6255427681e9)! I like the how `.btn` and `.card` group a bunch of declarations. "Utility-only was slow and bloated"[^1] — Semantic CSS classnames gave more succinctness over Utility-Only.
 
@@ -38,7 +38,7 @@ I would still reach for DaisyUI if I had to work in Tailwind.
 
 But in the end, I realize that **all this atomic-utility abstraction is actually adding so much unnecessary complexity**. Reject unnecessary abstraction. Return to CSS.
 
-#### CUBE CSS
+## CUBE CSS
 
 After much searching, I landed on [CUBE CSS](https://cube.fyi/). I won't waste breath re-explaining it — the [blog post](https://piccalil.li/blog/cube-css) will do a better job than I!
 
@@ -57,7 +57,7 @@ And compare the bundle sizes sent over the wire, between v1 and v2. As of writin
 
 And the DX? It’s so much easier to develop when there’s defined layers of responsibility. General layout rules and specific component rules.
 
-#### Modern Syntax + CSS Variables
+## Modern Syntax + CSS Variables
 
 Finally, CSS Variables (aka CSS Properties) (and some modern CSS tricks!) ties it all together.
 
