@@ -6,6 +6,8 @@ slug: whats-next-after-atomic-utility-css
 
 ## My Atomic-Utility Experiences & Problems
 
+I recently recreated my personal website as a version 2. I had learnt a lot more since version 1, and one major area that I wanted to step up in was in **CSS Methodology**.
+
 My first-ever Jekyll website used Bootstrap. Yucky bloated component classnames that I had to overwrite every time. V1 was gladly immersed in Tailwind. But I soon realised I didn't like the DX of working with atomic styles in `class`, either.
 
 I reached for [Inline fold - VS Code Extension](https://marketplace.visualstudio.com/items?itemName=moalamri.inline-fold) to collapse away the mess. But for very long `class`es with many declarations, it doesn't/can't/shouldn't collapse the number of lines, so we're left with an XML tag with multiple empty lines in the editor.
@@ -53,7 +55,7 @@ Some instant benefits:
 
 Speaking CSS as a first-language has really made it so fluid and effective to work with (especially on a small-medium project like this). I use very simple `scss` for generating custom tokens and using mixins (allows modularizing rules into different files, while keeping it all under the same `:root` declaration lol)
 
-And compare the bundle sizes sent over the wire, between v1 and v2. As of writing, it's improved initial HTML (25.9KB to 12.1KB) and CSS even after polyfills and more declarations (6.1KB to 9.0KB – should’ve been way more), from single-themed barebones to dynamic-themed and heavily-styled masterpiece.
+And compare the bundle sizes sent over the wire, between v1 and v2. As of writing, it's improved initial HTML (25.9KB to 12.1KB) and CSS even after polyfills and more declarations (6.1KB to 9.0KB – should’ve been way more), from single-themed barebones to dynamic-themed and heavily-styled masterpiece. See [chuangcaleb.com | CSS Stats](https://cssstats.com/stats/?url=chuangcaleb.com) for a breakdown.
 
 And the DX? It’s so much easier to develop when there’s defined layers of responsibility. General layout rules and specific component rules.
 
