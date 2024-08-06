@@ -1,8 +1,8 @@
 ---
 up:
   - whatsthestoryabout
-created: '[[2024-07-28|28 July 2024, Sun]]'
-modified: '[[2024-07-28|28 July 2024, Sun]]'
+created: '2024-07-28T00:00:00.000Z'
+modified: '2024-07-28T00:00:00.000Z'
 slug: meta/colophon
 ---
 # Colophon
