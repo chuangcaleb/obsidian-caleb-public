@@ -81,8 +81,7 @@ My spreadsheet would look something like this:
 
 | isVerified | Timestamp           | Email address     | 📇 Display Name | 🤝 Real Name | 👥 Relation to me | 🏷️ Tag | 📃 Content Body                        | 🔗 Social Link          | 📸 Avatar Image Link                                             |
 | ---------- | ------------------- | ----------------- | --------------- | ------------ | ----------------- | ------- | -------------------------------------- | ----------------------- | ---------------------------------------------------------------- |
-| TRUE       | 12/07/2024 21:22:46 | example@email.com | Chuang Caleb    | caleb        | myself            | Other   | 🎤 Testing, testing. Is this thing on? | https://chuangcaleb.com | https://www.gravatar.com/avatar/29d863c08e05a20bab30479ecae823eb |
-
+| TRUE       | 12/07/2024 21:22:46 | example@email.com | Chuang Caleb    | caleb        | myself            | Other   | 🎤 Testing, testing. Is this thing on? | <https://chuangcaleb.com> | <https://www.gravatar.com/avatar/29d863c08e05a20bab30479ecae823eb> |
 
 ### Spreadsheet as API + Web Render
 
@@ -188,10 +187,6 @@ export type GuestPost = {
 };
 ```
 
-You _could_ use zod or yup some other validation library to enforce that the external data read is type-secure. But:
-
-> That’s over-engineering!
-
 So `await getGuestbookPosts()` should return a result like following:
 
 ```json
@@ -208,11 +203,15 @@ So `await getGuestbookPosts()` should return a result like following:
     '🏷️ Tag': 'Other',
     '📃 Content Body': '🎤 Testing, testing. Is this thing on?',
     '🔗 Social Link': 'https://chuangcaleb.com',
-    '📸 Avatar Image Link': 'https://www.gravatar.com/avatar/29d863c08e05a20bab30479ecae823eb '
+    '📸 Avatar Image Link': 'https://www.gravatar.com/avatar/29d863c08e05a20bab30479ecae823eb'
   },
   ...
 ]
 ```
+
+You _could_ use zod or yup some other validation library to enforce that the external data read is type-secure. But:
+
+> That’s over-engineering!
 
 In the frontend render, I do to preprocessing steps:
 
@@ -266,4 +265,3 @@ I’m actually quite proud of how it turned out. How much simpler everything was
 See the latest source code at [github.com/chuangcaleb/chuangcaleb.com](https://github.com/chuangcaleb/chuangcaleb.com).
 
 If you got this far, and you know me personally, please contact me and I’ll send you the link to the form! I’d like for you to leave me a message! I won’t modify whatever you write, just tell a joke or share a funny story!
-
