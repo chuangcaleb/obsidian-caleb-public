@@ -77,11 +77,21 @@ Ticked: TRUE
 Unticked: FALSE
 ```
 
-My spreadsheet would look something like this:
+My spreadsheet would look something like this (but transposed, of course):
 
-| isVerified | Timestamp           | Email address     | 📇 Display Name | 🤝 Real Name | 👥 Relation to me | 🏷️ Tag | 📃 Content Body                        | 🔗 Social Link          | 📸 Avatar Image Link                                             |
-| ---------- | ------------------- | ----------------- | --------------- | ------------ | ----------------- | ------- | -------------------------------------- | ----------------------- | ---------------------------------------------------------------- |
-| TRUE       | 12/07/2024 21:22:46 | example@email.com | Chuang Caleb    | caleb        | myself            | Other   | 🎤 Testing, testing. Is this thing on? | <https://chuangcaleb.com> | <https://www.gravatar.com/avatar/29d863c08e05a20bab30479ecae823eb> |
+|                      |                                                                  |
+| -------------------- | ---------------------------------------------------------------- |
+| isVerified           | TRUE                                                             |
+| Timestamp            | 12/07/2024 21:22:46                                              |
+| Email address        | example@email.com                                                |
+| 📇 Display Name      | caleb                                                            |
+| 🤝 Real Name         | Chuang Caleb                                                     |
+| 👥 Relation to me    | myself                                                           |
+| 🏷️ Tag              | Other                                                            |
+| 📃 Content Body      | 🎤 Testing, testing. Is this thing on?                           |
+| 🔗 Social Link       | https://chuangcaleb.com                                          |
+| 📸 Avatar Image Link | https://www.gravatar.com/avatar/29d863c08e05a20bab30479ecae823eb |
+
 
 ### Spreadsheet as API + Web Render
 
@@ -173,6 +183,7 @@ export async function getGuestbookPosts() {
 I assert the type of the results with the following Typescript type:
 
 ```ts
+// commented the fields we don't want to expose
 export type GuestPost = {
 	isVerified?: 'TRUE';
 	'Timestamp': string;

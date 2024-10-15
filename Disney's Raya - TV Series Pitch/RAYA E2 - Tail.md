@@ -44,7 +44,7 @@ slug: disney's-raya-tv-series-pitch/raya-e2-tail
 		- Namaari’s furious. Swears her revenge aloud to Raya. She returns Fang’s Shard safely to her mom.
 		- in story notes for myself: Namaari’s not seen the outside world since. After this, she checks it out and finds Raya’s truthful.
 	- Episode 2A would end with Raya and Sisu finding Tail’s Gem shard, and Namaari revealing herself.
-	- Episode 2B would start with Namaari’s sympathetic “I’m sorry”. So 2A itself doubles down on her ruthless throughout (as Raya narrates), but 2B would offer a puzzling melancholy Namaari (now that Sisu herself has met Namaari).
+	- Episode 2B would start with Namaari’s sympathetic “I’m sorry”. So 2A itself doubles down on her ruthless throughout (as Raya narrates), but 2B would offer a puzzling melancholy Namaari (now that Sisu herself has met Namaari)
 
 ### Setup Sisu and Namaari
 
