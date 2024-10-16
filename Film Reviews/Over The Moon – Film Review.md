@@ -1,20 +1,21 @@
 ---
+collection:
+  - film-reviews
+dark_theme_color: '#3c6e61'
+date_created: '2022-08-07T00:00:00.000Z'
+date_modified: '2023-01-19T00:00:00.000Z'
+light_theme_color: '#65ab99'
+published: '2022-05-25'
+wtsa_categories:
+  - 🎬 Film Reviews
 aliases:
   - Over the Moon
 up:
   - film-reviews
-created: '2024-03-23T00:00:00.000Z'
-collection:
-  - film-reviews
 cssclasses:
   - wtsa
-dark_theme_color: '#3c6e61'
-published: '2022-05-25'
-date_created: '2022-08-07T00:00:00.000Z'
-date_modified: '2023-01-19T00:00:00.000Z'
-light_theme_color: '#65ab99'
-wtsa_categories:
-  - 🎬 Film Reviews
+created: '2024-03-23T00:00:00.000Z'
+modified: '[[2024-10-15|15 Oct 2024, Tue]]'
 slug: film-reviews/over-the-moon-film-review
 ---
 # Over The Moon – Film Review
@@ -218,7 +219,7 @@ CHANG'E
 What are you doing?
 
 FEI FEI
-I don't want the photo anymore. If you can bring back Houyi, I want you to bring back my momma as well.
+I don't want the photo anymore. If you can bring back Houyi, I want you to bring back my mama as well.
 
 Everyone whispers in fear.
 
@@ -307,7 +308,7 @@ Where are you going so late at night, Fei Fei?
 Fei Fei freezes. Busted.
 
 FEI FEI
-To the canal that my momma liked... as usual...
+To the canal that my mama liked... as usual...
 
 At this, Mrs. Zhong softened. Phew.
 
