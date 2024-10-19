@@ -15,6 +15,8 @@ Public source code for this website is available at [chuangcaleb/chuangcaleb.com
 
 This site uses the beautiful [Alegreya](https://www.huertatipografica.com/en/fonts/alegreya-ht-pro) + [Alegreya Sans](https://www.huertatipografica.com/en/fonts/alegreya-sans-ht) fonts by [Huerta Tipográfica – Type foundry](https://www.huertatipografica.com/en), under the [SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007](https://github.com/huertatipografica/Alegreya/blob/master/LICENSE.md) as accessed on 28th July 2024. All used font files are individually optimised by [Font Squirrel](https://www.fontsquirrel.com/tools/webfont-generator).
 
+%% TODO: Icons %%
+
 ## Privacy
 
 The website is served on [Cloudflare](https://www.cloudflare.com/). I’ve enabled [Cloudflare Web Analytics](https://www.cloudflare.com/web-analytics/).

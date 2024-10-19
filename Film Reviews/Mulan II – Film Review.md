@@ -123,7 +123,7 @@ The map is too ruined. You should consider your fiance’s advice.
 
 ### 7. The Clown Prince
 
-Why is the foreign crown prince portrayed so dumb; I thought we decided with the soldier trio that we shouldn’t shame weird people. lol. Then the dad/Emperor just forgets about the whole alliance thing and plays with the chinese finger trap. bruh??? No thoughts, head empty.
+Why is the foreign crown prince portrayed so dumb; I thought we decided with the soldier trio that we shouldn’t shame weird people. lol. Then the dad/Emperor just forgets about the whole alliance thing and plays with the Chinese finger trap. bruh??? No thoughts, head empty.
 
 ### 8. Resolution
 
@@ -141,7 +141,7 @@ Giving **the princesses** some spotlight instead of Mulan. I like that it doesn�
 
 **The two (2) songs bop.**
 
-**_Lesson Number One_** is Mulan teaching little girls that you can/should/must be strong AND gentle. It’s to the tune/style of honour to Us All with the training montage feel of Be A Man. All three songs have lyrics about who “You must be...”, and they all finally come to a climax in Lesson Number One. Would’ve been extra nice in the bridge, to see `the girls trying to exaggerate being rough to imitate masculinity, but Mulan corrects them`. There’s a strength in gentle femininity apart from physical strength in masculinity.
+**_Lesson Number One_** is Mulan teaching little girls that you can/should/must be strong AND gentle. It’s to the tune/style of honour to Us All with the training montage feel of Be A Man. All three songs have lyrics about who “You must be...”, and they all finally come to a climax in Lesson Number One. Would’ve been extra nice in the bridge, to see `the girls trying to exaggerate being rough to imitate masculinity, but Mulan corrects them`. There’s a strength in gentle femininity apart from typically-masculine physical strength.
 
 **_Like Other Girls_** isn’t a song about them just wanting to run away with the guards; they want to escape the walls of their palace, a la Jasmine in Aladdin. It’s super clear from the “It’s not about his heart, it’s about mine,” dialogue that this song goes deeper than just another romance song. They want a freedom that exists outside the romances with the soldier guards Trio, even though it’s more vivid within the context of that romance. Just as the guards actually really want a freedom from the cultural male expectations of a tough “alpha male” — while their vulnerable romances with the princesses tangibly express it.
 
