@@ -36,9 +36,9 @@ For what it's worth, there _is_ tension between the sisters (which is a little o
 
 #### 2b. Stakes: Urgency
 
-An antagonism shortcoming could be ascribed to a lack of urgency. I mean, Arendellians need a home, but how desperately? The dam needs to be broken, but why NOW? What's the pressure? We call this the "or-else" factor: objective must be achieved before event or-else punishment.
+An antagonism shortcoming could be ascribed to a lack of urgency. I mean, Arendellians need a home, but how desperately? The dam needs to be broken, but why NOW? What's the pressure? We call this the **"before-or-else" factor**: objective must be achieved *before* event *or-else* punishment.
 
-A very simple fix is coined, "a ticking time-bomb". In F1, the biggest example is Anna getting frozen in the heart: she must receive an act of true love before her hair goes all white _or else_ she will freeze forever. `What if the "spirits" were dying due to the dam being built? Symbolically cause of injustice, and literally cause it holds back the water from the forest and restricting life. The curse must be lifted` _`before`_ `they grow too weak` _`or else`_ `the the Forest becomes disenchanted (hah) and Elsa will be frozen (and Olaf will melt) cause she's a forest spirit. Just like that, there's so much pressure on both sides.`
+A very simple fix is coined, "a ticking time-bomb". In F1, the biggest example is Anna getting frozen in the heart: she must receive an act of true love *before* her hair goes all white _or else_ she will freeze forever. `What if the "spirits" were dying due to the dam being built? Symbolically cause of injustice, and literally cause it holds back the water from the forest and restricting life. The curse must be lifted` _`before`_ `they grow too weak` _`or else`_ `the the Forest becomes disenchanted (hah) and Elsa will be frozen (and Olaf will melt) cause she's a forest spirit. Just like that, there's so much pressure on both sides.`
 
 #### 2c. Human Opposition
 
