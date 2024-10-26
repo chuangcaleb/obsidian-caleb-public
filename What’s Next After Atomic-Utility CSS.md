@@ -1,5 +1,7 @@
 ---
-up: []
+up: null
+collection:
+  - technology
 slug: whats-next-after-atomic-utility-css
 ---
 # What’s Next After Atomic-Utility CSS

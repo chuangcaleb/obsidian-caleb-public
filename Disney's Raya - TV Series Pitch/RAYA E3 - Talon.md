@@ -13,6 +13,8 @@ slug: disney's-raya-tv-series-pitch/raya-e3-talon
 
 > Theme: Kumandra’s repeat interactions
 
+> **🚧 WIP**, come talk to me IRL for more heh
+
 %%
 
 ## Ideas

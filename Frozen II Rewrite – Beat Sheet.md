@@ -1,6 +1,7 @@
 ---
 collection:
   - frozen-ii
+  - story-rewrites
 featured: 3
 link_href: >-
   https://docs.google.com/document/d/1MZKWkegyyvGFvyRAcahXhfmD-dE4LG-GbGaRsCyl7-s/edit?usp=sharing
