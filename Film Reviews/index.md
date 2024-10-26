@@ -1,12 +1,12 @@
 ---
 tags:
   - 📂/collection
-created: '2024-03-23T00:00:00.000Z'
-modified: '2024-06-05T00:00:00.000Z'
+created: '[[2024-03-23|23 March 2024, Sat]]'
+modified: '[[2024-06-05|05 June 2024, Wed]]'
 emojip: 🎬
 index: true
 up:
-  - whatsthestoryabout
+  - '[[whatsthestoryabout]]'
 featured: 3
 collectionItems:
   - film-reviews/frozen-ii-film-review

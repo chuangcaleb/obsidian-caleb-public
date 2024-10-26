@@ -1,4 +1,6 @@
 ---
+collection:
+  - disney's-raya-tv-series-pitch
 slug: disney's-raya-tv-series-pitch/raya-disclaimer
 ---
 ## Overview Disclaimer

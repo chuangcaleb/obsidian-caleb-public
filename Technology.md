@@ -4,9 +4,9 @@ featured: 4
 tags:
   - 📂/collection
 up:
-  - whatsthestoryabout
-created: '2024-10-26T00:00:00.000Z'
-modified: '2024-10-26T00:00:00.000Z'
+  - '[[whatsthestoryabout]]'
+created: '[[2024-10-26|26 Oct 2024, Sat]]'
+modified: '[[2024-10-26|26 Oct 2024, Sat]]'
 collectionItems:
   - whats-next-after-atomic-utility-css
   - making-my-website-guestbook
