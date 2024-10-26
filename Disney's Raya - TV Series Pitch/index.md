@@ -23,9 +23,7 @@ collectionItems:
   - disney's-raya-tv-series-pitch/raya-e2-tail
   - disney's-raya-tv-series-pitch/raya-e3-talon
   - disney's-raya-tv-series-pitch/raya-e4-spine
-  - >-
-    8 public/post/Disney's Raya - TV Series Pitch/Disney's Raya - TV Series
-    Pitch
+  - disney's-raya-tv-series-pitch/disney's-raya-tv-series-pitch
 slug: disney's-raya-tv-series-pitch
 ---
 # RAYA - Index
