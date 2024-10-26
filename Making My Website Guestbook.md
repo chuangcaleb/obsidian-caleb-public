@@ -1,9 +1,10 @@
 ---
-up: null
-created: '2024-08-06T00:00:00.000Z'
-modified: '2024-08-07T00:00:00.000Z'
 collection:
   - technology
+up:
+  - technology
+created: '2024-08-06T00:00:00.000Z'
+modified: '2024-10-26T00:00:00.000Z'
 slug: making-my-website-guestbook
 ---
 # Making My Website Guestbook
@@ -91,8 +92,8 @@ My spreadsheet would look something like this (but transposed, of course):
 | 👥 Relation to me    | myself                                                           |
 | 🏷️ Tag              | Other                                                            |
 | 📃 Content Body      | 🎤 Testing, testing. Is this thing on?                           |
-| 🔗 Social Link       | https://chuangcaleb.com                                          |
-| 📸 Avatar Image Link | https://www.gravatar.com/avatar/29d863c08e05a20bab30479ecae823eb |
+| 🔗 Social Link       | <https://chuangcaleb.com>                                          |
+| 📸 Avatar Image Link | <https://www.gravatar.com/avatar/29d863c08e05a20bab30479ecae823eb> |
 
 
 ### Spreadsheet as API + Web Render
