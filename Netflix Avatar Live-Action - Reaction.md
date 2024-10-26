@@ -1,6 +1,6 @@
 ---
 up:
-  - '! 🎭 Story'
+  - film-reviews
 created: '2024-02-25T00:00:00.000Z'
 modified: '2024-03-23T00:00:00.000Z'
 slug: netflix-avatar-live-action-reaction

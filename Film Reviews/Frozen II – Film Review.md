@@ -1,13 +1,16 @@
 ---
+collection:
+  - frozen-ii
+  - film-reviews
+dark_theme_color: '#5fb2ed'
+light_theme_color: '#2a85cf'
 published: '2019-12-07'
 aliases:
   - Frozen II
-light_theme_color: '#2a85cf'
-dark_theme_color: '#5fb2ed'
 cssclasses:
   - wtsa
-collection:
-  - frozen-ii
+created: '2024-06-23T00:00:00.000Z'
+modified: '2024-10-26T00:00:00.000Z'
 slug: film-reviews/frozen-ii-film-review
 ---
 # Frozen II – Film Review
@@ -36,9 +39,9 @@ For what it's worth, there _is_ tension between the sisters (which is a little o
 
 #### 2b. Stakes: Urgency
 
-An antagonism shortcoming could be ascribed to a lack of urgency. I mean, Arendellians need a home, but how desperately? The dam needs to be broken, but why NOW? What's the pressure? We call this the **"before-or-else" factor**: objective must be achieved *before* event *or-else* punishment.
+An antagonism shortcoming could be ascribed to a lack of urgency. I mean, Arendellians need a home, but how desperately? The dam needs to be broken, but why NOW? What's the pressure? We call this the **"before-or-else" factor**: objective must be achieved _before_ event _or-else_ punishment.
 
-A very simple fix is coined, "a ticking time-bomb". In F1, the biggest example is Anna getting frozen in the heart: she must receive an act of true love *before* her hair goes all white _or else_ she will freeze forever. `What if the "spirits" were dying due to the dam being built? Symbolically cause of injustice, and literally cause it holds back the water from the forest and restricting life. The curse must be lifted` _`before`_ `they grow too weak` _`or else`_ `the the Forest becomes disenchanted (hah) and Elsa will be frozen (and Olaf will melt) cause she's a forest spirit. Just like that, there's so much pressure on both sides.`
+A very simple fix is coined, "a ticking time-bomb". In F1, the biggest example is Anna getting frozen in the heart: she must receive an act of true love _before_ her hair goes all white _or else_ she will freeze forever. `What if the "spirits" were dying due to the dam being built? Symbolically cause of injustice, and literally cause it holds back the water from the forest and restricting life. The curse must be lifted` _`before`_ `they grow too weak` _`or else`_ `the the Forest becomes disenchanted (hah) and Elsa will be frozen (and Olaf will melt) cause she's a forest spirit. Just like that, there's so much pressure on both sides.`
 
 #### 2c. Human Opposition
 
@@ -90,7 +93,7 @@ I was really confused at first at how **different the themes** of Frozen 1 line 
 
 But coming in, the first two songs set the tone and **theme of change and truth in love**. I had to drop everything I thought I knew (heh, which is what one of the movie's messages) and just let myself enjoy the movie. Which was good, otherwise I would've been too intellectual all the way through.
 
-And now in hindsight... the themes do relate strongly to the original, a development of he original, even — while still standing very apart on their own. I could never have predicted how it would develop. It's not clear at first, but it's a very tight, waterproof choice of theme.
+And now in hindsight… the themes do relate strongly to the original, a development of he original, even — while still standing very apart on their own. I could never have predicted how it would develop. It's not clear at first, but it's a very tight, waterproof choice of theme.
 
 ### 4. Visuals
 

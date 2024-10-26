@@ -1,4 +1,7 @@
 ---
+emojip: 🐉
+featured: 2
+index: true
 longform:
   format: scenes
   title: Disney's Raya - TV Series Pitch
@@ -7,14 +10,13 @@ longform:
   scenes: []
   ignoredFiles:
     - Disney's Raya - TV Series Pitch
+series: true
 tags:
   - 📂/collection
-series: true
-emojip: 🐉
-index: true
 up:
   - whatsthestoryabout
-featured: 2
+created: '2024-03-23T00:00:00.000Z'
+modified: '2024-10-26T00:00:00.000Z'
 collectionItems:
   - disney's-raya-tv-series-pitch/raya-disclaimer
   - disney's-raya-tv-series-pitch/raya-e1-kumandra

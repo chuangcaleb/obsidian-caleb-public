@@ -14,7 +14,6 @@ cssclasses:
 next: film-reviews/descendants-2-film-review
 slug: film-reviews/descendants-1-film-review
 ---
-
 # Descendants 1 – Film Review
 
 > but we’re not automatically like that—we get to choose who we’re gonna be.

@@ -9,6 +9,7 @@ up:
   - whatsthestoryabout
 featured: 3
 collectionItems:
+  - film-reviews/frozen-ii-film-review
   - film-reviews/over-the-moon-film-review
   - film-reviews/mulan-ii-film-review
   - film-reviews/maleficent-mistress-of-evil-film-review
