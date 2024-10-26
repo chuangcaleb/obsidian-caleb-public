@@ -14,6 +14,7 @@ wtsa_categories:
   - 🌸 Mulan II
 collection:
   - mulan-ii
+featured: 2
 slug: mulan-ii-rewrite-beat-sheet
 ---
 # Mulan II Rewrite – Beat Sheet

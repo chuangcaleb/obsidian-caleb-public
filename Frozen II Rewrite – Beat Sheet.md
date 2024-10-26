@@ -1,19 +1,21 @@
 ---
 collection:
   - frozen-ii
-created: '2022-10-19T00:00:00.000Z'
-published: '2019-12-21'
+featured: 3
 link_href: >-
   https://docs.google.com/document/d/1MZKWkegyyvGFvyRAcahXhfmD-dE4LG-GbGaRsCyl7-s/edit?usp=sharing
 link_label: F2 Rewrite (Beat Sheet) – Google Docs
+published: '2019-12-21'
 related:
   - Frozen II Rewrite – Screenplay
 wtsa_categories: ❄️ Frozen II Rewrite
+created: Invalid date
+modified: '2024-10-23T00:00:00.000Z'
 slug: frozen-ii-rewrite-beat-sheet
 ---
 # Frozen II Rewrite – Beat Sheet
 
-[LINK](https://docs.google.com/document/d/1MZKWkegyyvGFvyRAcahXhfmD-dE4LG-GbGaRsCyl7-s/edit?usp=sharing)
+[Written in Google Docs, currently at 18.6k words, you can find it here!](https://docs.google.com/document/d/1MZKWkegyyvGFvyRAcahXhfmD-dE4LG-GbGaRsCyl7-s/edit?usp=sharing)
 
 ## F2R
 
@@ -22,13 +24,13 @@ The initial project started in 21 Dec 2019, after watching the movie twice in ea
 ### Key Points
 
 - Aligned and synergised the climaxes of Elsa’s and Anna’s arcs
- 	- Elsa sees Anna in Ahtohallan
+	- ~~SPOILERS: Elsa sees Anna in Ahtohallan~~
 - Refocused the themes and motifs of the story
 - Ensured constant ticking-time bomb and antagonistic force:
- 	- Antagonism personified by a human, Runeard
+	- Antagonism personified by a human, Runeard
 - Concrete plot/scene objectives
 - Kristoff isn’t a himbo anymore, he contributes way more with his subplot arcs with Anna and Mattias
- 	- Mattias isn’t a plot device, he contributes more
+	- Mattias isn’t a plot device, he contributes more
 - Made magic out of plot holes
 - Reworked the lore
 - Fleshed out objectives and conflict of our two factions in the Forest
@@ -54,4 +56,4 @@ Adding comments to the Google Docs, giving my commentary on the different plot p
 
 This was for a reminder for myself, as well as for anyone interested to read.
 
-I stopped at the Campfire Truce scene because IT TAKES SO MUCH TIME
+I stopped at the Campfire Truce scene because IT TAKES SO MUCH TIME but since [[Writing makes an exact man]], it was great to get some of it down on paper!

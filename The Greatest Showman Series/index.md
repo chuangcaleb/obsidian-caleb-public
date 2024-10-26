@@ -8,6 +8,7 @@ emojip: 🎪
 index: true
 up:
   - whatsthestoryabout
+featured: 1
 collectionItems:
   - the-greatest-showman-series/the-greatest-show-(prologue)-analysis
   - the-greatest-showman-series/a-million-dreams-analysis

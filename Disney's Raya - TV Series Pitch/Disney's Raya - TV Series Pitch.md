@@ -781,22 +781,22 @@ Yes. And we must prepare to meet them.
 
 ### E1 - Comfort
 
-#### Namaari/Khaang Hook
+#### Namaari/Khaan Hook
 
 > **EXT. MOUNTAINTOP - DUSK**
 
 - Namaari and her crew are surveying from a lookout point, making camp
 - A glow appears, just on the horizon, along a river
-	- Junior Soldier: “Khaang could’ve arrived sooner at Talon.”
+	- Junior Soldier: “Khaan could’ve arrived sooner at Talon.”
 	- her Serlot roars a yawn.
-	- Namaari, “Raya will know Khaang is our scout, barging in on a large noisy Serlot.”
+	- Namaari, “Raya will know Khaan is our scout, barging in on a large noisy Serlot.”
 - Namaari turns back to an older soldier
 	- “Admiral Thaanh, can’t we find another route back home to Fang?”
 	- “Princess, if you want to arrive home in three days, without meeting any Druun, then we need to go through Heart.”
 	- Namaari’s reluctant.
 	- “I know how much that night hurt you, fifteen years go. I was there, too. But if Raya is out to steal the Gem shards from every tribe, then your mother needs to make plans.”
 	- (What? Namaari, hurt? Wasn’t she the one who backstabbed Raya?) #payme
-- “Okay, Admiral. Let’s hope Khaang succeeds in…”
+- “Okay, Admiral. Let’s hope Khaan succeeds in…”
 
 #### Goodbye Boun
 

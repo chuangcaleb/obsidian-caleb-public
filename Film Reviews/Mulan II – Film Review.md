@@ -1,21 +1,22 @@
 ---
 collection:
   - mulan-ii
-up:
   - film-reviews
+dark_theme_color: '#d84c4c'
+light_theme_color: '#a32020'
+published: '2021-09-05'
+related: Mulan II Rewrite – Beat Sheet
 wtsa_categories:
   - 🌸 Mulan II
   - 🎬 Film Reviews
-published: '2021-09-05'
-aliases: null
-light_theme_color: '#a32020'
-dark_theme_color: '#d84c4c'
+up:
+  - film-reviews
 cssclasses:
   - wtsa
-related: Mulan II Rewrite – Beat Sheet
+created: '2024-03-23T00:00:00.000Z'
+modified: '2024-10-26T00:00:00.000Z'
 slug: film-reviews/mulan-ii-film-review
 ---
-
 # Mulan II – Film Review
 
 > The flower that blooms in unity is the most honourable one of them all.
@@ -24,7 +25,7 @@ slug: film-reviews/mulan-ii-film-review
 
 So I’ll be giving my thoughts on this movie **from a pure story perspective**: excluding Mushu being voiced by a white guy + the low budget animation (well, besides the grieving scene in the rain; but everywhere else, sheesh) + historical/cultural (in)accuracies.
 
-“It’s just a cheap direct-to-video cashgrab,” UGH profits. But from a story POV, why should we lower the bar for sequels? (Especially when Kung Fu Panda 2 exists).
+A comment said: “It’s just a cheap direct-to-video cashgrab,” UGH profits. But from a story POV, why should we lower the bar for sequels? (Especially when Kung Fu Panda 2 exists).
 
 Of course, we must compare it with the first movie. There weren’t really any iconic plot beats. Reflection. Cutting her hair, slipping away in the rain. Climbing the pole. The decimated village. Ugh, Mulan I is so good. Not perfect, but great and iconic.
 
@@ -141,7 +142,7 @@ Giving **the princesses** some spotlight instead of Mulan. I like that it doesn�
 
 **The two (2) songs bop.**
 
-**_Lesson Number One_** is Mulan teaching little girls that you can/should/must be strong AND gentle. It’s to the tune/style of honour to Us All with the training montage feel of Be A Man. All three songs have lyrics about who “You must be...”, and they all finally come to a climax in Lesson Number One. Would’ve been extra nice in the bridge, to see `the girls trying to exaggerate being rough to imitate masculinity, but Mulan corrects them`. There’s a strength in gentle femininity apart from typically-masculine physical strength.
+**_Lesson Number One_** is Mulan teaching little girls that you can/should/must be strong AND gentle. It’s to the tune/style of honour to Us All with the training montage feel of Be A Man. All three songs have lyrics about who “You must be…”, and they all finally come to a climax in Lesson Number One. Would’ve been extra nice in the bridge, to see `the girls trying to exaggerate being rough to imitate masculinity, but Mulan corrects them`. There’s a strength in gentle femininity apart from typically-masculine physical strength.
 
 **_Like Other Girls_** isn’t a song about them just wanting to run away with the guards; they want to escape the walls of their palace, a la Jasmine in Aladdin. It’s super clear from the “It’s not about his heart, it’s about mine,” dialogue that this song goes deeper than just another romance song. They want a freedom that exists outside the romances with the soldier guards Trio, even though it’s more vivid within the context of that romance. Just as the guards actually really want a freedom from the cultural male expectations of a tough “alpha male” — while their vulnerable romances with the princesses tangibly express it.
 

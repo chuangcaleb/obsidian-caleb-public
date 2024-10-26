@@ -52,7 +52,7 @@ slug: disney's-raya-tv-series-pitch/raya-e3-talon
 	- maybe the Fang scout imposter is here too, still taking an artefact for themselves
 - Namaari subplot
 	- early scene showing dispatching of scout?
-	- talk with one of her party, an older guy who remembers before the Great Division
+	- talk with one of her party, an older guy who remembers before the Scattering
 	- they have to shortcut through Heart to get to Fang early
 		- Namaari’s also PTSD’d at Heart
 		- maybe she got the mentor’s brother petrified at Heart
@@ -65,37 +65,50 @@ slug: disney's-raya-tv-series-pitch/raya-e3-talon
 - fourth guy who trains the Ongi monkeys
 	- but after the failure, the monkey trainer gets petrified — the monkeys follow the gang
 	- maybe he spends more time with Sisu, since he’s not a major suspect
+- rivers drying
+	- older buildings are higher up above the water, where the water level used to be — the “center” is higher up
+	- newer buildings, at the fringes, especially docks, are lower
 
 ## Character Profiles
 
-- Noi
+- names
+	- Noi, Ngom, Ngang, Ngyet, Muong, Phu, Vien, Ding
+- the fake princess
 	- princess faker — nephew/niece?
 	- brings Raya directly into palace
 	- maybe they gotta “try to locate her” in the Mask Festival
 		- but Ngang is engineering this whole intro quest
-	- while avoiding the actual Talon people
-- Nom
-- Ngang/Ngyet
+	- while avoiding the actual Talon palace people
+- the Talon contact/friend
 	- recruiter
 		- maybe: unsolicited recruiting? Raya doesn’t know they’re recruited
-	- longtime Raya confidant
-		- knows Raya’s water phobia?
+		- actually had recruited all of them beforehand
+	- is a longtime Raya confidant
+		- Raya has friends?? She does, but transactional and sussy
 		- knows Gem mission?
+		- ~~is the spy: MASSIVE BETRAYAL, team lost its recruiter~~
+		- is not the spy: knows Raya’s water phobia?
 	- ex-guard / off-duty guard official
 		- actually. so he’s gotta flee Talon with the gang at the end?
 		- plan reveal
 			- shows reverence for Sisu earlier
 			- scoffs at human!Sisu. That can’t be Sisu.
-- Muong
-- Phu
-- Vien
-	- the monkey whisperer
+	- an mirror of Raya’s parenting
+		- betrays, just like how Raya had betrayed
+		- sacrifices self for the child
+		- now the child has to push on without parent figure, just like Raya
+- the recruit and the fodder
+	- monkey whisperer
 	- steals the satchel at the start?
 		- recognised the GEMS, didn’t know that was the Raya — stole just to be safe
 		- Raya assumes she recruited Vien, but it’s all planned by recruiter
 			- recruiter stationed VIen at the package for Raya
 			- means really knew it was Raya
+- the spy
+	- also a replacement sailor, intended to replace Boun
+		- but since spy, Boun needs to step back in
 - actually the Talon family-backstabber from E1?
+- one of them needs to be Boun’s replacement sailor — but also ends up being the spy
 
 ## Plot Outline
 
@@ -143,62 +156,66 @@ all this while, Raya struggles to work with a team — Team Talon is such a fail
 
 ### E1 - Comfort
 
-#### Namaari/Khaang Hook
+#### Namaari/Khaan Hook
 
 > **EXT. MOUNTAINTOP - DUSK**
 
-- Namaari and her crew are surveying from a lookout point, making camp
+- Namaari and her squad are surveying from a lookout point, making camp
 - A glow appears, just on the horizon, along a river
-	- Junior Soldier: “Khaang could’ve arrived sooner at Talon.”
+	- Junior Soldier: “Khaan could’ve arrived sooner at Talon.”
 	- her Serlot roars a yawn.
-	- Namaari, “Raya will know Khaang is our scout, barging in on a large noisy Serlot.”
-- Namaari turns back to an older soldier
-	- “Admiral Thaanh, can’t we find another route back home to Fang?”
-	- “Princess, if you want to arrive home in three days, without meeting any Druun, then we need to go through Heart.”
+	- Namaari, “Then Raya will know Khaan is a Fang scout, barging in on a large noisy Serlot.”
+- Namaari turns back to an older, decorated soldier
+	- “Admiral Thaam, can’t we find another route back home to Fang?”
+	- “Princess, if you want to arrive home in five days, without meeting any Druun, then we need to go through Heart.”
 	- Namaari’s reluctant.
 	- “I know how much that night hurt you, fifteen years go. I was there, too. But if Raya is out to steal the Gem shards from every tribe, then your mother needs to make plans.”
 	- (What? Namaari, hurt? Wasn’t she the one who backstabbed Raya?) #payme
-- “Okay, Admiral. Let’s hope Khaang succeeds in…”
+- “Okay, Admiral. Let’s hope Khaan succeeds in…”
 
 #### Goodbye Boun
 
 > **EXT. TALON - NIGHT**
 
 - Chyron: **TALON**
-	- (five days later), but it’s ambiguous
+	- (about five days after E1, but it’s not explicit to audience)
 - some establishing shots: the floating platforms, the merchant boats, lanterns, noisy crowds
 
 > **EXT. DOCKS, TALON - NIGHT**
 
 - The battle-torn Steamboat pulls into Talon docks. The gang steps out and takes a walk.
-- Sisu ogles: I didn’t know Talon became so beautiful…
-	- Raya: After the Druun returned fifteen years ago, Talon fully moved their whole tribe onto their lake.
+- Sisu ogles: I didn’t know Talon became so… beautiful…
+	- Boun picks a perfect lychee out of an overflowing crate
 	- Boun: If only the families in Tail could’ve banded together like this…
-	- Raya: Like a band of scammers and frauds? Watch out for fake parts.
-- Raya: Reminds me, the payment for your past week of delicacies on the Steamboat. And for saving my life. (gesturing to her wound that Boun bandaged)
+	- Raya snatches it: Yeah, a band of scammers and frauds. That’s fake.
+	- Raya discreetly tosses the lychee into the water. Fish snap over each other to win it. One fish slurps it, but on biting down on it—its life and colour drains to grey. It floats up, dead.
+- Boun: “Then why do people still trade with them?”
+	- Raya: “Because like it or not. Without Talon, the tribes wouldn’t trade with each other at all. Kumandra would’ve really fallen.
+	- Just keep your guard up. Be careful who you buy from.”
+- Raya: Reminds me, the payment for the past week of delicacies on the Steamboat… and for saving my life. (gesturing to her wound that Boun bandaged)
 	- Boun’s eyes widen as a bunch of coins drop into his hand
-	- Raya: Double what was promised. I’m sorry I assumed the worst of you. Purchase your ship repairs and go crazy with cooking ingredients.
-- “Thank you, Raya. And good luck with stealing Talon’s Gem artefact.”
-	- Raya double-takes, sternly: “What?! Shhhh! How—? Nevermind. Don’t you tell anyone about this.”
-		- #payme the whole of Talon finds out. Raya blames Boun, but it’s the spy.
+	- Raya: Double of what I promised. I’m sorry I assumed the worst of you. Purchase your ship repairs and go crazy with cooking ingredients!
+- “Thank you, Raya! And good luck with stealing Talon’s Gem artefact.”
+	- Raya double-takes, sternly: “What?! Shhhh! How—? Nevermind. If people find out, they’ll stop me from saving Kumandra—don’t you tell ANYONE about this.”
+		- #payme later, the whole of Talon finds out. Raya blames Boun, but it’s the spy.
 	- “But… can’t _I_ know about it?”
-	- “Nobody can know.”
-	- “…Okay.”
-	- “…Boun? Tell your parents, that Raya of the tribe of Heart says, their son was very noble.”
-	- Boun nods, shrugs. They part ways.
+	- “No.”
+	- “…okay. I didn’t tell you about what happened to my family, either.”
+	- “In the end, we both still got what we wanted!”
+	- Boun sadly nods, shrugs, poking at his disfigured ship. “I’m going to find ship repair parts now. I trust that you’re a good guy.” They part ways.
 
 %%
 - Boun reaches out his hand at the first stall for a fruit.
 	- Raya catches his hand and leads him away. She whispers, “That’s fake.”
 	- Sisu: “Fake?” They regroup away and look around at the stalls.
 	- Raya: “They’re almost all fake. They’re banded together alright, a band of scammers and frauds.”
-	- “Why do people still work with them?”
+	- “Then why do people still trade with them?”
 	- “Because like it or not. Without Talon, the tribes wouldn’t trade with each other.
 	- Kumandra would’ve fallen. But you still have to keep your guard up.”
 - Boun: Is that why you have those glowing weapons?
 	- Raya defensively hides her satchel.
 	- Sisu stares through Raya.
-	- Raya analytically confesses. “I am not from Tail. Yes, I am collecting glowing weapons from each tribe. I have an important mission to make things right, for everyone. I’m sorry I’m not telling the whole story, but this is the truth.”
+	- Raya analytically confesses. “Yes, I am not from Tail. Yes, I am collecting glowing weapons from each tribe. I have an important mission to make things right, for everyone. I’m sorry I’m not telling the whole story, but this is the truth.”
 	- “Okay.” “Okay?”
 	- “Yeah. I didn’t tell you about my parents, either. Like it or not, I guess I have to trust you just enough to win together. Like the people of Talon.”
 - “Gus-gus. Stay safe, Boun.”
@@ -208,11 +225,11 @@ all this while, Raya struggles to work with a team — Team Talon is such a fail
 #### Hello, Talon
 
 - Raya heel-turns, but grabs onto Sisu (for fear of water)
-- She monologues: Our schedule is three days late because the boat got damaged. Tuk-Tuk is swimming nearby. I’ve got my whistle to call him when we need to escape. Now Sisu, you—
-- Sisu’s exasperated: Boun already knows. Let him in!
+- Raya monologues: Our schedule is three days late because the boat got damaged. Tuk-Tuk is swimming nearby. I’ve got my whistle to call him when we need to escape. Now Sisu, you—
+- Sisu’s exasperated: “Boun already knows. Let him in!”
 	- Raya: He’s… too young.
 	- Sisu: We need to travel by boat if you want to avoid the Druun and be faster than Namaari.
-	- Raya: Fine. We’ll get another sailor. Boun knows too much.
+	- Raya: Fine. We’ll find another sailor. Boun knows too much.
 - Raya: we need to get new clothes to blend in. Follow close.
 
 > **EXT. MARKET STREET, TALON - NIGHT**
@@ -221,9 +238,9 @@ all this while, Raya struggles to work with a team — Team Talon is such a fail
 	- crowds jostle, vendors haggle prices
 	- the oddly-dressed pair are singled out by the vendors, hard to move
 	- vendors:
-		- Aha! This headscarf goes beautifully with your traditional Tail wear!
-		- first purchase, half price!
-		- hello ladies, I’m from Tail too! Let me show you around!
+		- “Aha! This headscarf goes beautifully with your traditional Tail wear!”
+		- “first purchase, half price!”
+		- “hello ladies, I’m from Tail too! Let me show you around!”
 	- Sisu: Wow, everyone’s so friendly!
 		- Sisu gets caught by a lotion salesperson lol
 		- With free lotion, Sisu’s obligated to purchase
@@ -244,8 +261,8 @@ all this while, Raya struggles to work with a team — Team Talon is such a fail
 …
 
 %%
-- Khaang or Noi attempts to steal the bag? plays it off as a petty thief?
-	- Khaang already recommended by Nan. Noi suss’ed for going straight for the bag
+- Khaan or Noi attempts to steal the bag? plays it off as a petty thief?
+	- Khaan already recommended by Nan. Noi suss’ed for going straight for the bag
 	- Noi takes the bag because:
 		- Noi says she’s secretly Talon princess
 			- she knows Raya is here for the gems?

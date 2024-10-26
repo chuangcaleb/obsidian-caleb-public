@@ -14,12 +14,16 @@ emojip: 🐉
 index: true
 up:
   - whatsthestoryabout
+featured: 2
 collectionItems:
   - disney's-raya-tv-series-pitch/raya-disclaimer
   - disney's-raya-tv-series-pitch/raya-e1-kumandra
   - disney's-raya-tv-series-pitch/raya-e2-tail
   - disney's-raya-tv-series-pitch/raya-e3-talon
   - disney's-raya-tv-series-pitch/raya-e4-spine
+  - >-
+    8 public/post/Disney's Raya - TV Series Pitch/Disney's Raya - TV Series
+    Pitch
 slug: disney's-raya-tv-series-pitch
 ---
 # RAYA - Index

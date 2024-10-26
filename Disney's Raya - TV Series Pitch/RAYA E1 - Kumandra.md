@@ -365,7 +365,7 @@ Yes. And we must prepare to meet them.
 > **NOMAD CAMP, TAIL - DAY (PRESENT)**
 
 - A woman on a Serlot (some large tiger-wolf hybrid, like ATV’s) dismounts and enters the cavern.
-	- She inspects the carnage left behind by the Druun
+	- She inspects the carnage left behindby the Druun
 	- She picks up the Padipepper from the ground.
 	- Some more armour-clad warriors on Serlots step out behind her.
 	- "What are your orders, Princess Namaari?"

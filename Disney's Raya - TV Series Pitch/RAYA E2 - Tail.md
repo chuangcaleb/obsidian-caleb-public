@@ -217,7 +217,7 @@ slug: disney's-raya-tv-series-pitch/raya-e2-tail
 	- Boun: "Are you Tail?"
 	- Raya tries to mouth-signal to Sisu…
 	- Sisu spins around and checks her bum, thinking she hasn't shifted back properly, "*Ashka*! Wait… no tail. Just a normal-shaped human *punggung*."
-- Boun: "Please, I can't serve you if you're not Tail."
+- Boun: "You’re not from Fang, are you? Please don’t hurt me."
 	- Sisu: "We have gifts! Raya, you said you have lemongrass?"
 	- Boun brightens, hops over, "Lemongrass?! No way! I thought they were extinct!"
 - Namaari's Serlot starts racing down the boardwalk towards them
@@ -227,7 +227,7 @@ slug: disney's-raya-tv-series-pitch/raya-e2-tail
 	- the Serlots start jumping across the vacant ships to close the gap—
 	- but the gang narrowly make their escape
 
-#### Fang Resolution
+#### Fang Regroup
 
 > **DOCKS, LAKE, TAIL**
 
@@ -235,9 +235,9 @@ slug: disney's-raya-tv-series-pitch/raya-e2-tail
  1. Raya can now escape anywhere, they won't keep up with the boat
  2. they'll likely go to Talon next for the next Gem shard
 - Namaari commands not to pursue;
-	- Talon is strong and dangerous territory, we'll intercept after
+	- Talon and Spine are strong and dangerous territories
 	- She chooses one of her elite soldiers to prepare to follow and spy on Raya
-		- not to interfere. just collect info
+		- must not interfere. just collect info
 - Namaari needs to head back to Fang to talk with her mother, Chief Virana
 	- she needs to know what Raya is really trying to do
 	- (Namaari doesn't actually understand the scroll she showed when she was younger)
@@ -262,7 +262,7 @@ slug: disney's-raya-tv-series-pitch/raya-e2-tail
 	- Raya: "We can't be completely sure we can trust Boun, or any other sailor."
 	- Sisu: “Get your own boat”
 	- Raya: “I never learnt how to drive a boat.”
-	- Sisu: "You've tracked down every river's end in Kumandra, but you never learnt how to sail? Kumandra isn't that big. If you learnt how to sail, you would've taken much less than six years."
+	- Sisu: "You've tracked down every river's end in Kumandra, but you never learnt how to sail? Kumandra isn't that big. If you learnt how to sail, you would've taken much quicker than six years."
 	- Raya, "You got me, I just can’t swim."
 	- Sisu: "Then why didn't you learn? And come to think of it, if you assembled people to spread out, finding all the river's ends would've taken less than a few months!"
 	- Raya: "You can't trust anyone!"

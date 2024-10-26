@@ -5,6 +5,7 @@ wtsa_categories: 🎪 The Greatest Showman Series
 published: '2020-04-07'
 collection:
   - the-greatest-showman-series
+featured: 1
 slug: the-greatest-showman-series/the-greatest-showman-series-reflection
 ---
 # The Greatest Showman – Series Reflection
