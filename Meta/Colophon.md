@@ -3,6 +3,8 @@ up:
   - whatsthestoryabout
 created: '2024-07-28T00:00:00.000Z'
 modified: '2024-07-28T00:00:00.000Z'
+collection:
+  - meta
 slug: meta/colophon
 ---
 # Colophon

@@ -1,10 +1,14 @@
 ---
-up: []
+up: null
 created: '2024-06-05T00:00:00.000Z'
 modified: '2024-06-05T00:00:00.000Z'
+collection:
+  - meta
 slug: meta/public-garden-navigation
 ---
 # Public Garden Navigation
+
+[🚧 WIP]
 
 This note explains the navigational design of my public digital garden, and the different ways that users can explore the garden through note relations.
 

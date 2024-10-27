@@ -1,6 +1,8 @@
 ---
 up:
   - whatsthestoryabout
+collection:
+  - meta
 slug: meta/style-test
 ---
 # Style Test

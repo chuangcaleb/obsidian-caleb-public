@@ -3,7 +3,7 @@ emojip: 🐉
 index: true
 longform:
   format: scenes
-  title: Disney's Raya - TV Series Pitch
+  title: Disney's Raya - TV Series Pitch (compiled)
   workflow: Default Workflow
   sceneFolder: /
   scenes: []
@@ -24,7 +24,7 @@ collectionItems:
   - disney's-raya-tv-series-pitch/raya-e2-tail
   - disney's-raya-tv-series-pitch/raya-e3-talon
   - disney's-raya-tv-series-pitch/raya-e4-spine
-  - disney's-raya-tv-series-pitch/disney's-raya-tv-series-pitch
+  - Disney's Raya - TV Series Pitch
 slug: disney's-raya-tv-series-pitch
 ---
 # RAYA - Index
@@ -37,4 +37,4 @@ It’s in a very rough beat sheet/outline form. It’s far from complete, yes, I
 
 I’m very proud to show off the outline of at least the first two episodes — they are complete and self-contained. And I think I’m *cooking* with them.
 
-This is also my first attempt using [Longform](https://github.com/kevboh/longform/tree/main) to compile individual notes into one mega output note → [[Disney's Raya - TV Series Pitch]].
+This is also my first attempt using [Longform](https://github.com/kevboh/longform/tree/main) to compile individual notes into one mega output note → [[Disney's Raya - TV Series Pitch (compiled)]].
