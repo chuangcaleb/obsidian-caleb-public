@@ -12,9 +12,9 @@ collectionItems:
   - mulan-ii-film-review
   - maleficent-mistress-of-evil-film-review
   - frozen-ii-film-review
+  - descendants-1-film-review
   - disney's-raya-cultural-review
   - descendants-2-film-review
-  - descendants-1-film-review
 slug: film-reviews
 ---
 # Film Reviews

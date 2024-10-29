@@ -67,11 +67,11 @@ For now, the blog will keep a flat one-level directory for simplicity on the cod
 ## History
 
 - Finally, not technically designed, but the navigation history stack is technically a way to explore notes
-- This is not designed on the content data sie but is just there on the client viewing side
-- It’s a trail or chain relationship, where each note connects to forward and backward in a chain
-- Usually it comes from the user clicking one 
+- This is not designed on the content data site but is just there on the client viewing side
+- It’s a trail / chain relationship, where each note connects to forward and backward in a chain
+- Usually it comes from the user clicking one
 - Andy Mustechsk’s sliding panes takes this concept all the way, with old notes still shown on the screen on the left, stil in physical and mental viewport. Since it’s very easy to “pop” back to previous notes, viewers are more inclined to “dive” into deep rabbit trails.
-	- One notable difference is while normal application or web browser navigation history, is that when navigating to a page/note that exists somewhere below in the stack, 
+	- One notable difference is while normal application or web browser navigation history, is that when navigating to a page/note that exists somewhere below in the stack,
 	- they will just push a duplicate entry in the stack, and then keep pushing more items, never popping from it.
 	- whereas sliding panes will pop all notes in between until it reaches that previous stack item of access, and continue from there. This means that there’s no duplicates in the sliding panes stack.
 	- This does have the benefit that you really feel like you’re backtracking your “trail of thought”, rather than just running around only in a forward direction.

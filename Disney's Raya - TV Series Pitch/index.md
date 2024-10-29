@@ -19,12 +19,12 @@ modified: '2024-10-26T00:00:00.000Z'
 collection:
   - story-rewrites
 collectionItems:
-  - disney's-raya-tv-series-pitch/raya-disclaimer
+  - disney's-raya-tv-series-pitch/raya-preface
   - disney's-raya-tv-series-pitch/raya-e1-kumandra
   - disney's-raya-tv-series-pitch/raya-e2-tail
   - disney's-raya-tv-series-pitch/raya-e3-talon
   - disney's-raya-tv-series-pitch/raya-e4-spine
-  - Disney's Raya - TV Series Pitch
+  - disney's-raya-tv-series-pitch/disney's-raya-tv-series-pitch-(compiled)
 slug: disney's-raya-tv-series-pitch
 ---
 # RAYA - Index
