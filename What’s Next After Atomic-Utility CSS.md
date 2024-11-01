@@ -1,7 +1,10 @@
 ---
-up: null
 collection:
   - technology
+up: null
+created: '[[2024-07-28|28 Jul 2024, Sun]]'
+published: '[[2024-07-28|28 Jul 2024, Sun]]'
+modified: '[[2024-11-01|01 Nov 2024, Fri]]'
 slug: whats-next-after-atomic-utility-css
 ---
 # What’s Next After Atomic-Utility CSS
@@ -24,7 +27,7 @@ Then there's the diff issue: since every atomic style is in one line of string, 
 
 Tailwind also populates the stylesheet with a bunch of boilerplate CSS variable declarations. I'm probably smarter today to find out how to fix that, but the `@tailwind` injection is pre-configured and black-boxed (which is appropriate and desirable for quick one-off scaffolding!). But I desired having more control to exactly define what gets into the stylesheet.
 
-Component variants was the biggest hurdle. Make a Tailwind-styled button with a matrix of style vs. size vs. color-scheme vs. font-styles, etc. There's a lot of variants with overlapping style conflicts (e.g. a solid button has the accent be the background color, but transparent buttons has no background color but accented text) then you may end up with undesirable declaration conflict resolutions in the same `class` string (e.g. `"bg-accent ... bg-none"`). I tried solutions like [clsx](https://github.com/lukeed/clsx) and [cva](https://cva.style/docs) to pre-process the issues. (I still like the idea of type-safe/hinted variants — may revisit this!)
+Component variants was the biggest hurdle. Make a Tailwind-styled button with a matrix of style vs. size vs. color-scheme vs. font-styles, etc. There's a lot of variants with overlapping style conflicts (e.g. a solid button has the accent be the background color, but transparent buttons has no background color but accented text) then you may end up with undesirable declaration conflict resolutions in the same `class` string (e.g. `"bg-accent … bg-none"`). I tried solutions like [clsx](https://github.com/lukeed/clsx) and [cva](https://cva.style/docs) to pre-process the issues. (I still like the idea of type-safe/hinted variants — may revisit this!)
 
 Even with abstraction, compiled HTML output is cluttered. CSS clutter is not too bad, but when debugging the HTML, it's unruly to sift through the lines-spanning XML tags. Doesn't it also increase the initial HTML file size by a lot? (EDIT: with minification and style sorting, HTML size isn't as affected.)
 

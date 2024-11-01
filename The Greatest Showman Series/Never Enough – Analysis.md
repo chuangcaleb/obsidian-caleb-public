@@ -1,11 +1,11 @@
 ---
 collection:
   - the-greatest-showman-series
-aliases:
-  - Never Enough
-wtsa_categories: 🎪 The Greatest Showman Series
 jekyllcss: showman
 published: '2019-12-20'
+wtsa_categories: 🎪 The Greatest Showman Series
+aliases:
+  - Never Enough
 up: the-greatest-showman-series
 slug: the-greatest-showman-series/never-enough-analysis
 ---
@@ -15,7 +15,7 @@ That’s enough for today’s post. The composers did a great job at this pop-op
 
 <!--more-->
 
-Upon first viewing, and in the context of the dialogue after, it seems like such a tragic song: if skyscrapers will never be enough, then surely nothing will ever be. But, after reading that last panel, everything is flipped. Rather, “The world will never be enough...without you”. Rather, “You will always be enough for me”. And that’s pretty beautiful.
+Upon first viewing, and in the context of the dialogue after, it seems like such a tragic song: if skyscrapers will never be enough, then surely nothing will ever be. But, after reading that last panel, everything is flipped. Rather, “The world will never be enough…without you”. Rather, “You will always be enough for me”. And that’s pretty beautiful.
 
 ## Lyric Analysis
 
@@ -47,7 +47,7 @@ Upon first viewing, and in the context of the dialogue after, it seems like such
 
 **Can you hear it echoing?**
 
-> V: Barnum’s ambition is growing... just as the circus Oddities start to feel the effects of a fraud
+> V: Barnum’s ambition is growing… just as the circus Oddities start to feel the effects of a fraud
 >
 > V: For Barnum, the circus Oddities are only an echo: a poor man’s substitute, or maybe just a mere “sideshow” and stepping stones to riches
 
@@ -182,7 +182,7 @@ Upon first viewing, and in the context of the dialogue after, it seems like such
 
 ## Common Motifs
 
-**“All my/your impossible wants and dreams...”**
+**“All my/your impossible wants and dreams…”**
 
 > You set off a dream in me
 
@@ -194,7 +194,7 @@ Upon first viewing, and in the context of the dialogue after, it seems like such
 
 > These hands could hold the world…
 
-**“...with ambitions becoming more real…”**
+**“…with ambitions becoming more real…”**
 
 > You set off a dream in me
 
@@ -204,13 +204,13 @@ Upon first viewing, and in the context of the dialogue after, it seems like such
 
 > Can you hear it echoing
 
-**“...or achievements I’m trying to hold onto...”**
+**“…or achievements I’m trying to hold onto…”**
 
 > Let it stay this way
 
 > Can’t let this moment end
 
-**“...is not enough...”**
+**“…is not enough…”**
 
 > Will never be enough
 
@@ -218,7 +218,7 @@ Upon first viewing, and in the context of the dialogue after, it seems like such
 
 > It’ll never be enough
 
-**“...if it’s without you.”**
+**“…if it’s without you.”**
 
 > Take my hand
 
@@ -235,43 +235,34 @@ Towers of gold and a thousand spotlights
 Stars stolen from the night sky
 
 - “Taking your breath; stealing your mind.”
-
 - Something so far out of reach, something so big beyond our strength—but we’ve stolen/overpowered it
 
 Me me me me me me
 
 - The verse and pre-chorus has frequency of words about “you” equivalent to frequency of words about “me”. In contrast, after that, the song has a 0-to-13 "you"-to-"me" frequency ratio.
-
-- Interestingly, stealing stars is an action “we” do... but it’s only “for me”.
+- Interestingly, stealing stars is an action “we” do… but it’s only “for me”.
 
 Barnum & Jenny
 
 - The background of Jenny: she’s born out of wedlock and people shame her. She knows family is worth more than riches, so in this fictional story, she thinks Barnum is offering her just that
-
 - Jenny herself seems to warn Barnum: riches and fame is never enough if it’s without family
-
 - While Philip and the theatre critic tell Barnum he’s a fraud—Jenny represents a genuine article, a real, talented singer. Funny thing is, the legit talent is an illegitimate child. We’re all bruised.
 
 Barnum & Charity
 
 - We see Barnum holding his breath, thinking that this Jenny is his ticket to the greatest show. But later, he will hold his breath too long, never finding his “enough”.
-
 - Post-thoughts : Charity was like Jenny: they had a rich inheritance, towers of gold and spotlights. But imagine the song as if Charity were the one singing, “All those riches are never enough if they are without you, Barnum.”
 
 Philip & Anne
 
 - Philip sets off a dream in Anne, to which she responds by taking his hand. Dreams came true for a minute; then upon his parents watching, he let go.
-
 - Digging deeper, this sequence might be trying to say that even if family was worth more than towers of gold, it’s still never enough to rewrite the stars/change the rules of society… which becomes the debate in the next song.
-
 - Like Charity and Jenny, Philip also had a rich inheritance, towers of gold and spotlights. But imagine the song as if Philip were Jenny, singing: "All those riches are never enough if it is without you, Anne."
 
 ### The Medium
 
-- Pop-opera fusion of cultural appropriation and modern re-imagination/adaptation
-
+- Pop-opera fusion of cultural appropriation and modern re-imagination/adaptation [2024 me here. what did i mean by this LOL]
 - In the story-world: a literal solo performance where Jenny’s authenticity is tested—and proven
-
 - Chorus of Never Enough has a chord progression similar and reminiscent of The Greatest Show’s and A Million Dreams’ own choruses: these are all songs about _ambition_ and _dreams_
 
 ### What’s the name about?
@@ -298,7 +289,7 @@ A few years back, I finally finished my childhood dream of creating/coding a min
 
 But truth is, it felt… empty. Literally. Just me in my singleplayer world.
 
-It was then that I woke up: the minigame I had worked on for years... was designed for two people. It was always going to be for two people.
+It was then that I woke up: the minigame I had worked on for years… was designed for two people. It was always going to be for two people.
 
 I called a friend to come to playtest, and though I found out how many bugs and flaws my singleplayer dream ended up having… it was the best feeling to share your dreams with people, especially close friends.
 

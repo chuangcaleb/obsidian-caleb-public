@@ -64,6 +64,13 @@ For now, the blog will keep a flat one-level directory for simplicity on the cod
 - It’s a list of other notes that points to the current note
 - Great for finding connections that you don’t expect
 
+## Time
+
+- Usually blog landing pages just list out all their posts by **most recently published**. [I did that!](https://chuangcaleb.github.io/wtsa/)
+- It’s very valid — regular browsers will want to see the most recent published post!
+- But we prefer to highlight the pinned/featured posts first, for first-timers!
+- Since our garden is fluid rather than stagnant, we also sort by **most recently modified**. I make tweaks to my notes all the time, so you can see which notes had recently perked my interest to revisit!
+
 ## History
 
 - Finally, not technically designed, but the navigation history stack is technically a way to explore notes

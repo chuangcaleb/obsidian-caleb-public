@@ -1,4 +1,5 @@
 ---
+published: 2024-03-23T00:00:00.000Z
 up:
   - film-reviews
 created: '2024-02-25T00:00:00.000Z'
