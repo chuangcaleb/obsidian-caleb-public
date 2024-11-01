@@ -4,7 +4,7 @@ collection:
 up:
   - technology
 created: '2024-08-06T00:00:00.000Z'
-published: 2024-08-06T00:00:00.000Z
+published: '2024-08-06'
 modified: '2024-10-26T00:00:00.000Z'
 slug: making-my-website-guestbook
 ---

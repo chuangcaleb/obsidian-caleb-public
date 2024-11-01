@@ -2,11 +2,12 @@
 collection:
   - the-greatest-showman-series
 jekyllcss: showman
-published: '2020-02-14'
+published: '2019-12-14T00:00:00'
 wtsa_categories: 🎪 The Greatest Showman Series
 aliases:
   - This is Me
-up: the-greatest-showman-series
+up:
+  - the-greatest-showman-series
 slug: the-greatest-showman-series/this-is-me-analysis
 ---
 # This is Me – Analysis

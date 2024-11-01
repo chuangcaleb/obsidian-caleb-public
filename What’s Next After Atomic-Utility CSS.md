@@ -1,10 +1,11 @@
 ---
 collection:
   - technology
-up: null
-created: '[[2024-07-28|28 Jul 2024, Sun]]'
-published: '[[2024-07-28|28 Jul 2024, Sun]]'
-modified: '[[2024-11-01|01 Nov 2024, Fri]]'
+up:
+  - - Technology
+created: '2024-07-28T00:00:00.000Z'
+published: '2024-07-28'
+modified: '2024-11-01T00:00:00.000Z'
 slug: whats-next-after-atomic-utility-css
 ---
 # What’s Next After Atomic-Utility CSS
