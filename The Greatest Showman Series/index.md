@@ -5,6 +5,8 @@ index: true
 series: true
 up:
   - whatsthestoryabout
+tags:
+  - 📂/collection
 collectionItems:
   - the-greatest-showman-series/the-greatest-show-(prologue)-analysis
   - the-greatest-showman-series/a-million-dreams-analysis
