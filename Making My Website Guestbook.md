@@ -5,7 +5,7 @@ published: '2024-08-06'
 up:
   - technology
 created: '2024-08-06T00:00:00.000Z'
-modified: '2024-10-26T00:00:00.000Z'
+modified: '2024-11-04T00:00:00.000Z'
 slug: making-my-website-guestbook
 ---
 # Making My Website Guestbook

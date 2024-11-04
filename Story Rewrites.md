@@ -9,8 +9,8 @@ created: '2024-10-26T00:00:00.000Z'
 modified: '2024-10-26T00:00:00.000Z'
 collectionItems:
   - mulan-ii-rewrite-beat-sheet
-  - disney's-raya-tv-series-pitch
   - frozen-ii-rewrite-beat-sheet
+  - disney's-raya-tv-series-pitch
 slug: story-rewrites
 ---
 # Story Rewrites

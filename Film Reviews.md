@@ -9,8 +9,8 @@ up:
 featured: 3
 collectionItems:
   - over-the-moon-film-review
-  - mulan-ii-film-review
   - frozen-ii-film-review
+  - mulan-ii-film-review
   - maleficent-mistress-of-evil-film-review
   - descendants-1-film-review
   - disney's-raya-cultural-review
