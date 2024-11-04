@@ -1,10 +1,10 @@
 ---
 collection:
   - technology
+published: '2024-08-06'
 up:
   - technology
 created: '2024-08-06T00:00:00.000Z'
-published: '2024-08-06'
 modified: '2024-10-26T00:00:00.000Z'
 slug: making-my-website-guestbook
 ---
@@ -15,21 +15,21 @@ I’ve made a website guestbook: where people can write a message, and it’ll b
 ## TL;DR
 
 - Built a Google Form
-	- Manually distribute the link to personal people
+	- Manually+personally distribute the link to people
 - Google Form writes to a Google Sheet spreadsheet
-- Use a package to (authenticated) read from the Google Sheet
+- Use a package to (make an authenticated) read from the Google Sheet
 - Render results on site
-- Click the skip link to skip ahead to the [[#Implementation]]
+- Click [this skip link](#Implementation) to skip past the requirements specs to the implementation
 
 ## Requirements
 
 The guestbook consists of three parts:
 
-1. A public web form
-2. A persistent storage/database
-3. A web page to render entries from the storage
+1. 📝 A public web form
+2. 💾 A persistent storage/database
+3. 🖼️ A web page to render entries from the storage
 
-I already had the website <https://chuangcaleb.com> so it’s just a matter of the first two!
+I already had my website `chuangcaleb.com`, so it’s just a matter of the first two!
 
 One particular general requirement was to be able to **review a form entry** before marking it as “safe” for building on the webpage. This is to protect against malicious actors who somehow get a hold of the web form link, and writes malicious content that automatically gets published to the site. Think of those YouTube comment bots. Yucks.
 
@@ -65,7 +65,7 @@ So, time to scale it back _as simple as possible._
 
 At work, we use Google Sheets to manage internationalisation/translation text variants and feature flags, published as JSON endpoints. I realised that this was the key to the simple workflow that I minimally needed!
 
-I'm using simple [Google Forms](https://support.google.com/a/users/answer/9303071?hl=en) to collect responses and save them in a Google Sheet. That’s basically the form and storage, sorted. I won’t go into details why they meet the criteria, but they completely do.
+I'm using simple [Google Forms](https://support.google.com/a/users/answer/9303071?hl=en) to collect responses and save them in a Google Sheet. That’s basically the form and storage, sorted. I think they’re common and intuitive, so I won’t go into details why they meet the criteria. But they **completely** do.
 
 To verify people, I enable the `Collect email addresses of participants` and `Collect verified emails` form options. This means that they must sign in with an authenticated Google account to submit the form. After people write and submit their posts, I did enable sending a notification on form entry.
 
@@ -83,19 +83,18 @@ Unticked: FALSE
 
 My spreadsheet would look something like this (but transposed, of course):
 
-|                      |                                                                  |
-| -------------------- | ---------------------------------------------------------------- |
-| isVerified           | TRUE                                                             |
-| Timestamp            | 12/07/2024 21:22:46                                              |
-| Email address        | example@email.com                                                |
-| 📇 Display Name      | caleb                                                            |
-| 🤝 Real Name         | Chuang Caleb                                                     |
-| 👥 Relation to me    | myself                                                           |
-| 🏷️ Tag              | Other                                                            |
-| 📃 Content Body      | 🎤 Testing, testing. Is this thing on?                           |
+| key                  | value                                                              |
+| -------------------- | ------------------------------------------------------------------ |
+| isVerified           | TRUE                                                               |
+| Timestamp            | 12/07/2024 21:22:46                                                |
+| Email address        | example@email.com                                                  |
+| 📇 Display Name      | caleb                                                              |
+| 🤝 Real Name         | Chuang Caleb                                                       |
+| 👥 Relation to me    | myself                                                             |
+| 🏷️ Tag              | Other                                                              |
+| 📃 Content Body      | 🎤 Testing, testing. Is this thing on?                             |
 | 🔗 Social Link       | <https://chuangcaleb.com>                                          |
 | 📸 Avatar Image Link | <https://www.gravatar.com/avatar/29d863c08e05a20bab30479ecae823eb> |
-
 
 ### Spreadsheet as API + Web Render
 
@@ -126,6 +125,8 @@ In my source code, I like to decouple and make functions as generic as possible 
             └── index.astro
 ```
 
+#### jwt.ts
+
 I first export a reusable `jwt` instance. Two notes:
 
 - I would like to move off `dotenv` for something more type-secure. But IT WORKS FOR NOW
@@ -148,6 +149,8 @@ const jwt = new JWT(jwtOptions);
 
 export {jwt as default};
 ```
+
+#### sheet.ts
 
 Then this next file actually has the method for reading.
 
@@ -184,9 +187,13 @@ export async function getGuestbookPosts() {
 }
 ```
 
+#### types.ts
+
 I assert the type of the results with the following Typescript type:
 
 ```ts
+// types.ts
+
 // commented the fields we don't want to expose
 export type GuestPost = {
 	isVerified?: 'TRUE';
@@ -205,7 +212,7 @@ export type GuestPost = {
 So `await getGuestbookPosts()` should return a result like following:
 
 ```json
-// modified for example
+// faked data, for example purposes
 [
   ...
   {
@@ -224,9 +231,11 @@ So `await getGuestbookPosts()` should return a result like following:
 ]
 ```
 
-You _could_ use zod or yup some other validation library to enforce that the external data read is type-secure. But:
+You _could_ use `zod` or `yup` some other runtime validation library to enforce that the external data read is type-secure. But:
 
 > That’s over-engineering!
+
+#### guestbook/index.astro
 
 In the frontend render, I do to preprocessing steps:
 

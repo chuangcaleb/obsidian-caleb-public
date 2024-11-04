@@ -198,13 +198,13 @@ all this while, Raya struggles to work with a team — Team Talon is such a fail
 	- Boun’s eyes widen as a bunch of coins drop into his hand
 	- Raya: Double of what I promised. I’m sorry I assumed the worst of you. Purchase your ship repairs and go crazy with cooking ingredients!
 - “Thank you, Raya! And good luck with stealing Talon’s Gem artefact.”
-	- Raya double-takes, sternly: “What?! Shhhh! How—? Nevermind. If people find out, they’ll stop me from saving Kumandra—don’t you tell ANYONE about this.”
+	- Raya double-takes, sternly: “What?! Shhhh! How—? Never mind. If people find out, they’ll—don’t you tell ANYONE about this.”
 		- #payme later, the whole of Talon finds out. Raya blames Boun, but it’s the spy.
 	- “But… can’t _I_ know about it?”
 	- “No.”
 	- “…okay. I didn’t tell you about what happened to my family, either.”
 	- “In the end, we both still got what we wanted!”
-	- Boun sadly nods, shrugs, poking at his disfigured ship. “I’m going to find ship repair parts now. I trust that you’re a good guy.” They part ways.
+	- Boun sadly nods, shrugs, poking at his disfigured ship. “I’m going to find ship repair parts now. Raya, I trust that you’re a good guy… but I’ll never know for sure.” They part ways.
 
 %%
 - Boun reaches out his hand at the first stall for a fruit.
