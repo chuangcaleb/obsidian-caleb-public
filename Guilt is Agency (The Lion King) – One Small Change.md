@@ -12,6 +12,8 @@ link_label: The Lion King Script – Script Slug
 wtsa_categories: 🔧 One Small Change
 up:
   - whatsthestoryabout
+collection:
+  - '[[Story Rewrites]]'
 slug: guilt-is-agency-(the-lion-king)-one-small-change
 ---
 # Guilt is Agency (The Lion King) – One Small Change
