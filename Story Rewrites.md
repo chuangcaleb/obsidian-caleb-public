@@ -10,6 +10,7 @@ modified: '2024-10-26T00:00:00.000Z'
 collectionItems:
   - mulan-ii-rewrite-beat-sheet
   - frozen-ii-rewrite-beat-sheet
+  - guilt-is-agency-(the-lion-king)-one-small-change
   - disney's-raya-tv-series-pitch
 slug: story-rewrites
 ---

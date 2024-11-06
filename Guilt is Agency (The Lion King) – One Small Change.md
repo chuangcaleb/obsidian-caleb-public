@@ -13,7 +13,7 @@ wtsa_categories: 🔧 One Small Change
 up:
   - whatsthestoryabout
 collection:
-  - '[[Story Rewrites]]'
+  - story-rewrites
 slug: guilt-is-agency-(the-lion-king)-one-small-change
 ---
 # Guilt is Agency (The Lion King) – One Small Change

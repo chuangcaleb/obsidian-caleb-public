@@ -9,12 +9,13 @@ up:
 featured: 3
 collectionItems:
   - over-the-moon-film-review
+  - netflix-avatar-live-action-reaction
   - frozen-ii-film-review
   - mulan-ii-film-review
   - maleficent-mistress-of-evil-film-review
-  - descendants-1-film-review
   - disney's-raya-cultural-review
   - descendants-2-film-review
+  - descendants-1-film-review
 slug: film-reviews
 ---
 # Film Reviews

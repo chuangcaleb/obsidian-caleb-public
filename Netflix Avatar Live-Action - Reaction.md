@@ -5,7 +5,7 @@ up:
 created: '2024-02-25T00:00:00.000Z'
 modified: '2024-11-01T00:00:00.000Z'
 collection:
-  - '[[Film Reviews]]'
+  - film-reviews
 slug: netflix-avatar-live-action-reaction
 ---
 # Netflix Avatar Live-Action - Reaction
