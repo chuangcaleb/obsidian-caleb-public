@@ -47,6 +47,6 @@ slug: disney's-raya-tv-series-pitch/raya-e4-spine
 		- trust everyone?
 		- always cooperate?
 	- Fang: ruthless, internal trust
-		- always cheat?
+		- always cheat?—nah it gotta be more complex than that at this final stage
 - they find a water redirection
 	- Raya takes twice as long to find all river ends, because of all the redirection

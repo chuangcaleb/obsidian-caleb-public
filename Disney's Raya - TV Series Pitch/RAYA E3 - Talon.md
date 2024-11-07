@@ -50,7 +50,7 @@ slug: disney's-raya-tv-series-pitch/raya-e3-talon
 	- The parent figure believes Raya.The parent figure switches places, so that the parent figure gets turned to stone, trusting that Raya will really turn all the stone people back.
 		- maybe the parent figure lost someone to stone
 	- the Talon kid now joins them on their journey, having to revive parent figure
-	- maybe it’s the kid who believes
+	- maybe it’s the kid who believes and self-sacrifices
 	- maybe the Fang scout imposter is here too, still taking an artefact for themselves
 - Namaari subplot
 	- early scene showing dispatching of scout?
@@ -70,6 +70,13 @@ slug: disney's-raya-tv-series-pitch/raya-e3-talon
 - rivers drying
 	- older buildings are higher up above the water, where the water level used to be — the “center” is higher up
 	- newer buildings, at the fringes, especially docks, are lower
+
+## Snowflake Method
+
+- Raya must work with a team to obtain Talon’s Gem shard (to save the world)
+- Raya enters Talon, ready to semi-trust trustworthy allies. She assembles a necessary team to obtain the Gem shard. She gets pressed by an unknown Fang Spy, besides her own teammates. She must decide whether to sellout her sucky team, or keep her own promises.
+- Character Profiles
+	- Raya’s goal is to find the princess holding the shard. However, she’s skeptical working with others. She needs to know how to work with and evaluate others.
 
 ## Character Profiles
 
