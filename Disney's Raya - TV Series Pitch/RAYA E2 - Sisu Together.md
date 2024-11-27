@@ -11,6 +11,8 @@ slug: disney's-raya-tv-series-pitch/raya-e2-sisu-together
 
 [[#The Story|Skip To Story]]
 
+> **🚧 WIP**, come talk to me IRL for more heh
+
 ## (Outdated) Planning Notes
 
 - In adding depth to Sisu's characterization, I'd like for her to use weird old-timey terms and a foreign language to describe things and places. Kind of like ATLA's Aang saying "flameo hotman"! Which is way better than Sisu spouting Gen Z slang.
@@ -132,9 +134,9 @@ slug: disney's-raya-tv-series-pitch/raya-e2-sisu-together
 	- A lone assailant, masked in full stealth.
 - Namaari scans the area. “It’s just you. You took on my entire city by yourself. Who are you?”
 	- The assailant, speechless, charges Namaari with heavy strikes and tough grunts.
-- Namaari rolls backwards and produces a whistling firework rocket, like in previous episode, preparing to launch it into the sky.
+- Namaari rolls backwards, giving herself space, and produces a whistling firework rocket (like in the previous episode!) and prepares to launch it into the sky.
 	- The assailant speaks—a female voice taunts: “Wouldn’t want mámá to think that her Chief Military General couldn’t handle me on her own?”
-	- Namaari locks eyes. Lowers the firework, and tosses it over the cliff’s edge.
+	- Namaari locks eyes. Lowers the firework, and tosses it over the cliff’s edge
 	- Namaari unsheathes a foot-long dagger
 - They fight some more.
 - Namaari disarms the assailant’s blade.
