@@ -1,44 +1,43 @@
 ---
-prev: disney's-raya-tv-series-pitch/raya-e2-tail
-next: disney's-raya-tv-series-pitch/raya-e4-spine
-created: '2023-09-21T00:00:00.000Z'
 collection:
   - disney's-raya-tv-series-pitch
-modified: '2024-08-12T00:00:00.000Z'
-slug: disney's-raya-tv-series-pitch/raya-e3-talon
+prev: disney's-raya-tv-series-pitch/raya-e3-tail-behind
+next: disney's-raya-tv-series-pitch/raya-e5-spine
+created: '2023-09-21T00:00:00.000Z'
+modified: '2024-11-27T00:00:00.000Z'
+slug: disney's-raya-tv-series-pitch/raya-e4-talon
 ---
-# RAYA E3 - Talon
+# RAYA E4 - Talon
 
-## Episode 3 - Kumandra’s Faces
+> **Episode 4: Kumandra’s Notoriety**
 
-> Theme: Kumandra’s repeat interactions
+Theme: Kumandra’s repeat interactions
 
 > **🚧 WIP**, come talk to me IRL for more heh
 
-%%
-
 ## Ideas
 
+- repeat interactions—**REPUTATION**
 - switcheroo fake artefacts, how to trust the real one?
 - Boun and Sisu on the hunt for a ship component fix part, that broke by the Druun because Raya doubted Boun was going offshore to memoralize parents
 - dragon-fruit
-- remember to show off Raya’s spasm PTSD once
+- remember to remind Raya’s spasm PTSD once
 - Heart refugees undercover in Talon
 	- Raya is excited to meet her own people, trusting them!
 	- but they betray her — you can’t even trust your own
 	- foreshadowing Raya’s betrayal?
 - masks, costumes, disguises
-	- oh it’s a Mask Festival
-		- the idea is that the real dragons/help are the friends we make along the way(?)
+	- oh there’s a Mask Festival?
+		- the real dragons/help are the friends we make along the way! (?)
 	- a chase scene where everyone looks the same
 	- Sisu doesn’t want/need to wear a mask
-	- would be cool if she turns into a dragon, people think she’s a costume
+		- would be cool if she turns into a dragon, people think she’s a costume
 		- people are just so numb with lies that they don’t know the truth
 - Every trust can be broken for a price
 	- Raya bargains to buy off Talon’s Gem shard by betrayal
 - “Everyone’s a fake, anyways. A dishonest man, you can trust to be dishonest.”
 	- A greedy man, you can trust to win as the highest bidder
-- Namaari’s scout as an agent
+- Namaari’s scout as an active agent
 	- the scout steals Raya’s whip-sword artefact and returns to Namaari
 	- Raya is more angry at Namaari — it’s her last attachment to her father, as well as a Gem shard
 	- Naamari actually hadn’t commanded it. She sighs and makes plans to make use of it. She’s still upset with her scout, and decommissions him. Her true motives are still murky.
@@ -70,20 +69,54 @@ slug: disney's-raya-tv-series-pitch/raya-e3-talon
 - rivers drying
 	- older buildings are higher up above the water, where the water level used to be — the “center” is higher up
 	- newer buildings, at the fringes, especially docks, are lower
+- needing a team
+	- Raya has no reputation, can’t get anywhere
+	- she needs a group of people to vouch for her
+	- these people who have built up reputation and trustworthiness, only to break it for Raya
+	- they are inherently betray trust in order to work in the team
+		- they have all the reasons to double-triple-cross
+- thematic stances
+	- **simplified reputation**
+		- one-strike collab—Boun, Sisu
+		- one-strike betray—Raya
+	- don’t play the reputation game—they really lose out (**avoidant reputation**)
+	- collab for reputation
+		- just to betray for the highest bidder (**fleeting reputation**)
+		- some really try to gain reputation
+			- but the ones who are very popular and people vouch for, are the ones who have betrayed to get those popular votes
+			- yeah so **false reputation**
+				- the recruiter has **fake reputation**—he has vouchers, but substance is fake
+		- **inconclusive reputation**—perverted positive, waiting good but too long
+- setting
+	- reputation is everything.
+	- you can’t use previous strategy of “always betray” because your reputation shows
+- Talon locals all have long fingernails (on one or more fingers)
+	- lol 2024-11-19 IRL saw my cab driver had this, and made a connection
+	- like some Asians like to keep one finger’s fingernail super long
+	- SUPER in theme with “Talon” the name
+	- This is why Raya needs to work in a team—she has much shorter fingernails, she can’t grow it overnight
+	- the Fang spy has long fingernails
+		- fake nails? (hmm maybe Raya tries this at the start, only to be found out?)
+		- real nails, built up just for this
 
 ## Snowflake Method
 
 - Raya must work with a team to obtain Talon’s Gem shard (to save the world)
 - Raya enters Talon, ready to semi-trust trustworthy allies. She assembles a necessary team to obtain the Gem shard. She gets pressed by an unknown Fang Spy, besides her own teammates. She must decide whether to sellout her sucky team, or keep her own promises.
 - Character Profiles
-	- Raya’s goal is to find the princess holding the shard. However, she’s skeptical working with others. She needs to know how to work with and evaluate others.
+	- Raya’s goal is to get Talon’s Gem shard from the princess. However, she has a one-strike reputation. She needs to learn how to rightly evaluate the overtime reputation of others—and how to build her own.
+- Quarters
+	- Q1: Raya attempts Goal #1 of her heist, but fails for insufficient reputation/group-work. In the fallout of her failure, she reluctantly works with a team.
+	- Q2: During the Ghost Mask Festival, the gang kidnap the wandering Talon princess. A present Fang spy and Raya’s mega-heist is revealed, disrupts the plan. But with collaboration, they achieve another Goal #1.
+	- Q3: The gang solidifies, trading secrets in trust. This makes them more effective. Suddenly, the whip-sword is stolen. Raya interrogates the group and they fall apart. Raya does something huge. Sisu is captured by the traitor. The Fang spy plans to release Druun onto the Talon floating city (epic. but why?).
+	- Q4: Raya, alone, goes to save Sisu. Sisu is freed to push back the Druun. But too weak alone, Raya is captured to be petrified—she makes her final speech. It rouses the one of the pair to sacrifice themselves. The other person escapes with Raya, Sisu and Boun.
 
 ## Character Profiles
 
 - names
 	- Noi, Ngom, Ngang, Ngyet, Muong, Phu, Vien, Ding
 - the fake princess
-	- princess faker — nephew/niece?
+	- princess faker — nephew/niece? how do they know how to fake?
 	- brings Raya directly into palace
 	- maybe they gotta “try to locate her” in the Mask Festival
 		- but Ngang is engineering this whole intro quest
@@ -113,6 +146,9 @@ slug: disney's-raya-tv-series-pitch/raya-e3-talon
 		- Raya assumes she recruited Vien, but it’s all planned by recruiter
 			- recruiter stationed VIen at the package for Raya
 			- means really knew it was Raya
+- the metalsmith
+	- the one who embedded Raya’s gem into the Whip-Sword
+	- Raya had trusted this person with the knowledge of the Gem
 - the spy
 	- also a replacement sailor, intended to replace Boun
 		- but since spy, Boun needs to step back in
@@ -137,7 +173,7 @@ all this while, Raya struggles to work with a team — Team Talon is such a fail
 	- risk shown
 		- why should we trust you?
 		- everyone confesses a secret
-	- Kidnapping Dang Hai
+	- Kidnapping Dang Hai?
 	- Fang spy has been in Talon a long time
 	- getting gem shard
 	- Everyone knows Raya is in town for the gem
@@ -147,11 +183,11 @@ all this while, Raya struggles to work with a team — Team Talon is such a fail
 	- Tuk-Tuk comes out,
 	- missing Sisu? Noi?
 - E6: (pay the price):
-	- someone tries to bribe the spy — the spy reveals! disaster!
+	- start with:
+		- whip-sword stolen. → sets up the desperation of Raya’s sacrifice
+		- she’s upset. interrogates the group.
+	- ~~someone tries to bribe the spy — the spy reveals! disaster!~~
 	- parent-figure betrays child-figure!
-		- child-figure realises this isn’t the world he wants to live in
-		- child self-sacrifices, in hope in Sisu
-		- Later, parent joins Raya with that guilt.
 	- monkey man gets petrified!
 	- team scrambles
 	- Raya/Sisu gets caught to retrieve the Gem.
@@ -159,9 +195,12 @@ all this while, Raya struggles to work with a team — Team Talon is such a fail
 	- She betrays others?
 - E8: (battling changes):
 	- child-figure double-double cross sacrifice
+		- child-figure realises this isn’t the world he wants to live in
+		- child self-sacrifices, in hope in Sisu
+		- Later, parent joins Raya with that guilt.
 	- Raya finds out whipsword was stolen
 
-%%
+## Workspace
 
 ### E1 - Comfort
 
@@ -175,12 +214,12 @@ all this while, Raya struggles to work with a team — Team Talon is such a fail
 	- her Serlot roars a yawn.
 	- Namaari, “Then Raya will know Khaan is a Fang scout, barging in on a large noisy Serlot.”
 - Namaari turns back to an older, decorated soldier
-	- “Admiral Thaam, can’t we find another route back home to Fang?”
+	- “General Thaam, can’t we find another route back home to Fang?”
 	- “Princess, if you want to arrive home in five days, without meeting any Druun, then we need to go through Heart.”
 	- Namaari’s reluctant.
 	- “I know how much that night hurt you, fifteen years go. I was there, too. But if Raya is out to steal the Gem shards from every tribe, then your mother needs to make plans.”
 	- (What? Namaari, hurt? Wasn’t she the one who backstabbed Raya?) #payme
-- “Okay, Admiral. Let’s hope Khaan succeeds in…”
+- “Okay, General. Let’s hope Khaan succeeds in…”
 
 #### Goodbye Boun
 
@@ -237,7 +276,7 @@ all this while, Raya struggles to work with a team — Team Talon is such a fail
 - Raya monologues: Our schedule is three days late because the boat got damaged. Tuk-Tuk is swimming nearby. I’ve got my whistle to call him when we need to escape. Now Sisu, you—
 - Sisu’s exasperated: “Boun already knows. Let him in!”
 	- Raya: He’s… too young.
-	- Sisu: We need to travel by boat if you want to avoid the Druun and be faster than Namaari.
+	- Sisu: We need to travel by boat if you want to avoid the Druun AND be faster than Namaari.
 	- Raya: Fine. We’ll find another sailor. Boun knows too much.
 - Raya: we need to get new clothes to blend in. Follow close.
 
@@ -251,8 +290,7 @@ all this while, Raya struggles to work with a team — Team Talon is such a fail
 		- “first purchase, half price!”
 		- “hello ladies, I’m from Tail too! Let me show you around!”
 	- Sisu: Wow, everyone’s so friendly!
-		- Sisu gets caught by a lotion salesperson lol
-		- With free lotion, Sisu’s obligated to purchase
+		- Sisu gets caught by a lotion salesperson lol—Raya, Raya, give me money to buy this lotion
 
 > **EXT. ALLEY, TALON - NIGHT**
 
@@ -263,7 +301,7 @@ all this while, Raya struggles to work with a team — Team Talon is such a fail
 	- The pair put on the local clothing outerwear (Raya backpacks the rest)
 - Sisu picks up a note attached to the package.
 	- Sisu: Hey, what’s this? “Guard up. Fang spy in Talon. Arrived few days ago.” You wrote this to yourself?
-- 
+- (they kena attacc)
 
 #### The Plan
 
@@ -330,8 +368,9 @@ all this while, Raya struggles to work with a team — Team Talon is such a fail
 #### Sacrifice
 
 - one of them sells Raya out to the local Talon authorities
-- Raya looks back; there isn’t much time.
-	- “My real name is Raya, daughter of Chief Benja of the tribe of Heart. The land of Kumandra fell apart because I made a mistake. Sisudatu is the Last Dragon. If you re-assemble the Gem, she will revive everyone who was turned to stone. Don’t trust anyone. Or do. I don’t know, I just know that I trust you. I have to.”
+- Raya looks back; there isn’t much time. The Druun approach.
+	- “My real name is Raya, daughter of Chief Benja of the tribe of Heart. The land of Kumandra fell apart because I made a mistake. Sisudatu is the Last Dragon. If you re-assemble the Gem shards from each tribe, she will revive everyone who was turned to stone. Don’t trust anyone. Or do. I don’t know, I just know that I trust you. I have to.”
+	- (that’s a banger voiceover snippet for a trailer)
 	- She throws over the satchel containing the Gem weapons.
 	- She looks away. “I’m sorry bá, I couldn’t do it.”
 - Noi takes Raya’s place

@@ -5,8 +5,8 @@ emojip: ❄️
 up:
   - whatsthestoryabout
 collectionItems:
-  - frozen-ii-film-review
   - frozen-ii-rewrite-beat-sheet
+  - frozen-ii-film-review
 slug: frozen-ii
 ---
 # Frozen II

@@ -1,152 +1,78 @@
 ---
-prev: disney's-raya-tv-series-pitch/raya-e1-kumandra
-next: disney's-raya-tv-series-pitch/raya-e3-talon
-created: '2023-09-21T00:00:00.000Z'
 collection:
   - disney's-raya-tv-series-pitch
-modified: '2024-08-12T00:00:00.000Z'
-slug: disney's-raya-tv-series-pitch/raya-e2-tail
+prev: disney's-raya-tv-series-pitch/raya-e2-sisu-together
+next: disney's-raya-tv-series-pitch/raya-e4-talon
+created: '2024-03-23T00:00:00.000Z'
+modified: '2024-11-12T00:00:00.000Z'
+slug: disney's-raya-tv-series-pitch/raya-e3-tail-behind
 ---
-# RAYA E2 - Tail
+# RAYA E3 - Tail Behind
 
-## Episode 2 - Kumandra’s Hope
+## Planning Notes
 
-> Theme: Kumandra's next generation
+- 2024-08-09: just got the idea to rename Boun’s ship as “the Steamboat”. It’s such an apt and cultural name. I don’t think steamboats are of this time period, maybe it’s some dystopian prototype, just say it’s magic lol. And he’s gonna champion [steamboat](https://en.wikipedia.org/wiki/Hot_pot#Southeast_Asia) (hotpot – dish whereby a heat source placed on the dining table keeps a pot of soup stock simmering)!
+- v1.1 goal notes
+	- Namaari’s intro
+		- what’s her *actual* and *perceived* goal?
+		- why is she pursuing Raya all the way here, for so many years?
+	- Chase Sequence
+		- a soldier gets stoned by a Druun
+		- This makes Namaari extra angry
+	- OH! How does Fang treat stone citizens?
+		- do they leave them, because they either
+			- lose hope in Sisu
+			- no clue about Sisu’s scroll
+		- collect them all back, because they *know* about the scroll and *intend* to reunite the gems
+			- then why don’t they do what Raya is doing?
+	- we can explore Boun and Sisu abit more
 
-### Notes
+## The Story
 
-- In adding depth to Sisu's characterization, I'd like for her to use weird old-timey terms and a foreign language to describe things and places. Kind of like ATLA's Aang saying "flameo hotman"! Which is way better than Sisu spouting Gen Z slang.
-- 2024-08-09 just got the idea to rename Boun’s ship as “the Steamboat”. It’s such an apt and cultural name. I don’t think steamboats are of this time period, maybe it’s some dystopian prototype, just say it’s magic lol. And he’s gonna champion [steamboat](https://en.wikipedia.org/wiki/Hot_pot#Southeast_Asia) (hotpot – dish whereby a heat source placed on the dining table keeps a pot of soup stock simmering)!
-- introducing three major characters in one episode might be rushed. may be better to push introducing Boun into Episode 2B, and focus first on Sisu and Namari. Here’s some things we can add to Episode 2A:
-	- Raya and Sisu travelling through the Tail wasteland to the Temple
-		- Sisu fighting and being the natural predator of Druun
-		- maybe stumbling across the ruined campsite from [[RAYA E1 - Kumandra]]
-		- a proper episode for fleshing out Tail, because E1 cut back to the past a lot. So exploring more of Tail culture/locals, why the local geography makes them navigators, why the islands all dried up, how the ex-chieftess messed things up and their shard became lost
-	- we could also explore Namaari
-		- think like the Zuko scenes in ATLA’s earlier episodes. Quickly establishing her story
-		- her vastly improved in combat, against Druun and enemy humans
-		- and if there’s episode screentime to show her life after the Shattering
-		- her mom commenting on her betrayal of Raya and the messy aftermath (positively? negatively?)
-		- embedding Fang’s gem into Fang’s sceptre
-		- 12-years old Namaari, still naive, expresses conflict over her actions, that caused so much destruction and distrust
-		- was she just tricking Raya, or does she really believe in the hope of Sisu?
-			- and has that belief/hope changed since?
-		- could also fit a sequence, 9-years-after-Shattering where Fang goes into lockdown. Enemies within walls.
-		- Chieftess Virana sends Namaari to lead the policing. Some spectre squad causing havoc, but like elite ninjas.
-		- Namaari finds Raya, for the first time since the Shattering, both now 21yo, both alone.
-		- Raya, a terrifying one-woman-army, seems to have come for Fang’s Gem shard.
-		- they fight it out —Namaari with the combat edge, but Raya with the cheating
-		- Namaari manages to protect the Shard. But Raya shrugs, because she got her objective: Namaari’s Scroll/Map to find Sisu
-		- They bitterly reminisce, they were so starry-eyed about Sisu. Raya still carries Namaari’s pendant “gift”
-		- Namaari (pretends?) cynicism of Raya’s pursuit of Sisu
-		- Namaari’s been kept safe within Fang for 9 years, indoctrinated in self-sufficiency. Raya spits, half the population, from every tribe, is now stone.
-		- they clash. Raya wins, leaving Namaari with a face wound that would scar. Raya flees the city.
-		- Namaari’s furious. Swears her revenge aloud to Raya. She returns Fang’s Shard safely to her mom.
-		- in story notes for myself: Namaari’s not seen the outside world since. After this, she checks it out and finds Raya’s truthful.
-	- Episode 2A would end with Raya and Sisu finding Tail’s Gem shard, and Namaari revealing herself.
-	- Episode 2B would start with Namaari’s sympathetic “I’m sorry”. So 2A itself doubles down on her ruthless throughout (as Raya narrates), but 2B would offer a puzzling melancholy Namaari (now that Sisu herself has met Namaari)
+### Fang Attack
 
-### Setup Sisu and Namaari
-
-#### Introduce Sisu
-
-> **SHIPWRECK CAVERN, TAIL - DAY (PRESENT)**
-
-- Chyron: TAIL - ONE WEEK LATER
-- Raya and Tuk-Tuk follow a river, which has now gone down to a small trickle. It flows into an old wrecked ship, surrounded by old whale bones, trash, etc.
-- She enters inside the shipwreck
-- She repeats the ritual.
-	- "Sisudatu… I don’t know if you’re listening. I’ve searched every river to find you. And now I’m here at the very last one. I trusted too much, and I broke the world… Sisudatu, I just really… really want my *bà* back. Please."
-- Magic happens, Sisu appears!
-- Raya: “I need to catch you up on a few things…” CUT transition;
-- "What?! This is bad. I’ve been asleep for 500 years, you brought back the Druun, and none of my brothers and sisters came back? Why didn’t they come back?" #todo
-- Let's skip the part about unique individual dragon magic abilities. It's meh and doesn't really add much.
-- Raya pitches: the scroll says a fully reassembled Gem will destroy the Druun, just like the first time, and bring everyone back from stone
-	- But while the other Gem shards are with the tribe chiefs, Tail’s shard has been lost with the Tail chieftess, for the last six years
-- Sisu confirms that she is drawn to the Gem shards and can direct Raya to each shard
-
-#### Naamari pinch
-
-> **HILLTOP, TAIL**
-
-- On a hilltop, Naamari inspects the footprints of Tuk-tuk. Her own Serlot sniffs the tracks. Four Fang soldiers on their own Serlots flank her.
-- One of them point out that:
- 1. Tail is infested with Druun, Raya's good as stone
- 2. Retrieving the scroll isn't worth the risk
-- Namaari turns to him, sharply spitting, "Then go back home." The soldiers side-eye amongst themselves.
-- Namaari hops onto her mount, "Or, follow me and make things right for Fang."
-	- Namaari pushes her mount onwards, leaving the rest of them to continue on.
-
-### Getting the Tail gem vs Namaari
-
-#### Tail Temple
-
-> **TEMPLE, TAIL**
-
-- Sisu leads Raya, on Tuk-tuk, to uncover a hidden limestone temple in a cave of a cliff
-- Raya explains: each Gem shard was claimed by each of the chiefs of the five lands.
-- We get a splitscreen, showing each tribe chief holding a weapon that has been embedded with their Gem shard.
-	- Heart's Gem is embedded into Chief Benja's whip-sword [keris](https://en.wikipedia.org/wiki/Kris)
-	- Fang's Gem is embedded into Chief Virana's scepter-[trishula](https://en.wikipedia.org/wiki/Trishula)
-	- Talon's Gem is embedded into each of Chief Dang Hai's four [karambits](https://en.wikipedia.org/wiki/Karambit)
-	- Spine's Gem in a tipped [kudi](https://en.wikipedia.org/wiki/Kudi_(knife)) of a bamboo spear
-	- Tail's Gem in a [kujang](https://en.wikipedia.org/wiki/Kujang_(weapon))
-- Sisu questions why she is dressed in human clothes.
-	- Raya says they have to disguise so they don't attract attention.
-	- Sisu rebuffs, "But don't people love us, after all we've done for them? Won't the tribes finally unite if they see me?"
-	- Raya replies, "All the other tribes have bad people, just like Namaari. Trust me."
-- Sisu exclaims they should have brought a housewarming gift for the Tail chieftess!
-	- Raya mockingly waves, "I have loads of lemongrass to trade with, I've seen people go nuts over some common Heart herb. But this temple is abandoned."
-- They work through the temple; and avoid traps.
-	- Sisu, "Wow, you're real good at slipping and sliding."
-	- Raya: "Yea, my dad trained me for this with our own version at home."
-	- Sisu stops, confused. "These traps wouldn't stop the Druun."
-	- Raya replies, "They're to stop people." Sisu huffs in disappointment.
-	- Raya also remarks that people from Tail are naturally good navigators/infiltrators, so these traps are totally in-character
-- We skip the awkward setup dialogue about Sisu being "good at swimming".
-
-> **THRONE ROOM, TEMPLE, TAIL**
-
-- They enter the temple throne room, and see the skeleton of the Tail chieftess, clutching her artefect.
-	- They retrieve Tail's Gem weapon artefact: a [kujang](https://en.wikipedia.org/wiki/Kujang_(weapon)).
-- They celebrate!
-- Sisu suddenly falls to the ground, transforming into a human version of herself.
-	- "I’ve lost my dragon form because the Gem is shattered! We can’t take our sweet time. But now that you don't have to disguise me, the rest should be easy!"
-	- "This one was easy, but the rest of them are being held by a bunch of no-good *binturis*."
-
-#### Fang Ambush
+#### Namaari
 
 - “Raya!”, a voice calls out. “I'm sorry I made you feel that way.”
-	- Raya turns around; it's Namaari, adult, alone, just pulling herself up onto a landing that’s a stone's throw away. (She didn’t see dragon!Sisu)
+- Raya turns around; it's Namaari, adult, alone, just pulling herself up onto a landing that’s a stone's throw away. (She only saw Sisu after she transformed)
 	- Raya grits, "Naamari."
 	- "Oh!" Sisu exclaims, "The Namaari who backstabbed you fifteen years ago!"
 - "I'm sorry, Raya. I was a kid, just wanting to please my mother."
-	- "Oh, please. You make the worst rumours we heard about Fang sound like children's fables. You caused the world… to come to this! You took away my father."
+	- "Oh, please. You make the worst rumours we heard about Fang sound like children's fables… You caused the world… to come to this! You took away my father."
 - "I… did a wrong thing. And I realised I needed to make things right. So I led a team of scholars to study the ancient texts, to find some solution… then, six years ago, a Scroll was stolen from me by a woman and her Pandolin."
+	- #TODO—With exploring Raya stealing the scroll from Namaari, newest lore has Namaari expressing that “the Scroll to Sisu is junk”, so she can’t have pursued the Scroll before it was stolen.
 	- Raya waves the stolen Scroll, "Don’t worry, I'm never stepping foot in Fang again. Fang is the last tribe I'd work with, and you're the last person from Fang I'd trust."
 - Raya continues, "Besides, I've already found Sisu."
 	- Sisu waves her human arm, “That's me, Sisudatu the *Dragon*!”
 	- Namaari arches a confused eyebrow.
 	- Sisu: “Raya, she says she's sorry. We should work with her! Then we can get the Gem artefact from Fang, then that's just two more to go!”
 - Namaari: "Raya… I don't know who is this crazy person you've convinced to be Sisu… but she's right. It looks like you're collecting all the five Gem artefacts, how do you expect to reassemble the Dragon Gem if you only have four? Unless…"
+	- #TODO—Namaari appears to understand the story-long goal to reassemble the Gem, yet she later refrains from pursuing Raya in order to get information from her mother. What’s her current goal/plan?
 	- "Don't worry about the Gem shards, Namaari. Worry about the landslide…"
 	- "What landsli-"
 - Raya triggers a bobby trap, causing some loose rocks to fall onto Namaari. The temple collapses.
 	- Namaari's caught in the landslide and needs to retreat.
 	- Raya grabs Sisu by the hand. "Run!"
-	- Raya blows on a seemingly silent whistle
+	- While running, Raya blows on a seemingly silent whistle
+
+
+- Raya: “So, how’d you finally find me, after six years?”
+	- Namaari: “Just following your trail.”
+	- Namaari holds up padipeper and the weapon ffrom t
+
 
 > **TEMPLE, TAIL**
 
 - Raya and Sisu burst out of the main Temple doors
-	- Fang soldiers jump out of hiding!
-	- so does Tuk-Tuk! In response to Raya’s whistle.
-		- He knocks the Fang soldiers away
+- Four Fang soldiers jump out of hiding!
+	- Raya deflects attacks, but she’s pushed back
+- But Tuk-Tuk jumps out too! In response to Raya’s whistle.
+	- He knocks the Fang soldiers away like bowling pins
 - Raya and Sisu mount on Tuk-tuk, and pull away
 	- Soldiers launch in hot pursuit of Raya on their Serlots, one stays back to help Namaari
 	- "See, Sisu!" Raya shouts, "Namaari had backup! We can't trust Fang!"
 
-#### Fang Chase Sequence
+#### Chase Sequence
 
 > **LIMESTONE CLIFFS, TAIL**
 
@@ -191,7 +117,7 @@ slug: disney's-raya-tv-series-pitch/raya-e2-tail
 	- Back on the boat, a shadow is cast over Raya
 	- Raya, soaking wet, looks up:
 
-#### Establishing Boun and the Boat
+#### Boun and the Steamboat
 
 > **STEAMBOAT, LAKE, TAIL**
 
@@ -246,7 +172,7 @@ slug: disney's-raya-tv-series-pitch/raya-e2-tail
 
 ### Settling into the Steamboat
 
-#### Raya's trauma
+#### Trauma
 
 > **STEAMBOAT, LAKE, TAIL**
 
@@ -266,7 +192,7 @@ slug: disney's-raya-tv-series-pitch/raya-e2-tail
 	- Raya, "You got me, I just can’t swim."
 	- Sisu: "Then why didn't you learn? And come to think of it, if you assembled people to spread out, finding all the river's ends would've taken less than a few months!"
 	- Raya: "You can't trust anyone!"
-	- Sisu: "If you want the tribes to trust each other and unite under One Kumandra, you need to start by trusting me. What’s the truth, Raya?"
+	- Sisu: "If you want the tribes to trust each other and unite under One Kumandra, you need to start by trusting me. Raya, what’s the truth?"
 - Raya sighs, downcast.
 	- with voiced-over'ed FLASHBACKS:
 	- "When my dad threw me into the water, to save me, the last thing I saw was him turning to stone. I wanted to cry, scream, wail. But how could I, when the river was drowning me?"
@@ -287,7 +213,7 @@ slug: disney's-raya-tv-series-pitch/raya-e2-tail
 - "Wait!!"
 	- Raya swaps out the herbs in Boun's basket (which were actually padipepper) with a whole head of actual lemongrass from her satchel
 	- Boun: "The colour's different."
-	- Raya covers up: "These ones are fresher, they just grow like that."
+	- Raya lies: "These ones are fresher, they just grow like that."
 - Boun takes the actual lemongrass, expertly slices them up, and scatters it into the steamboat
 - "It's about the theatrics, the customers love the theatrics!"
 	- Boun takes a test scoop — he dramatically falls to his knees in awe
@@ -313,7 +239,7 @@ slug: disney's-raya-tv-series-pitch/raya-e2-tail
 	- "Oh. Just family matters. Midsummer things. Anyways, shrimp is…"
 	- Raya squints suspiciously.
 
-#### Namaari interlude
+#### Namaari Interlude
 
 > **DRAGON GRAVEYARD, WILDERNESS - DUSK**
 

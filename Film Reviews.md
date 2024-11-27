@@ -8,14 +8,14 @@ up:
   - whatsthestoryabout
 featured: 3
 collectionItems:
+  - maleficent-mistress-of-evil-film-review
   - over-the-moon-film-review
   - netflix-avatar-live-action-reaction
-  - frozen-ii-film-review
   - mulan-ii-film-review
-  - maleficent-mistress-of-evil-film-review
+  - frozen-ii-film-review
+  - descendants-1-film-review
   - disney's-raya-cultural-review
   - descendants-2-film-review
-  - descendants-1-film-review
 slug: film-reviews
 ---
 # Film Reviews

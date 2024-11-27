@@ -1,30 +1,30 @@
 ---
 collection:
   - disney's-raya-tv-series-pitch
+featured: 4
 quickshare-date: '2024-08-15 23:55:41'
 quickshare-url: >-
   https://noteshare.space/note/clzvgph5v3264301mwq5vv4iq3#4Mmpd7egEXaijxgjnlX6LQfy37o3e8iALfUmQy++INI
-next: disney's-raya-tv-series-pitch/raya-e2-tail
+next: disney's-raya-tv-series-pitch/raya-e2-sisu-together
 cssclasses:
   - img-grid
 created: '2024-03-23T00:00:00.000Z'
-modified: '2024-10-26T00:00:00.000Z'
-featured: 4
-slug: disney's-raya-tv-series-pitch/raya-e1-kumandra
+modified: '2024-11-12T00:00:00.000Z'
+slug: disney's-raya-tv-series-pitch/raya-e1-kumandra-divided
 ---
-# RAYA E1 - Kumandra
+# RAYA E1 - Kumandra Divided
 
-## Episode 1 - Kumandra Divided
+> Theme: The Zero-Sum World of Kumandra - Past, Present, Future
 
-> Theme: The untrusting world of Kumandra - Past, Present, Future
+## Planning Notes
 
 ### Narrative sequence vs chronological sequence
 
 - The X-Men Days of Future Past movie alternates between the characters/plot in the past (1980's) and the dystopian future (2100's), so that one time continuity is actively changing the outcome of the other time continuity — the two continuities are happening in parallel
-	- That's one aspect of the storytelling effect I want to have with this cutting-back-and-forth style of Episode 1
+	- That's one aspect of the non-linear storytelling effect I want to have with this cutting-back-and-forth style in Episode 1
 - The present-day Kumandra is so bleak — and in a sense, the past events already happened and caused the fallout
 	- We slowly reveal the extent of the fallout according to past events
-- And yet, during the scenes set in the past, it's *almost* as if the fallout could've been prevented, especially as present-continuity-Raya exhibits the distrust that saves her in the present, and it would've saved her in the past
+- And yet, during the scenes set in the past, it's *almost* as if the fallout could've been prevented, especially as present-continuity-Raya exhibits the distrust that saves her in the present, and it would've definitely saved her in the past
 	- It’s revealed at one point in the episode that present!Raya's sword was originally her father's, *narratively while* her father was still championing his cooperation ideals (as shown in the past). This causes the audience to wonder — what happened in between?
 	- Present!Raya says she was betrayed, narratively sequenced in the episode for the audience, before past-Raya got betrayed
 	- It's mentioned in the present that Heart is in ruins, and that’s narratively arranged right before Namaari’s betrayal in the past
@@ -45,9 +45,11 @@ I was quite particular on the consistency of naming. I’m going to stick to the
 - “The Shattering” is just much more personal to the main characters, this is our *media res*.
 - Kumandra’s 500 years ago, can feed in MUCH later.
 
-### Hook: Can we trust other tribes?
+## The Story
 
-#### Present: Establishing current-day/setting and the main character's overarching goals
+### Hook: Zero-Sum Kumandra
+
+#### Present—Establish world, protagonist & story goal
 
 ![|250](https://thumbs.dreamstime.com/z/barren-terraced-rice-field-northern-thailand-arid-climate-dry-season-69358738.jpg) ![|250](https://i0.wp.com/project2049.net/wp-content/uploads/2010/03/Asiaeye_southeast-asia-drought_033110.jpg) ![|250](https://thumbs.dreamstime.com/b/barren-rice-field-cracked-land-thailand-dry-fields-parched-harvest-season-274385599.jpg)![|250](https://javaadventuretrail.com/wp-content/uploads/2017/09/sunrise-in-mount-bromo.jpg) ![|250](https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/night-over-mount-bromo-java-joana-kruse.jpg)
 
@@ -59,7 +61,7 @@ I was quite particular on the consistency of naming. I’m going to stick to the
 - She holds up a Map. X-marks litter the landscape. The camera focuses on a drawing of the complete Dragon Gem, circled and in the center of drawn pointed arrows.
 	- This woman really wants this Gem.
 
-#### Past: Establishing young Raya
+#### Past—Like Father, Like Daughter
 
 > **DRIPPING CARVED-OUT TUNNEL PASSAGEWAY, HEART - NIGHT (PAST)**
 
@@ -69,6 +71,8 @@ I was quite particular on the consistency of naming. I’m going to stick to the
 - In a tunnel of sorts, she bypasses traps by identifying and working around rigged false-hopes and paths — with the help of her then-smaller mount, Tuk-Tuk.
 
 > **CHAMBER OF THE DRAGON GEM, HEART**
+
+![cave](https://images.ctfassets.net/dqbqab5lm2pa/3ZEBefGaBwCHMDNyWJNnOW/72d8ac14be64a9df914ecea66570b530/Concept_Art_of_Raya_and_The_Last_Dragon_-_65.jpg?w=1000&q=75)
 
 - She enters the Chamber of the Dragon Gem, guarded by a silhouetted guardian.
 	- There is a glowing blue Gem on a pedestal in the center of the room, the same one as earlier pictured in the Map in the first scene in the present-day.
@@ -98,7 +102,7 @@ Yes. And we must prepare to meet them.
 
 - We end the scene ambiguously there, as if the other lands are about to lay siege just as they finished their training. And jump straight to:
 
-#### Present: Raya's current goal, ready to fight
+#### Present—”X” Marks the Spot
 
 > **TAIL LANDSCAPE - DUSK (PRESENT)**
 
@@ -112,9 +116,9 @@ Yes. And we must prepare to meet them.
 - She approaches the camp, but a few figures notice her, and run out towards her.
 	- She checks her sidearm — yes, Chief Benja's whip-sword is there and ready.
 
-### Kumandra party
+### A Kumandra Feast
 
-#### Past: Benja's party
+#### Past—Benja's One-Kumandra Dream
 
 > **PALACE KITCHEN, HEART - DAY (PAST)**
 
@@ -127,6 +131,9 @@ Yes. And we must prepare to meet them.
 	- "Finally, Fang, our most cunning enemy. An advanced city of scholars and builders, making their assassins frighteningly intelligent and sneaky."
 - Raya, "And we're going to use our secret weapon to defeat them, once-and-for-all, right?"
 	- "That's right, dewdrop." Benja turns to a table as he constructs a stew: "Shrimp paste from Tail, palm sugar from Talon, bamboo shoots from Spine, chilis from Fang, and lemongrass from Heart… my secret weapon is a Kumandra feast."
+
+![stew](https://y.yarn.co/3267eba7-2199-4749-b8a8-6cc15f27724a_screenshot.jpg)
+
 - Raya is perplexed?? "Are we poisoning them?"
 	- "No tribe can survive alone anymore. This is the first step to unite the five lands in the line of ten chiefs, since The Great Division."
 - "But dad, what about all my training to become Guardian of the Dragon Gem? Who are we guarding against? Not the Druun, since they’ve been gone for centuries."
@@ -138,7 +145,7 @@ Yes. And we must prepare to meet them.
 - Raya nods.
 	- Benja: "I believe that we can be One Kumandra again. Even if I have my second baddest blade in the land to offer a bit of wise precaution… someone has to take the first step. Trust me."
 
-#### Present: Tail trusts no one
+#### Present—A Suspicious Deal
 
 > **NOMAD CAMP OUTSKIRTS, TAIL - NIGHT (PRESENT)**
 
@@ -149,17 +156,19 @@ Yes. And we must prepare to meet them.
 - "State your business!" the middle one exclaims. She's holding a lantern; it's getting dark.
 	- Raya: "*S’lam*. I am Rahmidah, daughter of Hazim, tribe of Tail. We fled here after my village was destroyed by the Druun… I know we don't trust each other, but I just need to set up camp for the night."
 	- The nomad is suspicious. "I've never heard of the family name 'Hazim'. Besides, you're at the far end of Tail, why aren't you heading towards the other tribes? Fang has their intricate aqueducts, Spine has their mighty fortress, Talon has their busy floating market. You'd be better off even in Heart than here in this dried-up forsaken land of Tail."
-	- "Tail is supposed to be the one tribe that help their own tribe people."
+	- Raya, persuasive, "Tail is supposed to be the one tribe that help their own tribe people."
 	- "Our own brother stole all our family wealth, and ran away to Talon. You talk about One-Kumandra? Hah!"
 - Raya: "I will set up camp there by that rock. It's 200 cubits away from your camp."
 	- "You are too close to our river. We don't trust you. Leave us, or we will attack."
-- "I will fight to make camp. But let's both agree that fighting would cost us both resources that we don't have. I don't even want to camp so close to you, I don't trust you either. So I'll be gone in the morning. Take these lemongrass herbs as a gift of peace. Or rather, a gift of non-aggression."
+- "I will fight to make camp. But let's both agree that fighting would cost us both resources that we don't have. I don't even want to camp so close to you. I don't trust you either. So I'll be gone in the morning. Take these lemongrass herbs as a gift of peace. Or rather, a gift of non-aggression."
 	- They whisper amongst themselves, "Lemongrass! They're so rare since Heart…"
-- The nomads warily take the lemongrass and back off, returning to their own camp, very on edge. "Don't come near us, we won't come near you."
+- The nomads warily take the lemongrass and back off, returning to their own camp, still on edge. "Don't come near us, we won't come near you."
 
-#### Past: Cultural exchange
+#### Past—Cultural Exchange
 
 > **BRIDGE, HEART - DAY (PAST)**
+
+![](https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/01/Raya-and-the-Last-Dragon-Five-Regions.jpg)
 
 - Benja and Raya stand on the end of the main bridge leading into Heart. Four distinct factions stand arranged before them. Benja welcomes them.
 	- Tail Chief: Nice speech, Chief Benja, but why’d you really bring us here? Are you gonna rob us?
@@ -183,12 +192,14 @@ Yes. And we must prepare to meet them.
 	- we see a bit of Naamari's Fang-natural intelligence and sharpness
 	- Naamari admits this is her first time having such a stew with so many different ingredients. Raya says she has this every day.
 		- Namaari explains that while Heart still trades with other tribes, but the other tribes don't really mix around
-		- It's not just stew, it's the technology, the architecture, the knowledge. Just look at Tail, they're still so backwards.
+		- It's not just stew: it's the technology, the architecture, the knowledge. Just look at Tail, they're still fishing to barely survive.
 		- Raya exclaims! "That's why Heart seems so prosperous compared to the other tribes: it's not that the Gem gives some magic favour to Heart, but it's that Heart trusts the other tribes."
 - Namaari then brings up they're both Sisu fans
 	- Naamari: You know, Fang legend says she’s still out there. I'm not supposed to show you this, but…
 	- Naamari pulls out a Scroll that she says she's not supposed to show
 	- (It's the same scroll that adult Raya is using as her Map!)
+
+#### Past—Before and After
 
 > **NARRATED OVER STYLISTIC PUPPETRY**
 
@@ -213,7 +224,9 @@ Yes. And we must prepare to meet them.
 	- It's from a part of Naamari's mother's (chieftess) trishula-sceptre.
 - Raya says, "One day, we'll track down Sisu together. But I know what we can do today. Follow me."
 
-#### Present: Raya lies to find Sisu
+### When the Chips Fall…
+
+#### Present—Double-Crossed
 
 > **RAYA'S CAMP, TAIL - NIGHT (PRESENT)**
 
@@ -234,9 +247,7 @@ Yes. And we must prepare to meet them.
 	- The nomad leader continues, "Daughter of Benja. Tribe of Heart. Or what's left of it."
 	- *ominous music oooooooo~*
 
-### Betrayal causes Druun
-
-#### Past: Raya vs. Naamari
+#### Past—Secrets Revealed
 
 > **CHAMBER OF THE DRAGON GEM, HEART - NIGHT (PAST)**
 
@@ -260,7 +271,7 @@ Yes. And we must prepare to meet them.
 	- A line of torches head into the mountain of the Chamber.
 - Benja turns back, and Virana slips out. The other tribes start to catch on.
 
-#### Present: Confrontation
+#### Present—Premeditation
 
 > **CAVERN, NOMAD CAMP, TAIL - NIGHT (PRESENT)**
 
@@ -276,7 +287,9 @@ Yes. And we must prepare to meet them.
 	- One by one, they all collapse. They mumble, “You *binturi*…”
 - A small crack forms in the ground…
 
-#### Past: Druun unleashed
+### …then the Monsters Rise
+
+#### Past—The Shattering
 
 > **CHAMBER OF THE DRAGON GEM, HEART - NIGHT (PAST)**
 
@@ -294,8 +307,8 @@ Yes. And we must prepare to meet them.
 - Benja announces, "We have a choice. We can tear each other apart, or we can come together and build a better world. It’s not too late. I still believe we can be One-Kumandra again."
 - Benja sheathes his sword. “Shall we return to dinner?”
 	- Tension fills the air. Eyes dart around, who's making the first move?
-- A crossbow steadies for Benja’s heart. FWIP!
-	- He deflects it — it lands in his leg. He crumples.
+- A ~~crossbow~~ blowpipe steadies for Benja’s heart. FWIP!
+	- He deflects the dart — it lands in his leg. He crumples.
 	- "BÀ!" Raya cries.
 	- Everyone rushes past them into the Circle.
 - Hands grope at the Gem, until…
@@ -319,7 +332,7 @@ Yes. And we must prepare to meet them.
 	- Benja shouts: "Everyone to the river!"
 - In the cave, the waterfalls start to dry up…
 
-#### Present: Druun unleashed pt. 2
+#### Present—The Echoing
 
 > **CAVERN, NOMAD CAMP, TAIL - NIGHT (PRESENT)**
 
@@ -335,7 +348,7 @@ Yes. And we must prepare to meet them.
 	- Tuk-Tuk kicks some butt too — he’s a steady tank.
 - There are some purple glows that come out from the cavern: glows that meant people were being petrified.
 
-#### Past: Sacrifice
+#### Past—The Heartbreaking
 
 > **BRIDGE, HEART - NIGHT (PAST)**
 
@@ -350,7 +363,7 @@ Yes. And we must prepare to meet them.
 	- A Druun passes through Benja, turning him to stone
 	- A current carries young screaming Raya away to safety…
 
-#### Present: Just another Tuesday
+#### Present—Just Another Tuesday
 
 > **NOMAD CAMP, TAIL - DAWN (PRESENT)**
 
@@ -361,12 +374,13 @@ Yes. And we must prepare to meet them.
 - She raids the ghost-town camp, gets up, and gets on her way.
 - Business as usual. She crosses out a spot on the map, then looks up towards the next.
 
-### Present: Epilogue
+#### Present—Epilogue
 
 > **NOMAD CAMP, TAIL - DAY (PRESENT)**
 
 - A woman on a Serlot (some large tiger-wolf hybrid, like ATV’s) dismounts and enters the cavern.
-	- She inspects the carnage left behindby the Druun
+	- She inspects the carnage left behind by the Druun
 	- She picks up the Padipepper from the ground.
 	- Some more armour-clad warriors on Serlots step out behind her.
-	- "What are your orders, Princess Namaari?"
+	- We see her face. It’s familiar, but a scar stretches across it.
+	- Off-screen: "What are your orders, Princess Namaari?"

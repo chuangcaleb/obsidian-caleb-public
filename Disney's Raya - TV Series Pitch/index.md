@@ -9,6 +9,7 @@ longform:
   scenes: []
   ignoredFiles:
     - Disney's Raya - TV Series Pitch
+    - Disney's Raya - TV Series Pitch (compiled)
 series: true
 tags:
   - 📂/collection
@@ -19,12 +20,13 @@ modified: '2024-10-26T00:00:00.000Z'
 collection:
   - story-rewrites
 collectionItems:
-  - disney's-raya-tv-series-pitch/raya-preface
-  - disney's-raya-tv-series-pitch/raya-e1-kumandra
-  - disney's-raya-tv-series-pitch/raya-e2-tail
-  - disney's-raya-tv-series-pitch/raya-e3-talon
-  - disney's-raya-tv-series-pitch/raya-e4-spine
   - disney's-raya-tv-series-pitch/disney's-raya-tv-series-pitch-(compiled)
+  - disney's-raya-tv-series-pitch/raya-preface
+  - disney's-raya-tv-series-pitch/raya-e1-kumandra-divided
+  - disney's-raya-tv-series-pitch/raya-e2-sisu-together
+  - disney's-raya-tv-series-pitch/raya-e3-tail-behind
+  - disney's-raya-tv-series-pitch/raya-e4-talon
+  - disney's-raya-tv-series-pitch/raya-e5-spine
 slug: disney's-raya-tv-series-pitch
 ---
 # RAYA - Index

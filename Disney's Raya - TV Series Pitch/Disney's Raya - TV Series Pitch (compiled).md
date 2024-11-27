@@ -2,20 +2,23 @@
 slug: disney's-raya-tv-series-pitch/disney's-raya-tv-series-pitch-(compiled)
 ---
 
+# RAYA Preface
 ## Overview Disclaimer
 
 - If I were to properly rewrite the story, I'd change names like "Benja" and "Druun". However, to prevent needless confusion, I'll leave the names as they are. Just imagine that the names feel a bit more cultural/mythical!
 - Also, I’m solo-writing from a Malaysian context. So without a full team of experts (or just locals, really), it’s going to lack a lot of cultural influences from the other SEA countries. But I think for a rough sketch, it’s enough to get a general picture. The objective is not so much on cultural accuracy (though I’ve added some easy wins), but on the narrative throughline.
 
-## Story Timeline
+## Rewritten Story Timeline
+
+You can skip ahed to [[#End of Preface]].
 
 ### History Backstory
 
 - `BS` stands for “Before-Shattering”
 - `AS` stands for “After-Shattering”
-- ~???BS
+- ???BS
 	- humans harmoniously lived alongside dragons
-- ~???BS
+- ~1500(?)BS
 	- Druun attacked, multiplying and petrifying
 	- dragons fought but lost
 - ~500BS
@@ -23,9 +26,9 @@ slug: disney's-raya-tv-series-pitch/disney's-raya-tv-series-pitch-(compiled)
 	- Dragons and Druun disappear
 	- Petrified people became un-petrified
 	- Sisu’s Dragon Gem fought over by all the tribes
-- ⇵ 150 years – Gem switches hands
+- ⇵ 150 years – Gem switches between the tribes
 - 335BS – Heart tribe secures the Gem for themselves
-- ⇵ 335 years – Reign of Heart
+- ⇵ 335 years – Reign of Heart, over ten chiefs
 - 0AS – The Shattering
 	- Chief Benja of Heart hosts a feast with other tribes
 	- Princess Namaari of Fang tricks Princess Raya of Heart (both 12yo) into revealing the Hidden Chamber of the Dragon Gem
@@ -34,38 +37,43 @@ slug: disney's-raya-tv-series-pitch/disney's-raya-tv-series-pitch-(compiled)
 	- Heart is ruined, Raya gets trauma from losing her dad and tribe
 - ⇵9 years – World goes downhill
 - 9AS
-	- Raya infiltrates Namaari (both 21yo) in Fang to steal the Scroll Map and starts finding Sisu
+	- Raya infiltrates Namaari (both now 21yo) in Fang to steal the Scroll Map and starts finding Sisu
 - ⇵ 6 years – Raya tracks down every river’s end
-- 15AS – The present, all take place within this year
+- 15AS – The present, the story takes place within this year
 
 ### Present Story
 
-- Raya (27yo) runs into Tail nomads
-- ⇵2 weeks
-- Raya brings back Sisu at the last river’s end
-- ⇵??
-- Raya and Sisu obtain Tail’s Gem artefact, against Namaari’s squad
-- Raya and Sisu sail with Boun in the Steamboat
-- That night, Raya misjudges Boun
-	- ⇵2 days
-	- Namaari’s squad makes camp and talks about Khaan
-- ⇵7 days
-- Steamboat arrives at Talon
-- Namaari’s squad also arrived at Fang
+- Episode 1
+	- Raya (27yo) runs into Tail nomads
+- Episode 2
+	- ⇵2 weeks
+	- Raya brings back Sisu at the last river’s end
+	- ⇵??
+	- Raya and Sisu obtain Tail’s Gem artefact, against Namaari’s squad
+	- Raya and Sisu sail with Boun in the Steamboat
+	- That night, Raya misjudges Boun
+		- ⇵2 days (as shown in a prologue from Episode 3)
+		- Namaari’s squad makes camp and introduce Khaan
+- Episode 3
+	- ⇵7 days
+	- Steamboat arrives at Talon
+	- Namaari’s squad also arrived at Fang
 
-# RAYA E1 - Kumandra
+###### End of Preface
 
-## Episode 1 - Kumandra Divided
+# RAYA E1 - Kumandra Divided
 
-> Theme: The untrusting world of Kumandra - Past, Present, Future
+> Theme: The Zero-Sum World of Kumandra - Past, Present, Future
+
+## Planning Notes
 
 ### Narrative sequence vs chronological sequence
 
 - The X-Men Days of Future Past movie alternates between the characters/plot in the past (1980's) and the dystopian future (2100's), so that one time continuity is actively changing the outcome of the other time continuity — the two continuities are happening in parallel
-	- That's one aspect of the storytelling effect I want to have with this cutting-back-and-forth style of Episode 1
+	- That's one aspect of the non-linear storytelling effect I want to have with this cutting-back-and-forth style in Episode 1
 - The present-day Kumandra is so bleak — and in a sense, the past events already happened and caused the fallout
 	- We slowly reveal the extent of the fallout according to past events
-- And yet, during the scenes set in the past, it's *almost* as if the fallout could've been prevented, especially as present-continuity-Raya exhibits the distrust that saves her in the present, and it would've saved her in the past
+- And yet, during the scenes set in the past, it's *almost* as if the fallout could've been prevented, especially as present-continuity-Raya exhibits the distrust that saves her in the present, and it would've definitely saved her in the past
 	- It’s revealed at one point in the episode that present!Raya's sword was originally her father's, *narratively while* her father was still championing his cooperation ideals (as shown in the past). This causes the audience to wonder — what happened in between?
 	- Present!Raya says she was betrayed, narratively sequenced in the episode for the audience, before past-Raya got betrayed
 	- It's mentioned in the present that Heart is in ruins, and that’s narratively arranged right before Namaari’s betrayal in the past
@@ -86,9 +94,11 @@ I was quite particular on the consistency of naming. I’m going to stick to the
 - “The Shattering” is just much more personal to the main characters, this is our *media res*.
 - Kumandra’s 500 years ago, can feed in MUCH later.
 
-### Hook: Can we trust other tribes?
+## The Story
 
-#### Present: Establishing current-day/setting and the main character's overarching goals
+### Hook: Zero-Sum Kumandra
+
+#### Present—Establish world, protagonist & story goal
 
 ![|250](https://thumbs.dreamstime.com/z/barren-terraced-rice-field-northern-thailand-arid-climate-dry-season-69358738.jpg) ![|250](https://i0.wp.com/project2049.net/wp-content/uploads/2010/03/Asiaeye_southeast-asia-drought_033110.jpg) ![|250](https://thumbs.dreamstime.com/b/barren-rice-field-cracked-land-thailand-dry-fields-parched-harvest-season-274385599.jpg)![|250](https://javaadventuretrail.com/wp-content/uploads/2017/09/sunrise-in-mount-bromo.jpg) ![|250](https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/night-over-mount-bromo-java-joana-kruse.jpg)
 
@@ -100,7 +110,7 @@ I was quite particular on the consistency of naming. I’m going to stick to the
 - She holds up a Map. X-marks litter the landscape. The camera focuses on a drawing of the complete Dragon Gem, circled and in the center of drawn pointed arrows.
 	- This woman really wants this Gem.
 
-#### Past: Establishing young Raya
+#### Past—Like Father, Like Daughter
 
 > **DRIPPING CARVED-OUT TUNNEL PASSAGEWAY, HEART - NIGHT (PAST)**
 
@@ -110,6 +120,8 @@ I was quite particular on the consistency of naming. I’m going to stick to the
 - In a tunnel of sorts, she bypasses traps by identifying and working around rigged false-hopes and paths — with the help of her then-smaller mount, Tuk-Tuk.
 
 > **CHAMBER OF THE DRAGON GEM, HEART**
+
+![cave](https://images.ctfassets.net/dqbqab5lm2pa/3ZEBefGaBwCHMDNyWJNnOW/72d8ac14be64a9df914ecea66570b530/Concept_Art_of_Raya_and_The_Last_Dragon_-_65.jpg?w=1000&q=75)
 
 - She enters the Chamber of the Dragon Gem, guarded by a silhouetted guardian.
 	- There is a glowing blue Gem on a pedestal in the center of the room, the same one as earlier pictured in the Map in the first scene in the present-day.
@@ -139,7 +151,7 @@ Yes. And we must prepare to meet them.
 
 - We end the scene ambiguously there, as if the other lands are about to lay siege just as they finished their training. And jump straight to:
 
-#### Present: Raya's current goal, ready to fight
+#### Present—”X” Marks the Spot
 
 > **TAIL LANDSCAPE - DUSK (PRESENT)**
 
@@ -153,9 +165,9 @@ Yes. And we must prepare to meet them.
 - She approaches the camp, but a few figures notice her, and run out towards her.
 	- She checks her sidearm — yes, Chief Benja's whip-sword is there and ready.
 
-### Kumandra party
+### A Kumandra Feast
 
-#### Past: Benja's party
+#### Past—Benja's One-Kumandra Dream
 
 > **PALACE KITCHEN, HEART - DAY (PAST)**
 
@@ -168,6 +180,9 @@ Yes. And we must prepare to meet them.
 	- "Finally, Fang, our most cunning enemy. An advanced city of scholars and builders, making their assassins frighteningly intelligent and sneaky."
 - Raya, "And we're going to use our secret weapon to defeat them, once-and-for-all, right?"
 	- "That's right, dewdrop." Benja turns to a table as he constructs a stew: "Shrimp paste from Tail, palm sugar from Talon, bamboo shoots from Spine, chilis from Fang, and lemongrass from Heart… my secret weapon is a Kumandra feast."
+
+![stew](https://y.yarn.co/3267eba7-2199-4749-b8a8-6cc15f27724a_screenshot.jpg)
+
 - Raya is perplexed?? "Are we poisoning them?"
 	- "No tribe can survive alone anymore. This is the first step to unite the five lands in the line of ten chiefs, since The Great Division."
 - "But dad, what about all my training to become Guardian of the Dragon Gem? Who are we guarding against? Not the Druun, since they’ve been gone for centuries."
@@ -179,7 +194,7 @@ Yes. And we must prepare to meet them.
 - Raya nods.
 	- Benja: "I believe that we can be One Kumandra again. Even if I have my second baddest blade in the land to offer a bit of wise precaution… someone has to take the first step. Trust me."
 
-#### Present: Tail trusts no one
+#### Present—A Suspicious Deal
 
 > **NOMAD CAMP OUTSKIRTS, TAIL - NIGHT (PRESENT)**
 
@@ -190,17 +205,19 @@ Yes. And we must prepare to meet them.
 - "State your business!" the middle one exclaims. She's holding a lantern; it's getting dark.
 	- Raya: "*S’lam*. I am Rahmidah, daughter of Hazim, tribe of Tail. We fled here after my village was destroyed by the Druun… I know we don't trust each other, but I just need to set up camp for the night."
 	- The nomad is suspicious. "I've never heard of the family name 'Hazim'. Besides, you're at the far end of Tail, why aren't you heading towards the other tribes? Fang has their intricate aqueducts, Spine has their mighty fortress, Talon has their busy floating market. You'd be better off even in Heart than here in this dried-up forsaken land of Tail."
-	- "Tail is supposed to be the one tribe that help their own tribe people."
+	- Raya, persuasive, "Tail is supposed to be the one tribe that help their own tribe people."
 	- "Our own brother stole all our family wealth, and ran away to Talon. You talk about One-Kumandra? Hah!"
 - Raya: "I will set up camp there by that rock. It's 200 cubits away from your camp."
 	- "You are too close to our river. We don't trust you. Leave us, or we will attack."
-- "I will fight to make camp. But let's both agree that fighting would cost us both resources that we don't have. I don't even want to camp so close to you, I don't trust you either. So I'll be gone in the morning. Take these lemongrass herbs as a gift of peace. Or rather, a gift of non-aggression."
+- "I will fight to make camp. But let's both agree that fighting would cost us both resources that we don't have. I don't even want to camp so close to you. I don't trust you either. So I'll be gone in the morning. Take these lemongrass herbs as a gift of peace. Or rather, a gift of non-aggression."
 	- They whisper amongst themselves, "Lemongrass! They're so rare since Heart…"
-- The nomads warily take the lemongrass and back off, returning to their own camp, very on edge. "Don't come near us, we won't come near you."
+- The nomads warily take the lemongrass and back off, returning to their own camp, still on edge. "Don't come near us, we won't come near you."
 
-#### Past: Cultural exchange
+#### Past—Cultural Exchange
 
 > **BRIDGE, HEART - DAY (PAST)**
+
+![](https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/01/Raya-and-the-Last-Dragon-Five-Regions.jpg)
 
 - Benja and Raya stand on the end of the main bridge leading into Heart. Four distinct factions stand arranged before them. Benja welcomes them.
 	- Tail Chief: Nice speech, Chief Benja, but why’d you really bring us here? Are you gonna rob us?
@@ -224,12 +241,14 @@ Yes. And we must prepare to meet them.
 	- we see a bit of Naamari's Fang-natural intelligence and sharpness
 	- Naamari admits this is her first time having such a stew with so many different ingredients. Raya says she has this every day.
 		- Namaari explains that while Heart still trades with other tribes, but the other tribes don't really mix around
-		- It's not just stew, it's the technology, the architecture, the knowledge. Just look at Tail, they're still so backwards.
+		- It's not just stew: it's the technology, the architecture, the knowledge. Just look at Tail, they're still fishing to barely survive.
 		- Raya exclaims! "That's why Heart seems so prosperous compared to the other tribes: it's not that the Gem gives some magic favour to Heart, but it's that Heart trusts the other tribes."
 - Namaari then brings up they're both Sisu fans
 	- Naamari: You know, Fang legend says she’s still out there. I'm not supposed to show you this, but…
 	- Naamari pulls out a Scroll that she says she's not supposed to show
 	- (It's the same scroll that adult Raya is using as her Map!)
+
+#### Past—Before and After
 
 > **NARRATED OVER STYLISTIC PUPPETRY**
 
@@ -254,7 +273,9 @@ Yes. And we must prepare to meet them.
 	- It's from a part of Naamari's mother's (chieftess) trishula-sceptre.
 - Raya says, "One day, we'll track down Sisu together. But I know what we can do today. Follow me."
 
-#### Present: Raya lies to find Sisu
+### When the Chips Fall…
+
+#### Present—Double-Crossed
 
 > **RAYA'S CAMP, TAIL - NIGHT (PRESENT)**
 
@@ -275,9 +296,7 @@ Yes. And we must prepare to meet them.
 	- The nomad leader continues, "Daughter of Benja. Tribe of Heart. Or what's left of it."
 	- *ominous music oooooooo~*
 
-### Betrayal causes Druun
-
-#### Past: Raya vs. Naamari
+#### Past—Secrets Revealed
 
 > **CHAMBER OF THE DRAGON GEM, HEART - NIGHT (PAST)**
 
@@ -301,7 +320,7 @@ Yes. And we must prepare to meet them.
 	- A line of torches head into the mountain of the Chamber.
 - Benja turns back, and Virana slips out. The other tribes start to catch on.
 
-#### Present: Confrontation
+#### Present—Premeditation
 
 > **CAVERN, NOMAD CAMP, TAIL - NIGHT (PRESENT)**
 
@@ -317,7 +336,9 @@ Yes. And we must prepare to meet them.
 	- One by one, they all collapse. They mumble, “You *binturi*…”
 - A small crack forms in the ground…
 
-#### Past: Druun unleashed
+### …then the Monsters Rise
+
+#### Past—The Shattering
 
 > **CHAMBER OF THE DRAGON GEM, HEART - NIGHT (PAST)**
 
@@ -335,8 +356,8 @@ Yes. And we must prepare to meet them.
 - Benja announces, "We have a choice. We can tear each other apart, or we can come together and build a better world. It’s not too late. I still believe we can be One-Kumandra again."
 - Benja sheathes his sword. “Shall we return to dinner?”
 	- Tension fills the air. Eyes dart around, who's making the first move?
-- A crossbow steadies for Benja’s heart. FWIP!
-	- He deflects it — it lands in his leg. He crumples.
+- A ~~crossbow~~ blowpipe steadies for Benja’s heart. FWIP!
+	- He deflects the dart — it lands in his leg. He crumples.
 	- "BÀ!" Raya cries.
 	- Everyone rushes past them into the Circle.
 - Hands grope at the Gem, until…
@@ -360,7 +381,7 @@ Yes. And we must prepare to meet them.
 	- Benja shouts: "Everyone to the river!"
 - In the cave, the waterfalls start to dry up…
 
-#### Present: Druun unleashed pt. 2
+#### Present—The Echoing
 
 > **CAVERN, NOMAD CAMP, TAIL - NIGHT (PRESENT)**
 
@@ -376,7 +397,7 @@ Yes. And we must prepare to meet them.
 	- Tuk-Tuk kicks some butt too — he’s a steady tank.
 - There are some purple glows that come out from the cavern: glows that meant people were being petrified.
 
-#### Past: Sacrifice
+#### Past—The Heartbreaking
 
 > **BRIDGE, HEART - NIGHT (PAST)**
 
@@ -391,7 +412,7 @@ Yes. And we must prepare to meet them.
 	- A Druun passes through Benja, turning him to stone
 	- A current carries young screaming Raya away to safety…
 
-#### Present: Just another Tuesday
+#### Present—Just Another Tuesday
 
 > **NOMAD CAMP, TAIL - DAWN (PRESENT)**
 
@@ -402,55 +423,233 @@ Yes. And we must prepare to meet them.
 - She raids the ghost-town camp, gets up, and gets on her way.
 - Business as usual. She crosses out a spot on the map, then looks up towards the next.
 
-### Present: Epilogue
+#### Present—Epilogue
 
 > **NOMAD CAMP, TAIL - DAY (PRESENT)**
 
 - A woman on a Serlot (some large tiger-wolf hybrid, like ATV’s) dismounts and enters the cavern.
-	- She inspects the carnage left behindby the Druun
+	- She inspects the carnage left behind by the Druun
 	- She picks up the Padipepper from the ground.
 	- Some more armour-clad warriors on Serlots step out behind her.
-	- "What are your orders, Princess Namaari?"
+	- We see her face. It’s familiar, but a scar stretches across it.
+	- Off-screen: "What are your orders, Princess Namaari?"
 
 
-# RAYA E2 - Tail
+# RAYA E2 - Sisu Together
 
-## Episode 2 - Kumandra’s Hope
-
-> Theme: Kumandra's next generation
-
-### Notes
+## (Outdated) Planning Notes
 
 - In adding depth to Sisu's characterization, I'd like for her to use weird old-timey terms and a foreign language to describe things and places. Kind of like ATLA's Aang saying "flameo hotman"! Which is way better than Sisu spouting Gen Z slang.
-- 2024-08-09 just got the idea to rename Boun’s ship as “the Steamboat”. It’s such an apt and cultural name. I don’t think steamboats are of this time period, maybe it’s some dystopian prototype, just say it’s magic lol. And he’s gonna champion [steamboat](https://en.wikipedia.org/wiki/Hot_pot#Southeast_Asia) (hotpot – dish whereby a heat source placed on the dining table keeps a pot of soup stock simmering)!
 - introducing three major characters in one episode might be rushed. may be better to push introducing Boun into Episode 2B, and focus first on Sisu and Namari. Here’s some things we can add to Episode 2A:
 	- Raya and Sisu travelling through the Tail wasteland to the Temple
 		- Sisu fighting and being the natural predator of Druun
-		- maybe stumbling across the ruined campsite from [[RAYA E1 - Kumandra]]
-		- a proper episode for fleshing out Tail, because E1 cut back to the past a lot. So exploring more of Tail culture/locals, why the local geography makes them navigators, why the islands all dried up, how the ex-chieftess messed things up and their shard became lost
+		- maybe stumbling across the ruined campsite from Episode 1
+		- a proper episode for fleshing out Tail, because Episode 1 only shows one bit. So exploring more of Tail culture/locals, why the local geography makes them navigators, why the islands all dried up, how the ex-chieftess messed things up and their shard became lost
 	- we could also explore Namaari
 		- think like the Zuko scenes in ATLA’s earlier episodes. Quickly establishing her story
 		- her vastly improved in combat, against Druun and enemy humans
 		- and if there’s episode screentime to show her life after the Shattering
-		- her mom commenting on her betrayal of Raya and the messy aftermath (positively? negatively?)
-		- embedding Fang’s gem into Fang’s sceptre
+			- her mom commenting on her betrayal of Raya and the messy aftermath (positively? negatively?)
 		- 12-years old Namaari, still naive, expresses conflict over her actions, that caused so much destruction and distrust
-		- was she just tricking Raya, or does she really believe in the hope of Sisu?
+			- was she just tricking Raya, or does she really believe in the hope of Sisu?
 			- and has that belief/hope changed since?
-		- could also fit a sequence, 9-years-after-Shattering where Fang goes into lockdown. Enemies within walls.
-		- Chieftess Virana sends Namaari to lead the policing. Some spectre squad causing havoc, but like elite ninjas.
+		- we can show Fang’s gem embedded into Fang’s sceptre
+		- could also fit an action sequence, 9-years-after-Shattering.
+		- Fang goes into lockdown. There’s enemies within walls, some elite spectre-ninja squad causing city-wide havoc.
+		- Chieftess Virana sends Namaari to lead the policing.
 		- Namaari finds Raya, for the first time since the Shattering, both now 21yo, both alone.
 		- Raya, a terrifying one-woman-army, seems to have come for Fang’s Gem shard.
-		- they fight it out —Namaari with the combat edge, but Raya with the cheating
+		- they fight it out—Namaari with the combat edge, but Raya with the cheating
 		- Namaari manages to protect the Shard. But Raya shrugs, because she got her objective: Namaari’s Scroll/Map to find Sisu
 		- They bitterly reminisce, they were so starry-eyed about Sisu. Raya still carries Namaari’s pendant “gift”
 		- Namaari (pretends?) cynicism of Raya’s pursuit of Sisu
 		- Namaari’s been kept safe within Fang for 9 years, indoctrinated in self-sufficiency. Raya spits, half the population, from every tribe, is now stone.
 		- they clash. Raya wins, leaving Namaari with a face wound that would scar. Raya flees the city.
 		- Namaari’s furious. Swears her revenge aloud to Raya. She returns Fang’s Shard safely to her mom.
-		- in story notes for myself: Namaari’s not seen the outside world since. After this, she checks it out and finds Raya’s truthful.
+		- in story notes for myself: Namaari’s not seen the outside world since the Shattering. It’s only after this, she checks it out and finds that Raya’s truthful.
 	- Episode 2A would end with Raya and Sisu finding Tail’s Gem shard, and Namaari revealing herself.
 	- Episode 2B would start with Namaari’s sympathetic “I’m sorry”. So 2A itself doubles down on her ruthless throughout (as Raya narrates), but 2B would offer a puzzling melancholy Namaari (now that Sisu herself has met Namaari)
+
+## The Story
+
+### Hook—Raya’s Scroll
+
+> **WILDERNESS, TAIL - DAY (PRESENT)**
+
+- Chyron: TAIL - ONE WEEK LATER
+- We’re in Tail
+- Raya and Tuk-Tuk follow a river, which has now shrunk to a pitiful stream. It flows into an old wrecked ship, surrounded by old whale bones, trash, etc.
+- POV: Raya sighs tiredly, focusing on her Map Scroll
+	- she points to the last un-crossed-out circle
+	- she unrolls the Scroll more—there’s some ancient writings, and a drawing of the ritual that she did to try to summon Sisu in Episode 1
+	- unrolls it a little more—it’s stamped with: the official Fang insignia.
+
+### Fang
+
+#### The Attack and the Plan
+
+> **MAIN GATES, OUTER WALLS, FANG - NIGHT (PAST)**
+
+- Chyron:
+	- FANG (large title)
+	- NINE YEARS AFTER THE SHATTERING (smaller subtitle)
+	- SIX YEARS AGO (this one replaces the previous)
+- Set before a nearby waterfall, an intricately-designed city with ambitious scaffolding, surrounded by a simple stone wall and a water moat.
+- ~~BANG! Iron gates crash down shut. A wheel is spun to lock it in place. not much walls, they have water aqueduct things~~
+- Soldiers, illuminated by torches, pace up and down the battlements. Commanding shouts are heard, closeby and far away.
+- In the distance, a tower bursts into flames. Purple glows. In the foreground, a captain dispatches some troops towards it.
+
+> **NORTH TOWER, OUTER WALLS, FANG**
+
+- A Druun mightily leaps up onto the damaged 10ft walls.
+- A team of soldiers bravely takes it down—but a few were defeated in the process, spawning one more Druun each.
+- A soldier is backed up against the wall—a Druun slinkers closer.
+- A FLASH of blue! FWIP! The Druun cries out and vaporises.
+	- It’s 21-years-old Namaari!
+	- wielding mother’s Sceptre, but it’s now glowing blue, empowered with a Gem shard (just like Raya’s *keris* whip-sword from Episode 1)
+	- she effortlessly clears all the other Druun in sight. Silence.
+	- she sees the petrified soldiers, then growls.
+- “Reinforcements are coming. What happened?”
+- The sole soldier: “Our water moat dried up, then Druun arrived.”
+	- Namaari: “How can this be?”
+	- “Our water aqueducts were sabotaged. Communication…”
+
+> FADE TO
+
+> **ROYAL COURT, PALACE, FANG - CONTINUOUS**
+
+- Namaari relays the soldier’s message to a court of frenzied generals, their voices cross-faded:
+	- “…sabotaged. Communication, supplies, all cut. I’m also getting different reports of water disruptions, in almost every city sector. The city is in lockdown.”
+- The Generals panic:
+	- “This is too intelligent for the Druun—it must be an attack from another tribe!”
+	- “There must be a squad of at least thirty elite *akyaar*!”
+- Chieftess Viraana, on the chief seat, points across the table—“Namaari?”
+	- Namaari, analytically pondering: “It has to be Tail. The Chieftess of Tail has been missing for two months, along with their Gem shard. They must be trying to steal our shard now that they’ve lost theirs. Besides, they are skilled infiltrators, they know how to strike our weak spots.”
+	- Viraana beams proudly. “My daughter, the sharpest among all Fang.”
+- Viraana to everyone: “Restore the water pipes to keep out the Druun. But secure the entrypoints between every city sector—these Tail infiltrators are the real enemy.”
+	- The Generals salute, and file out.
+- Now alone, Viraana turns to Namaari with the glowing Sceptre:
+	- “We can hold off the Druun without bringing the Sceptre to the frontlines. That’s where the enemies expect to steal it.”
+	- “Correct… Take the Sceptre to the secret vault. Nobody can know, not even the other Generals.”
+	- Namaari is given the Sceptre. “Other Generals?”
+	- Viranna: “I’m proud of you. My new Chief Military General.”
+		- She puts an military armband around Namaari.
+		- Namaari softens… then straight-faces and tightens her grip. Nods.
+
+#### An Unknown Assailant
+
+> **ROAD, RESIDENTIAL SECTOR, FANG**
+
+- Namaari confidently strides through a guard checkpoint.
+	- She’s wrapped the Sceptre in black cloth and tied with cords, concealing it
+- The young guards salute her. The leader of the guards initially doesn’t, but he notices the new armband, and salutes her too.
+- In the background, a shadowed silhouette follows from the rooftops.
+
+> **CLEARING, WATERFALL CLIFF, FANG**
+
+- Namaari enters a clearing, besides the top of the waterfall cliff.
+- There’s an odd-shaped mound. She pulls away a camouflage cloth—revealing a metal vault.
+- She unlocks and opens it. Tosses the cloth-wrapped Sceptre inside the vault.
+- Namaari quickly ducks. A sword swings past, and misses her neck.
+- Namaari unsheathes her own dual blades, and narrowly parries a flash of deadly blows.
+- Namaari kicks out, sending a figure staggering back. They standoff.
+	- A lone assailant, masked in full stealth.
+	- Namaari herself is poised, dual-blades
+- Namaari scans the area. “It’s just you. You took on my entire city by yourself. Who are you?”
+	- The assailant, silent, charges Namaari with heavy strikes and tough grunts.
+- Namaari rolls backwards and produces a whistling firework rocket, like in previous episode, preparing to launch it into the sky.
+	- The assailant speaks. A female voice taunts: “Wouldn’t want mámá to think that her Chief Military General couldn’t handle me on her own?”
+	- Namaari locks eyes. Lowers the firework, and tosses it over the cliff’s edge. Picks up her blades.
+- They fight some more.
+- Namaari disarms the assailant’s blade.
+	- But the assailant unsheathes a new blade.
+	- In slow motion, Namaari readies to dodge it
+	- The new blade comes out. It’s glowing bright blue. The blade seems to curl and extend, longer than expected.
+	- Namaari, caught off-guard, leaps backwards. She slips at the edge of the waterfall cliff.
+		- She quickly catches the top rock, and starts pulling herself up.
+	- The assailant runs into the vault.
+
+#### Success: Sceptre & Scroll
+
+- Namaari pulls herself up to see the assailant stepping out of the vault, victorious with the cloth-wrapped Sceptre.
+	- Namaari jeers: “Raya. You’re not a stone statue.”
+- Raya sheathes the glowing Whip-Sword. She pulls down her face mask.
+	- “My people are stone. My Bábá is stone because of you. Because I trusted you.”
+- Raya unfurls the cloth-wrapped Sceptre, revealing—it’s a fake sceptre replica, not glowing at all.
+	- Namaari proudly cackles. “The real Sceptre never left the palace.”
+	- Raya: “You’re still the same sly *binturi*.”
+- Namaari laughs: “There’s no ‘secret vault’—this is where we bury our junk.”
+- Raya twirls a Scroll in her hands. “Actually, I got what I came for.”
+	- Namaari sneers. “Sisu’s Scroll? And the legend? You should’ve just asked for it! Keep it!”
+	- Raya stashes the Scroll into a fantasy Kumandra pitcher-plant, which acts like her (waterproof) satchel.
+	- Namaari: “You *really* bought into all that trash.”
+	- Raya reveals she’s still wearing the same Dragon Pendant necklace that Namaari gave in Episode 1.
+	- Raya: “You’re a back-stabbing traitor. But I know you bought into it too.”
+- Namaari scoffs: “You’re going to track down *every* river’s end? Every last one? There must be hundreds. Thousands. Just to find that it was all made up.”
+	- Raya: “I actually believed we would have done all that, searched thousands of rivers for Sisu, *TOGETHER*, *the two of us*. Even if we would find out it *WAS* all made up—we could have been the first step towards One-Kumandra.”
+	- Namaari: “You’d be a child to believe everything.”
+	- Raya: “I was. Never again.”
+	- (Note: “Sisu Together” is the title of the episode)
+- They clash again.
+	- Namaari pulls out padipepper brambles (again), swiping at Raya’s legs—
+	- but the thorns shatter—Raya had worn leg greaves protection this time.
+	- With Namaari’s momentary surprise, Raya slashes at her with the Whip-Sword—
+	- It cuts across Namaari’s face. She screams.
+- Namaari blindly charges at Raya
+	- Backed up against the cliff, Raya dives off the waterfall, into the basin below
+- Namaari halts, and watches Raya disappear into the foam
+	- ~~While shaking with fury, she fires the firework rocket in the air. Boom! (decided to have her throw away the rocket earlier, more dramatic)~~
+	- She stands over the waterfall.
+	- “I SWEAR I’LL GET YOU, RAYA!”
+	- We hold this tense moment for a few beats…
+
+### Hello, Sisu
+
+#### The Dragon in the Cavern
+
+> **SHIPWRECK CAVERN, TAIL - DAY (PRESENT)**
+
+- Chyron: TAIL—PRESENT DAY (SIX YEARS LATER)
+- It’s an old wrecked ship, surrounded by old whale bones, trash, etc.
+- Raya methodically prepares the ritual, and postrates:
+- "Sisudatu… I don’t know if you’re listening. For the past six years, I’ve searched every river in Kumandra to find you. And now I’m here at the very last one. I trusted too much, and I broke the world… Sisu, I just really… really want my *bà* back. Please."
+- Nothing happens.
+	- Raya mumbles, “Even if it were all made up…”
+	- She begins to pack up…
+- Then magic happens, Sisu majestically appears!
+	- “WAHOOOO!!!”
+	- She
+- Raya breaks down in joy, disbelief, wonder, celebration.
+	- “You’re real! It’s all real… My bá….”
+- “Where’s everyone?”
+	- It’s just me. Everyone else forgot about you.
+- We skip the part about unique individual dragon magic abilities. It's meh and doesn't really add much.
+- Raya pitches: the Scroll says a fully reassembled Gem will destroy the Druun, just like the first time, and bring everyone back from stone
+	- But while the other Gem shards are with the tribe chiefs, Tail’s shard has been lost with the Tail chieftess, for the last six years
+- Sisu confirms that she is drawn to the Gem shards and can direct Raya to each shard
+
+#### Naamari Pinch
+
+> **HILLTOP, TAIL**
+
+- (Adult 27yo) Naamari stands on a hilltop
+	- we see her face for the first time: a huge scar cuts right across
+- She inspects the footprints of Tuk-tuk. Her own Serlot sniffs the tracks. Four Fang soldiers on their own Serlots flank her.
+- One of them point out that:
+ 1. Tail is infested with Druun, Raya's good as stone
+ 2. Retrieving the scroll isn't worth the risk
+- Namaari turns to him, sharply spitting, "Then go back home." The soldiers side-eye amongst themselves.
+- Namaari hops onto her mount, "Or, follow me and make things right for Fang."
+	- Namaari pushes her mount onwards, leaving the rest of them to continue on.
+
+
+# RAYA E3 - Tail Behind
+
+## Planning Notes
+
+- 2024-08-09 just got the idea to rename Boun’s ship as “the Steamboat”. It’s such an apt and cultural name. I don’t think steamboats are of this time period, maybe it’s some dystopian prototype, just say it’s magic lol. And he’s gonna champion [steamboat](https://en.wikipedia.org/wiki/Hot_pot#Southeast_Asia) (hotpot – dish whereby a heat source placed on the dining table keeps a pot of soup stock simmering)!
+
+## The Story
 
 ### Setup Sisu and Namaari
 
@@ -483,7 +682,7 @@ Yes. And we must prepare to meet them.
 - Namaari hops onto her mount, "Or, follow me and make things right for Fang."
 	- Namaari pushes her mount onwards, leaving the rest of them to continue on.
 
-### Getting the Tail gem vs Namaari
+### Tail’s Forgotten Gem Shard
 
 #### Tail Temple
 
@@ -552,6 +751,8 @@ Yes. And we must prepare to meet them.
 	- Soldiers launch in hot pursuit of Raya on their Serlots, one stays back to help Namaari
 	- "See, Sisu!" Raya shouts, "Namaari had backup! We can't trust Fang!"
 
+### Namaari Chase
+
 #### Fang Chase Sequence
 
 > **LIMESTONE CLIFFS, TAIL**
@@ -597,7 +798,7 @@ Yes. And we must prepare to meet them.
 	- Back on the boat, a shadow is cast over Raya
 	- Raya, soaking wet, looks up:
 
-#### Establishing Boun and the Boat
+#### Boun and the Steamboat
 
 > **STEAMBOAT, LAKE, TAIL**
 
@@ -652,7 +853,7 @@ Yes. And we must prepare to meet them.
 
 ### Settling into the Steamboat
 
-#### Raya's trauma
+#### Trauma
 
 > **STEAMBOAT, LAKE, TAIL**
 
@@ -672,7 +873,7 @@ Yes. And we must prepare to meet them.
 	- Raya, "You got me, I just can’t swim."
 	- Sisu: "Then why didn't you learn? And come to think of it, if you assembled people to spread out, finding all the river's ends would've taken less than a few months!"
 	- Raya: "You can't trust anyone!"
-	- Sisu: "If you want the tribes to trust each other and unite under One Kumandra, you need to start by trusting me. What’s the truth, Raya?"
+	- Sisu: "If you want the tribes to trust each other and unite under One Kumandra, you need to start by trusting me. Raya, what’s the truth?"
 - Raya sighs, downcast.
 	- with voiced-over'ed FLASHBACKS:
 	- "When my dad threw me into the water, to save me, the last thing I saw was him turning to stone. I wanted to cry, scream, wail. But how could I, when the river was drowning me?"
@@ -693,7 +894,7 @@ Yes. And we must prepare to meet them.
 - "Wait!!"
 	- Raya swaps out the herbs in Boun's basket (which were actually padipepper) with a whole head of actual lemongrass from her satchel
 	- Boun: "The colour's different."
-	- Raya covers up: "These ones are fresher, they just grow like that."
+	- Raya lies: "These ones are fresher, they just grow like that."
 - Boun takes the actual lemongrass, expertly slices them up, and scatters it into the steamboat
 - "It's about the theatrics, the customers love the theatrics!"
 	- Boun takes a test scoop — he dramatically falls to his knees in awe
@@ -719,7 +920,7 @@ Yes. And we must prepare to meet them.
 	- "Oh. Just family matters. Midsummer things. Anyways, shrimp is…"
 	- Raya squints suspiciously.
 
-#### Namaari interlude
+#### Namaari Interlude
 
 > **DRAGON GRAVEYARD, WILDERNESS - DUSK**
 
@@ -818,15 +1019,192 @@ Yes. And we must prepare to meet them.
 	- Sisu smiles.
 
 
-# RAYA E3 - Talon
+# RAYA E4 - Talon
 
-## Episode 3 - Kumandra’s Faces
+> **Episode 4: Kumandra’s Notoriety**
 
-> Theme: Kumandra’s repeat interactions
+Theme: Kumandra’s repeat interactions
 
 > **🚧 WIP**, come talk to me IRL for more heh
 
+## Ideas
 
+- repeat interactions—**REPUTATION**
+- switcheroo fake artefacts, how to trust the real one?
+- Boun and Sisu on the hunt for a ship component fix part, that broke by the Druun because Raya doubted Boun was going offshore to memoralize parents
+- dragon-fruit
+- remember to remind Raya’s spasm PTSD once
+- Heart refugees undercover in Talon
+	- Raya is excited to meet her own people, trusting them!
+	- but they betray her — you can’t even trust your own
+	- foreshadowing Raya’s betrayal?
+- masks, costumes, disguises
+	- oh there’s a Mask Festival
+		- the idea is that the real dragons/help are the friends we make along the way(?)
+	- a chase scene where everyone looks the same
+	- Sisu doesn’t want/need to wear a mask
+	- would be cool if she turns into a dragon, people think she’s a costume
+		- people are just so numb with lies that they don’t know the truth
+- Every trust can be broken for a price
+	- Raya bargains to buy off Talon’s Gem shard by betrayal
+- “Everyone’s a fake, anyways. A dishonest man, you can trust to be dishonest.”
+	- A greedy man, you can trust to win as the highest bidder
+- Namaari’s scout as an active agent
+	- the scout steals Raya’s whip-sword artefact and returns to Namaari
+	- Raya is more angry at Namaari — it’s her last attachment to her father, as well as a Gem shard
+	- Naamari actually hadn’t commanded it. She sighs and makes plans to make use of it. She’s still upset with her scout, and decommissions him. Her true motives are still murky.
+	- now the gang ends the story down with one gem shard in the hands of the enemy.
+	- they will encounter Namaari in Spine.
+- two Talon locals: one child, one cynical parent figure
+- Raya’s stuck — she sacrifices(?) herself, resigns to die (water? Druun?)
+	- she tells Boun and Talons: follow Sisu. She trusts them with the artefacts (she’s been stingy with them all this while). It’s really her last moment. She echoes her father’s One Kumandra.
+	- The parent figure believes Raya.The parent figure switches places, so that the parent figure gets turned to stone, trusting that Raya will really turn all the stone people back.
+		- maybe the parent figure lost someone to stone
+	- the Talon kid now joins them on their journey, having to revive parent figure
+	- maybe it’s the kid who believes and self-sacrifices
+	- maybe the Fang scout imposter is here too, still taking an artefact for themselves
+- Namaari subplot
+	- early scene showing dispatching of scout?
+	- talk with one of her party, an older guy who remembers before the Scattering
+	- they have to shortcut through Heart to get to Fang early
+		- Namaari’s also PTSD’d at Heart
+		- maybe she got the mentor’s brother petrified at Heart
+		- they don’t know the full truth? Virana pushed the false narrative that Raya shot first after leading Namaari into a trap?
+	- They get to Fang by the end of the episode — they need to be in Spine by the next
+- Sisu gets captured
+- Raya says she doesn’t trust friends
+	- but Raya actually has one Talon contact/confidante from long ago
+	- that person had been assembling a team
+- fourth guy who trains the Ongi monkeys
+	- but after the failure, the monkey trainer gets petrified — the monkeys follow the gang
+	- maybe he spends more time with Sisu, since he’s not a major suspect
+- rivers drying
+	- older buildings are higher up above the water, where the water level used to be — the “center” is higher up
+	- newer buildings, at the fringes, especially docks, are lower
+- needing a team
+	- Raya has no reputation, can’t get anywhere
+	- she needs a group of people to vouch for her
+	- these people who have built up reputation and trustworthiness, only to break it for Raya
+	- they are inherently betray trust in order to work in the team
+		- they have all the reasons to double-triple-cross
+- thematic stances
+	- **simplified reputation**
+		- one-strike collab—Boun, Sisu
+		- one-strike betray—Raya
+	- don’t play the reputation game—they really lose out (**avoidant reputation**)
+	- collab for reputation
+		- just to betray for the highest bidder (**fleeting reputation**)
+		- some really try to gain reputation
+			- but the ones who are very popular and people vouch for, are the ones who have betrayed to get those popular votes
+			- yeah so **false reputation**
+				- the recruiter has **fake reputation**—he has vouchers, but substance is fake
+		- **inconclusive reputation**—perverted positive, waiting good but too long
+- setting
+	- reputation is everything.
+	- you can’t use previous strategy of “always betray” because your reputation shows
+
+## Snowflake Method
+
+- Raya must work with a team to obtain Talon’s Gem shard (to save the world)
+- Raya enters Talon, ready to semi-trust trustworthy allies. She assembles a necessary team to obtain the Gem shard. She gets pressed by an unknown Fang Spy, besides her own teammates. She must decide whether to sellout her sucky team, or keep her own promises.
+- Character Profiles
+	- Raya’s goal is to get Talon’s Gem shard from the princess. However, she has a one-strike reputation. She needs to learn how to rightly evaluate the overtime reputation of others—and how to build her own.
+- Quarters
+	- Q1: Raya attempts Goal #1 of her heist, but fails for insufficient reputation/group-work. In the fallout of her failure, she reluctantly works with a team.
+	- Q2: During the Ghost Mask Festival, the gang kidnap the wandering Talon princess. A present Fang spy and Raya’s mega-heist is revealed, disrupts the plan. But with collaboration, they achieve another Goal #1.
+	- Q3: The gang solidifies, trading secrets in trust. This makes them more effective. Suddenly, the whip-sword is stolen. Raya interrogates the group and they fall apart. Raya does something huge. Sisu is captured by the traitor. The Fang spy plans to release Druun onto the Talon floating city (epic. but why?).
+	- Q4: Raya, alone, goes to save Sisu. Sisu is freed to push back the Druun. But too weak alone, Raya is captured to be petrified—she makes her final speech. It rouses the one of the pair to sacrifice themselves. The other person escapes with Raya, Sisu and Boun.
+
+## Character Profiles
+
+- names
+	- Noi, Ngom, Ngang, Ngyet, Muong, Phu, Vien, Ding
+- the fake princess
+	- princess faker — nephew/niece? how do they know how to fake?
+	- brings Raya directly into palace
+	- maybe they gotta “try to locate her” in the Mask Festival
+		- but Ngang is engineering this whole intro quest
+	- while avoiding the actual Talon palace people
+- the Talon contact/friend
+	- recruiter
+		- maybe: unsolicited recruiting? Raya doesn’t know they’re recruited
+		- actually had recruited all of them beforehand
+	- is a longtime Raya confidant
+		- Raya has friends?? She does, but transactional and sussy
+		- knows Gem mission?
+		- ~~is the spy: MASSIVE BETRAYAL, team lost its recruiter~~
+		- is not the spy: knows Raya’s water phobia?
+	- ex-guard / off-duty guard official
+		- actually. so he’s gotta flee Talon with the gang at the end?
+		- plan reveal
+			- shows reverence for Sisu earlier
+			- scoffs at human!Sisu. That can’t be Sisu.
+	- an mirror of Raya’s parenting
+		- betrays, just like how Raya had betrayed
+		- sacrifices self for the child
+		- now the child has to push on without parent figure, just like Raya
+- the recruit and the fodder
+	- monkey whisperer
+	- steals the satchel at the start?
+		- recognised the GEMS, didn’t know that was the Raya — stole just to be safe
+		- Raya assumes she recruited Vien, but it’s all planned by recruiter
+			- recruiter stationed VIen at the package for Raya
+			- means really knew it was Raya
+- the metalsmith
+	- the one who embedded Raya’s gem into the Whip-Sword
+	- Raya had trusted this person with the knowledge of the Gem
+- the spy
+	- also a replacement sailor, intended to replace Boun
+		- but since spy, Boun needs to step back in
+- actually the Talon family-backstabber from E1?
+- one of them needs to be Boun’s replacement sailor — but also ends up being the spy
+
+## Plot Outline
+
+all this while, Raya struggles to work with a team — Team Talon is such a failure, that endgame Raya Gang would show such an improvement
+
+- E1 (comfort zone):
+	- Raya + Sisu skills to get Gem
+- E2 (world lacking):
+	- inciting incident set piece
+	- The gang – Raya needs them, forms a plan
+- E3 (threshold unfamiliar):
+	- Raya goes, depending on the gang
+	- Mask festival execution
+		- failure
+	- there’s a Fang spy/scout
+- E4: (adapt to win):
+	- risk shown
+		- why should we trust you?
+		- everyone confesses a secret
+	- Kidnapping Dang Hai?
+	- Fang spy has been in Talon a long time
+	- getting gem shard
+	- Everyone knows Raya is in town for the gem
+		- Think: Boun spilled the beans?
+- E5: (claim the prize):
+	- Talon on lockdown
+	- Tuk-Tuk comes out,
+	- missing Sisu? Noi?
+- E6: (pay the price):
+	- start with:
+		- whip-sword stolen. → sets up the desperation of Raya’s sacrifice
+		- she’s upset. interrogates the group.
+	- ~~someone tries to bribe the spy — the spy reveals! disaster!~~
+	- parent-figure betrays child-figure!
+	- monkey man gets petrified!
+	- team scrambles
+	- Raya/Sisu gets caught to retrieve the Gem.
+- E7: (clashing worlds):
+	- She betrays others?
+- E8: (battling changes):
+	- child-figure double-double cross sacrifice
+		- child-figure realises this isn’t the world he wants to live in
+		- child self-sacrifices, in hope in Sisu
+		- Later, parent joins Raya with that guilt.
+	- Raya finds out whipsword was stolen
+
+## Workspace
 
 ### E1 - Comfort
 
@@ -840,12 +1218,12 @@ Yes. And we must prepare to meet them.
 	- her Serlot roars a yawn.
 	- Namaari, “Then Raya will know Khaan is a Fang scout, barging in on a large noisy Serlot.”
 - Namaari turns back to an older, decorated soldier
-	- “Admiral Thaam, can’t we find another route back home to Fang?”
+	- “General Thaam, can’t we find another route back home to Fang?”
 	- “Princess, if you want to arrive home in five days, without meeting any Druun, then we need to go through Heart.”
 	- Namaari’s reluctant.
 	- “I know how much that night hurt you, fifteen years go. I was there, too. But if Raya is out to steal the Gem shards from every tribe, then your mother needs to make plans.”
 	- (What? Namaari, hurt? Wasn’t she the one who backstabbed Raya?) #payme
-- “Okay, Admiral. Let’s hope Khaan succeeds in…”
+- “Okay, General. Let’s hope Khaan succeeds in…”
 
 #### Goodbye Boun
 
@@ -870,13 +1248,13 @@ Yes. And we must prepare to meet them.
 	- Boun’s eyes widen as a bunch of coins drop into his hand
 	- Raya: Double of what I promised. I’m sorry I assumed the worst of you. Purchase your ship repairs and go crazy with cooking ingredients!
 - “Thank you, Raya! And good luck with stealing Talon’s Gem artefact.”
-	- Raya double-takes, sternly: “What?! Shhhh! How—? Nevermind. If people find out, they’ll stop me from saving Kumandra—don’t you tell ANYONE about this.”
+	- Raya double-takes, sternly: “What?! Shhhh! How—? Never mind. If people find out, they’ll—don’t you tell ANYONE about this.”
 		- #payme later, the whole of Talon finds out. Raya blames Boun, but it’s the spy.
 	- “But… can’t _I_ know about it?”
 	- “No.”
 	- “…okay. I didn’t tell you about what happened to my family, either.”
 	- “In the end, we both still got what we wanted!”
-	- Boun sadly nods, shrugs, poking at his disfigured ship. “I’m going to find ship repair parts now. I trust that you’re a good guy.” They part ways.
+	- Boun sadly nods, shrugs, poking at his disfigured ship. “I’m going to find ship repair parts now. Raya, I trust that you’re a good guy… but I’ll never know for sure.” They part ways.
 
 
 
@@ -886,7 +1264,7 @@ Yes. And we must prepare to meet them.
 - Raya monologues: Our schedule is three days late because the boat got damaged. Tuk-Tuk is swimming nearby. I’ve got my whistle to call him when we need to escape. Now Sisu, you—
 - Sisu’s exasperated: “Boun already knows. Let him in!”
 	- Raya: He’s… too young.
-	- Sisu: We need to travel by boat if you want to avoid the Druun and be faster than Namaari.
+	- Sisu: We need to travel by boat if you want to avoid the Druun AND be faster than Namaari.
 	- Raya: Fine. We’ll find another sailor. Boun knows too much.
 - Raya: we need to get new clothes to blend in. Follow close.
 
@@ -900,8 +1278,7 @@ Yes. And we must prepare to meet them.
 		- “first purchase, half price!”
 		- “hello ladies, I’m from Tail too! Let me show you around!”
 	- Sisu: Wow, everyone’s so friendly!
-		- Sisu gets caught by a lotion salesperson lol
-		- With free lotion, Sisu’s obligated to purchase
+		- Sisu gets caught by a lotion salesperson lol—Raya, Raya, give me money to buy this lotion
 
 > **EXT. ALLEY, TALON - NIGHT**
 
@@ -912,7 +1289,7 @@ Yes. And we must prepare to meet them.
 	- The pair put on the local clothing outerwear (Raya backpacks the rest)
 - Sisu picks up a note attached to the package.
 	- Sisu: Hey, what’s this? “Guard up. Fang spy in Talon. Arrived few days ago.” You wrote this to yourself?
-- 
+- (they kena attacc)
 
 #### The Plan
 
@@ -958,8 +1335,9 @@ Yes. And we must prepare to meet them.
 #### Sacrifice
 
 - one of them sells Raya out to the local Talon authorities
-- Raya looks back; there isn’t much time.
-	- “My real name is Raya, daughter of Chief Benja of the tribe of Heart. The land of Kumandra fell apart because I made a mistake. Sisudatu is the Last Dragon. If you re-assemble the Gem, she will revive everyone who was turned to stone. Don’t trust anyone. Or do. I don’t know, I just know that I trust you. I have to.”
+- Raya looks back; there isn’t much time. The Druun approach.
+	- “My real name is Raya, daughter of Chief Benja of the tribe of Heart. The land of Kumandra fell apart because I made a mistake. Sisudatu is the Last Dragon. If you re-assemble the Gem shards from each tribe, she will revive everyone who was turned to stone. Don’t trust anyone. Or do. I don’t know, I just know that I trust you. I have to.”
+	- (that’s a banger voiceover snippet for a trailer)
 	- She throws over the satchel containing the Gem weapons.
 	- She looks away. “I’m sorry bá, I couldn’t do it.”
 - Noi takes Raya’s place
@@ -977,7 +1355,7 @@ Yes. And we must prepare to meet them.
 - Raya freaks out. Wails. Angry.
 
 
-# RAYA E4 - Spine
+# RAYA E5 - Spine
 
 ## Ideas
 
@@ -1019,6 +1397,6 @@ Yes. And we must prepare to meet them.
 		- trust everyone?
 		- always cooperate?
 	- Fang: ruthless, internal trust
-		- always cheat?
+		- always cheat?—nah it gotta be more complex than that at this final stage
 - they find a water redirection
 	- Raya takes twice as long to find all river ends, because of all the redirection
