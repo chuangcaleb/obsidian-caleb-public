@@ -9,6 +9,8 @@ slug: disney's-raya-tv-series-pitch/raya-e3-tail-behind
 ---
 # RAYA E3 - Tail Behind
 
+[[#The Story|Skip To Story]]
+
 ## Planning Notes
 
 - 2024-08-09: just got the idea to rename Boun’s ship as “the Steamboat”. It’s such an apt and cultural name. I don’t think steamboats are of this time period, maybe it’s some dystopian prototype, just say it’s magic lol. And he’s gonna champion [steamboat](https://en.wikipedia.org/wiki/Hot_pot#Southeast_Asia) (hotpot – dish whereby a heat source placed on the dining table keeps a pot of soup stock simmering)!

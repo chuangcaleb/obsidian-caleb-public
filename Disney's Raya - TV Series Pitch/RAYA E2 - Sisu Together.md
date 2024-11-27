@@ -9,6 +9,8 @@ slug: disney's-raya-tv-series-pitch/raya-e2-sisu-together
 ---
 # RAYA E2 - Sisu Together
 
+[[#The Story|Skip To Story]]
+
 ## (Outdated) Planning Notes
 
 - In adding depth to Sisu's characterization, I'd like for her to use weird old-timey terms and a foreign language to describe things and places. Kind of like ATLA's Aang saying "flameo hotman"! Which is way better than Sisu spouting Gen Z slang.

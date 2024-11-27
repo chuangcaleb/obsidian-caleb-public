@@ -16,6 +16,8 @@ slug: disney's-raya-tv-series-pitch/raya-e1-kumandra-divided
 
 > Theme: The Zero-Sum World of Kumandra - Past, Present, Future
 
+[[#Planning Notes|Skip To Story]]
+
 ## Planning Notes
 
 ### Narrative sequence vs chronological sequence

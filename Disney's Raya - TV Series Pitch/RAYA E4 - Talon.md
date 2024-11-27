@@ -15,6 +15,8 @@ Theme: Kumandra’s repeat interactions
 
 > **🚧 WIP**, come talk to me IRL for more heh
 
+[[#Workspace|Skip To Story]]
+
 ## Ideas
 
 - repeat interactions—**REPUTATION**
