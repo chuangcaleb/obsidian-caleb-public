@@ -13,6 +13,7 @@ collectionItems:
   - now/now-2024-08
   - now/now-2024-07
   - now/now-2024-06
+  - 2024-stories-consumed
 slug: now
 ---
 # Now

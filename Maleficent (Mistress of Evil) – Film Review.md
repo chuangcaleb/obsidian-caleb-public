@@ -5,10 +5,9 @@ up:
   - film-reviews
 wtsa_categories: 🎬 Film Reviews
 published: '2019-11-12'
-slug: maleficent-mistress-of-evil-film-review
+slug: maleficent-(mistress-of-evil)-film-review
 ---
-
-# Maleficent: Mistress of Evil – Film Review
+# Maleficent (Mistress of Evil) – Film Review
 
 Watched it two weeks ago and posted a story review for it but I think it’s neater in the long run to have a post.
 

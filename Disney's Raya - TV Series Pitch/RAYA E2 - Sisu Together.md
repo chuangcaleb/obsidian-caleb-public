@@ -102,11 +102,14 @@ slug: disney's-raya-tv-series-pitch/raya-e2-sisu-together
 - Chieftess Viraana, on the chief seat, points across the table—“Namaari?”
 	- Namaari, analyses out loud: “It has to be Tail. The Chieftess of Tail has been missing for two months, along with their Gem shard. They must be trying to steal our shard now that they’ve lost theirs. Besides, they are skilled infiltrators, they know how to strike our weak spots.”
 	- Viraana beams proudly. “My daughter, the sharpest among all Fang.”
-- Viraana to everyone: “Restore the water pipes, to keep out the Druun. But secure the entrypoints between every city sector—these Tail infiltrators are the real enemy.”
+- Viraana to everyone: “Restore the water pipes, send troops to the borders! Assure everyone that our Sceptre will go out to slay every last Druun!”
+	<!-- - “But secure the entrypoints between every city sector—these Tail infiltrators are the real enemy.” -->
 	- The Generals salute, and file out.
 - Now alone, Viraana turns to Namaari with the glowing Sceptre:
 	- Namaari rejects it: “We can hold off the Druun without bringing the Sceptre to the frontlines. We would practically be handing it to Tail.”
-	- Viraana: “Correct… Take the Sceptre to the secret vault. Nobody can know, not even the other Generals.”
+	- Viraana: “Correct… But if everyone believes that, even our own—then our Tail enemies would be drawn out of the city and we take the fight to our borders.”
+	- Namaari’s huffs, impressed.
+	- “Namaari, take the Sceptre to the secret vault. Nobody can know, not even the other Generals.”
 	- Namaari takes the Sceptre. “Other Generals?”
 	- Viranna: “I’m proud of you. My new Chief Military General.”
 		- Viraana presents a military armband.

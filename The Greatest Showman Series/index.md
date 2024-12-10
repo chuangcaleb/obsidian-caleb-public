@@ -27,7 +27,7 @@ slug: the-greatest-showman-series
 - format – lyric analysis, evaluations, connections & personal reflections
 - general feelings about show
 - addressing
-	- the real life Barnum
-	- Jeremy Jordan
-	- broken images, until I get it fixed
 	- can we separate message from medium?
+	- the real life Barnum / Jenny Lind
+	- Jeremy Jordan
+- broken images, until I get it fixed

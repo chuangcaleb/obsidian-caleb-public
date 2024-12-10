@@ -8,7 +8,7 @@ up:
   - whatsthestoryabout
 featured: 3
 collectionItems:
-  - maleficent-mistress-of-evil-film-review
+  - maleficent-(mistress-of-evil)-film-review
   - over-the-moon-film-review
   - netflix-avatar-live-action-reaction
   - mulan-ii-film-review

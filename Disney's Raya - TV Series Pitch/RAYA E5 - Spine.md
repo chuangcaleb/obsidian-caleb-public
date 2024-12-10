@@ -50,3 +50,11 @@ slug: disney's-raya-tv-series-pitch/raya-e5-spine
 		- always cheat?—nah it gotta be more complex than that at this final stage
 - they find a water redirection
 	- Raya takes twice as long to find all river ends, because of all the redirection
+- Spine stubborn self-ness
+	- Spine tribe chief with the Spear, fighting Druun
+	- gets injured, can’t fight effectively
+	- Raya or another MC asks for the Spear to fight for him and save him
+		- Raya wouldn’t have any artefacts of her own, at this point
+	- Spine chief stubbron, throws the spear out into the forest, gets lost
+		- gets petrified
+	- Now they gotta find lost artefact
